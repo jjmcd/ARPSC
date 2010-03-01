@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+  <section id="sect-NTS">
+    <title>NTS</title>
+    <section>
+      <title>Introduction</title>
+      <para>
+	<indexterm>
+	  <primary>National Traffic System</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Traffic Handling</primary>
+	</indexterm>
+	Messages are carried across North America, and across the Section, by
+	the National Traffic System.  NTS operators practice constantly and as a
+	result, are highly skilled at transmitting messges.
+	<note>
+	  <title>Practice makes perfect</title>
+	  <para>
+	    In contrast to ARES operators who exercise only occasionally, many
+	    NTS operators practice their skill <emphasis>every day</emphasis>.
+	  </para>
+	</note>
+      </para>
+      <para>
+	Of course, it is "common knowledge" that "NTS is dying", but here in the
+	Michigan Section, at least, NTS traffic has
+	<emphasis>increased</emphasis> every year since at least 2005 (the
+	earliest year for which the section has data).
+      </para>
+    </section>
+    <section>
+      <title>Why should ARES use NTS</title>
+      <para>
+	Since NTS operators have the skill, it only makes sense to use the best
+	possible service.  Obviously, NTS has little to offer for the local,
+	tactical communications that make up perhaps 99% of the communications
+	needed for any incident.  But when traffic needs to leave the county,
+	then it only makes good sense to rely on those who do it every day.
+	This also keeps resources free for urgent local needs.
+      </para>
+    </section>
+    <section>
+      <title>The structure of NTS</title>
+      <para>
+	<indexterm>
+	  <primary>National Traffic System</primary>
+	  <secondary>Structure of</secondary>
+	</indexterm>
+	NTS is structured into a series of layered nets.  Each level sends a
+	representative to the higher level.  Net schedules are arranged to
+	facilitate the rapid distribution of traffic across the system.  The
+	five layers of NTS nets are:
+	<itemizedlist>
+	  <listitem>
+	    <para>
+	      Local nets
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      <indexterm>
+		<primary>Section Nets</primary>
+	      </indexterm>
+	      <indexterm>
+		<primary>Nets</primary>
+		<secondary>Section</secondary>
+	      </indexterm>
+	      Section nets
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      <indexterm>
+		<primary>Region Nets</primary>
+	      </indexterm>
+	      <indexterm>
+		<primary>Nets</primary>
+		<secondary>Region</secondary>
+	      </indexterm>
+	      Region nets
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      <indexterm>
+		<primary>Area Nets</primary>
+	      </indexterm>
+	      <indexterm>
+		<primary>Nets</primary>
+		<secondary>Area</secondary>
+	      </indexterm>
+	      Area nets
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      <indexterm>
+		<primary>Transcontinental Corps</primary>
+	      </indexterm>
+	      The Transcontinental Corps
+	    </para>
+	  </listitem>
+	</itemizedlist>
+	<indexterm>
+	  <primary>Eighth Region Net</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Eastern Area Net</primary>
+	</indexterm>
+	Local nets send a representative to the Section nets.  A Michigan
+	representative to the Eighth Region net (8RN) is designated for each
+	meeting of 8RN to carry traffic from the Section nets to the Eighth
+	Region.  8RN in turn sends a representative to the Eastern Area net
+	(EAN).  Transcontinental Corps (TCC) members then carry traffic between
+	the areas, where it is then distributed downwards through the same
+	structure until it can be delivered.
+      </para>
+    </section>
+    <section>
+      <title>Michigan NTS Nets</title>
+      <para>
+	<indexterm>
+	  <primary>Nets</primary>
+	  <secondary>Michigan</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>Michigan Nets</primary>
+	</indexterm>
+	Michigan has four affiliated VHF nets and seven HF nets.  These nets,
+	their net managers, frequencies and schedules are available at <ulink
+	type="http"
+	url="http://www.mi-nts.org/netinfo.php">http://www.mi-nts.org/netinfo.php</ulink>.
+      </para>
+      <para>
+	The VHF nets tend to be oriented toward training, although they handle
+	substantial amounts of traffic.  Some of the HF nets, notably QMN and
+	MITN, are somewhat "hard core", focusing solely on traffic and generally
+	having very short sessions.  The others are more general nets where
+	traffic is passed but that is not the sole purpose of the net.
+      </para>
+      <para>
+	Although there are significant month to month variations, Michigan nets
+	report handling between 600 and 1000 messages each month, with
+	approximately two-thirds of that handled by QMN, MITN and MVTN.
+      </para>
+    </section>
+  </section>
