@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE Article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<appendix>
+    <title>District Map</title>
+
+	<para>
+	  <figure float="0"><title>District Map</title>
+	    <mediaobject>
+	      <imageobject>
+		<imagedata scale="99" scalefit="1"
+              fileref="images/DistrictMap.png" format="PNG"/>
+	      </imageobject>
+	      <textobject>
+		<para>
+		  District Map
+		</para>
+	      </textobject>
+	    </mediaobject>
+	  </figure>
+    </para>
+
+</appendix>
+

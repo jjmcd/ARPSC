@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE Article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<articleinfo>
+  <title>Position Manual</title>
+  <subtitle>RACES SEOC Representitive Duties</subtitle>
+  <productname>RACES</productname>
+  <productnumber>1.0</productnumber>
+  <edition>0</edition>
+  <pubsnumber>0</pubsnumber>
+  <abstract>
+    <para>
+      When the State Emergency Operations Center is activated, a RACES
+      representative sits in the State EOC.  This document outlines the
+      duties of that representative.  In addition, useful reference material
+      is provided.
+    </para>
+  </abstract>
+  <corpauthor>
+    <inlinemediaobject>
+      <imageobject>
+	<imagedata fileref="Common_Content/images/title_logo.png" format="PNG"></imagedata>
+      </imageobject>
+    </inlinemediaobject>
+  </corpauthor>
+  <xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+  <xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+</articleinfo>

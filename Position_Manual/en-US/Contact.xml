@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE Article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+
+<appendix>
+    <title>SEOC Contacts</title>
+
+    <section>
+      <title>Collins Road</title>
+      <para>
+	<itemizedlist>
+	  <listitem>
+	    <para>HF/VHF Phone Position - 517-336-3984</para>
+	  </listitem>
+	  <listitem>
+	    <para>CW Position - 517-324-2381</para>
+	  </listitem>
+	</itemizedlist>
+      </para>
+    </section>
+    <section>
+      <title>Leadership Cell Phones</title>
+      <para>
+	<itemizedlist>
+	  <listitem>
+	    <para>SEC WB8RCR - 989-430-4855</para>
+	  </listitem>
+	  <listitem>
+	    <para>ASEC N8ERF - 989-948-5427</para>
+	  </listitem>
+	  <listitem>
+	    <para>SM - WA8EFK - 313-920-2785</para>
+	  </listitem>
+	</itemizedlist>
+      </para>
+    </section>
+
+    <section>
+      <title>MSP Contacts</title>
+      <para>
+	The following are key Michigan State Police contacts.  If these
+	individuals are on duty, they will typically be in the SEOC:
+      </para>
+      <para>
+	<simplelist>
+	  <member>Operations Section Chief - Jim Porcello</member>
+	</simplelist>
+	<simplelist>
+	  <member>Director EMHSD - Capt. Thomas Sands</member>
+	</simplelist>
+	<simplelist>
+	  <member>Assistant Director EMHSD - Tony Katarski</member>
+	</simplelist>
+	<simplelist>
+	  <member>Logistics Section Chief - Tom Newell</member>
+	</simplelist>
+	<simplelist>
+	  <member>Incident Commander - F/Lt. Ralph Hobrat</member>
+	</simplelist>
+	<simplelist>
+	  <member>E-Team contact - Jaclyn Barcroft</member>
+	</simplelist>
+	<simplelist>
+	  <member>I/T assistance - Rich Law</member>
+	</simplelist>
+	<simplelist>
+	  <member>MSP Training Director - Dan Sibo</member>
+	</simplelist>
+	<simplelist>
+	  <member>Operations Director - Lt. Bonnie Kanicki-Wilson</member>
+	</simplelist>
+	<simplelist>
+	  <member>REP training contact - Sgt. Mardella Hohrn</member>
+	</simplelist>
+      </para>
+    </section>
+
+  </appendix>

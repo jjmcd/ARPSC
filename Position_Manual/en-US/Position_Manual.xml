@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE Article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<article>
+  <xi:include href="Article_Info.xml"
+	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+  <xi:include href="Duties.xml"
+	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+  <xi:include href="Specific_Duties.xml"
+	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+  <xi:include href="ETeam.xml"
+	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+  <xi:include href="Contact.xml"
+	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+  <xi:include href="District_Map.xml" 
+	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+  <xi:include href="DEC_contact.xml" 
+	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+  <xi:include href="EC_contact.xml" 
+	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+  <!--<xi:include href="Legal_Include.xml"
+	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include> -->
+  <xi:include href="Revision_History.xml" 
+	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+<!--  <index>
+  </index> -->
+</article>
