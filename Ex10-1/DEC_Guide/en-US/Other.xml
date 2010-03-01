@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+  <section id="sect-Other">
+    <title>Other SEOC Communications</title>
+    <section>
+      <title>Introduction</title>
+      <para>
+	During any statewide exercise, each program often wants to test circuits
+	from their local EOC to the State EOC.  Limited opportunities will be
+	available during this exercise.
+      </para>
+    </section>
+    <section>
+      <title>HF Phone</title>
+      <para>
+	Because we wish to engage all the HF nets, the HF phone capability of
+	the SEOC will be exhausted during this exercise.  Direct contact over HF
+	phone from the individual counties is unwelcome for this exercise.
+      </para>
+    </section>
+
+    <section>
+      <title>HF CW</title>
+      <para>
+	To accomodate direct communications with individual counties, the SEOC
+	will monitor 3.563 MHz CW from 9:00 AM to 11:00 AM during the exercise.
+      </para>
+    </section>
+
+    <section>
+      <title>HF Digital</title>
+      <para>
+	The SEOC will not be using HF digital modes during the exercise.
+      </para>
+    </section>
+
+    <section>
+      <title>VHF/UHF Phone</title>
+      <para>
+	This is a simplex exercise.  As such, VHF phone connections will not be
+	appropriate from most programs.  To accomodate nearby programs or
+	VHF/UHF relays, the SEOC will monitor 147.54 MHz and 446.00 MHz from
+	10:00 AM to 11:00 AM.
+      </para>
+    </section>
+
+    <section>
+      <title>VHF Packet</title>
+      <para>
+	The SEOC will be available to receive formal traffic on
+	<email>seoc@seoc.ampr.org</email>. Replies may or may not be timely.
+	The station will also monitor CONV channel 911.
+      </para>
+    </section>
+
+  </section>

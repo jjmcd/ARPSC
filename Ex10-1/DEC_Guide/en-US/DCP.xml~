@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<section id="sect-DCP">
+  <title>District Communications Plan</title>
+  <section>
+    <title>Introduction</title>
+    <para>
+      <indexterm>
+	<primary>Communications Plan</primary>
+      </indexterm>
+      One obvious failure that was exposed is the lack of adequate
+      plans for communications among the counties in a District.
+      Certainly there has been discussion, and also discussion about
+      communications between Districts.  But before we develop between
+      District plans, we need to have the problem solved within a
+      District.
+    </para>
+  </section>
+  <section>
+    <title>Call Trees</title>
+    <para>
+      <indexterm>
+	<primary>Call Tree</primary>
+      </indexterm>
+      Many counties, and even a few Districts, have call trees
+      established, although these are rarely up to date.  Certainly,
+      we should use every technology at our disposal, and the
+      telephone is a common, and reliable mode.
+    </para>
+    <para>
+      However, this mode will not work if the numbers are out of date,
+      if we only have home numbers and people are away from their
+      phones, or, of course, if the phones are out.  These systems
+      need to be tested frequently, but backup mechanisms must also be
+      in place.
+    </para>
+  </section>
+</section>

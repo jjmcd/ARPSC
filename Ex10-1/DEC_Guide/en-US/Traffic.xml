@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+  <section id="sect-Traffic">
+    <title>Traffic Flow</title>
+    <section>
+      <title>Introduction</title>
+      <para>
+	In order to engage all the affiliated nets, and to also encourage the
+	DECs to develop relationships with their local VHF net, traffic will
+	be routed through all the nets.
+      </para>
+      <para>
+	At the beginning of the exercise, the SEOC will transmit queries to each
+	District through HF nets.  These messages will flow through NTS to each
+	District.  The nature of the query will require that the District query
+	each of it's counties.  The result will then be pushed back through NTS
+	ultimately arrivng at the SEOC via an HF net.
+      </para>
+    </section>
+    <section>
+      <title>Traffic Flow</title>
+      <para>
+	Four HF nets will meet in sequence receiving traffic from the SEOC.
+	Each of these nets will include representatives from a VHF net.  These
+	reps will then take the traffic to the VHF net for delivery to the
+	District.  After composing a response, the District will deliver it's
+	answer to that same VHF net, who in turn will send a representative to
+	one of two HF nets meeting with the SEOC later in the morning.
+	<figure float="0"><title>Traffic Flow Diagram</title>
+	  <mediaobject>
+	    <imageobject>
+	      <imagedata scale="99" scalefit="1" fileref="images/traffic-2.png"
+		format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <para>
+		Traffic Flow
+	      </para>
+	    </textobject>
+	  </mediaobject>
+	</figure>
+      </para>
+    </section>
+    <section>
+      <title>Net Schedule</title>
+      <para>
+	Each HF net has a specific time slot with the SEOC.  It is presumed that
+	the VHF net will meet following the HF meeting at the beginning of the
+	exercise, and before the HF net at the end of the exercise.
+	<figure float="0"><title>Net Schedule</title>
+	  <mediaobject>
+	    <imageobject>
+	      <imagedata scale="99" scalefit="1" fileref="images/NetSked-2.png"
+		format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <para>
+		Net Schedule
+	      </para>
+	    </textobject>
+	  </mediaobject>
+	</figure>
+      </para>
+    </section>
+  </section>
