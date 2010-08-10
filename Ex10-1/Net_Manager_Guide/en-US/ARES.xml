@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+  <section id="sect-ARES">
+    <title>ARES</title>
+    <section>
+      <title>Introduction</title>
+      <para>
+	<indexterm>
+	  <primary>Amateur Radio Emergency Services</primary>
+	</indexterm>
+	ARES is the "feet on the ground" side of ARPSC.  NTS is the behind the
+	scenes engine that moves messages.  Because it is largely involved in
+	local response, ARES is not often visible to NTS operators.  However, in
+	the Michigan Section we have approxmately 2,000 ARES members.  It is a
+	large, highly structured organization which works closely with the
+	Michigan State Police, local emergency management, and many other public
+	service and public safety organizations.
+      </para>
+    </section>
+    <section>
+      <title>ARES Structure</title>
+      <para>
+	ARES is organized along the State Police Districts.  There are 11
+	District Emergency Coordinators reporting to the Section Emergency
+	Coordinator.  These DECs represent the seven State Police Districts and
+	the four National Weather Service offices in Michigan.
+      </para>
+      <para>
+	Each of Michigan's 83 counties has an Emergency Coordinator who reports
+	to the respective District Emergency Coordinator.  These ECs and DECs
+	often have assistants with specific responsibilities.  SKYWARN is often
+	closely associated with ARES, and many Assistant Emergency Coordinators
+	serve as their county's SKYWARN coordinator.
+      </para>
+      <para>
+	Each county has a local organization whose size and responsibilities
+	vary widely depending on the size and needs of the county.  In some
+	rural counties the organization may consist of only two or three
+	members, while a larger county may boast hundreds of members.
+      </para>
+      <para>
+	At each level, ARES officials are aligned with government officials, and
+	often work closely with them.  The SEC works closely with the State
+	Police Logistics Section Chief, the DECs work with MSP's District
+	Coordinators, and the county ECs align with their individual county
+	Emergency Manager.  Whenever possible, the appointments are made jointly
+	between the Section Manager and the appropriate government official.
+	DECs serving NWS offices are aligned with that office's Warning
+	Coordination Meterologist.
+      </para>
+
+    </section>
+
+  </section>

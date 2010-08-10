@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+  <section id="sect-DCP">
+    <title>District Communications Plan</title>
+    <section>
+      <title>Introduction</title>
+      <para>
+	<indexterm>
+	  <primary>Communications Plan</primary>
+	</indexterm>
+	One obvious failure that was exposed is the lack of adequate
+	plans for communications among the counties in a District.
+	Certainly there has been discussion, and also discussion about
+	communications between Districts.  But before we develop between
+	District plans, we need to have the problem solved within a
+	District.
+      </para>
+    </section>
+    <section>
+      <title>Call Trees</title>
+      <para>
+	<indexterm>
+	  <primary>Call Tree</primary>
+	</indexterm>
+	Many counties, and even a few Districts, have call trees
+	established, although these are rarely up to date.  Certainly,
+	we should use every technology at our disposal, and the
+	telephone is a common, and reliable mode.
+      </para>
+      <para>
+	However, this mode will not work if the numbers are out of date,
+	if we only have home numbers and people are away from their
+	phones, or, of course, if the phones are out.  These systems
+	need to be tested frequently, but backup mechanisms must also be
+	in place.
+      </para>
+    </section>
+    <section>
+      <title>Pagers</title>
+      <para>
+	<indexterm>
+	  <primary>pagers</primary>
+	</indexterm>
+	Many programs have pagers, either provided by their counties, or
+	developed by the programs themselves.  Pagers tend to be more reliable
+	than cellular systems, but few, if any, Districts have paging systems
+	for all the counties in the District.
+      </para>
+    </section>
+    <section>
+      <title>Email Notification</title>
+      <para>
+	<indexterm>
+	  <primary>Email Notification</primary>
+	</indexterm>
+	Most, if not all, Districts have email lists for notifying the various
+	ECs of an event.  However, email is not real time, and most ECs do not
+	have mobile email devices, so email is not appropriate for notfication
+	of an incident.  In addition, many types of incidents can impact local
+	Internet connections (although widespread Internet outages are virtually
+	unheard of).
+      </para>
+    </section>
+    <section>
+      <title>Text Messaging</title>
+      <para>
+	<indexterm>
+	  <primary>Text Messaging</primary>
+	</indexterm>
+	In cases where all ECs have cellular telephones, notifications based on
+	text messaging can be effective.  However, keep in mind that in the
+	event of an actual incident, or even a high profile exercise, cellular
+	systems will fail almost immediately, so this method is of limited use
+	in the event of an actual incident.
+      </para>
+    </section>
+    <section>
+      <title>Repeater Systems</title>
+      <para>
+	<indexterm>
+	  <primary>Repeater Systems</primary>
+	</indexterm>
+	Many programs have some sort of scheme for notification by repeater, and
+	in most cases, the various counties in a District are at least aware of
+	the frequencies of repeaters in adjacent counties, so when the repeater
+	infrastructure is unaffected, repeaters are of course useful tools.
+      </para>
+      <para>
+	However, repeaters often have their vulnerabilities.  Often, they are
+	higher profile than home stations, so are more likely to be affected by
+	some kinds of weather events.  Repeaters are often isolated, and may not
+	be in hardened sites, so can be affected by vandalism and other human
+	caused incidents.  Repeaters often have some backup power, but
+	frequently that backup power is limited.
+      </para>
+    </section>
+    <section>
+      <title>Simplex Systems</title>
+      <para>
+	<indexterm>
+	  <primary>Simplex Systems</primary>
+	</indexterm>
+	Most programs do not have reliable simplex systems thought out, but
+	certainly, they offer the potential for greater robustness than most
+	other systems.  To be effective, however, all parties need to know what
+	is expected.
+      </para>
+      <para>
+	Some things to consider:
+	<itemizedlist spacing="compact">
+	  <listitem>
+	    <para>
+	      There must be a prearranged and well communicated plan for
+	      frequencies to be used
+	    </para>
+	  </listitem> 
+	  <listitem>
+	    <para>
+	      There must be a prearranged schedule
+	    </para>
+	  </listitem> 
+	  <listitem>
+	    <para>
+	      Each key station should be able to operate for an extended period
+	      of time removed from commercial mains
+	    </para>
+	  </listitem> 
+	  <listitem>
+	    <para>
+	      Each key station should have a backup plan in the event of antenna
+	      damage or equipment malfunction
+	    </para>
+	  </listitem>
+	</itemizedlist>
+	<warning>
+	  <title>The plan must be communicated</title>
+	  <para>
+	    No plan can be effective unless all affected parties are well aware
+	    of the content of the plan and are capable of implementing it
+	  </para>
+	</warning>
+      </para>
+    </section>
+  </section>

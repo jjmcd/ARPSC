@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+  <section id="sect-Interfaces">
+    <title>NTS Net Interfaces</title>
+    <section>
+      <title>Introduction</title>
+      <para>
+	<indexterm>
+	  <primary>DEC</primary>
+	  <secondary>Planning</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>Net Manager</primary>
+	  <secondary>Planning</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>Planning</primary>
+	  <secondary>Need for</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>Planning</primary>
+	  <secondary>DECs</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>Planning</primary>
+	  <secondary>Net Managers</secondary>
+	</indexterm>
+	At each level, representatives will need to interface with other nets or
+	Districts.  Interfaces between HF and VHF nets are common, and in many
+	cases, well established.  However, DECs will need to identify the
+	appropriate nets and make plans to receive traffic from the net and
+	return a response later.
+	<important>
+	  <title>Planning is required - VHF Net managers should arrange well in
+	    advance for interfaces with the appropriate DEC.
+	  </title><para>&nbsp;</para>
+	</important>
+      </para>
+    </section>
+    <section>
+      <title>District Interfaces</title>
+      <para>
+	<indexterm>
+	  <primary>Nets</primary>
+	  <secondary>ARES Interface with</secondary>
+	</indexterm>
+	Each District will interface with one VHF net.  There will be an inbound
+	and an outbound "session".  However, this will not be a traditional net
+	session.   Since this is a simplex exercise, and the VHF nets typically
+	meet on a repeater or linked system, the Net Manager and DEC will need
+	to establish a simplex path or relay from the net to the District.
+      </para>
+      <para>
+	<table frame="none">
+	  <title>District Interfaces</title>
+	  <tgroup cols="4">
+	    <thead>
+	      <row>
+		<entry>District</entry>
+		<entry>Contact Net</entry>
+		<entry>Inbound Time</entry>
+		<entry>Outbound Time</entry>
+	      </row>
+	    </thead>
+	    <tbody>
+
+	      <row>
+		<entry>1</entry>
+		<entry>SEMTN</entry>
+		<entry>0900</entry>
+		<entry>1130</entry>
+	      </row>
+	      <row>
+		<entry>2</entry>
+		<entry>SEMTN</entry>
+		<entry>0900</entry>
+		<entry>1130</entry>
+	      </row>
+	      <row>
+		<entry>3</entry>
+		<entry>TMMTN</entry>
+		<entry>0930</entry>
+		<entry>1130</entry>
+	      </row>
+	      <row>
+		<entry>5</entry>
+		<entry>MVTN</entry>
+		<entry>0830</entry>
+		<entry>1100</entry>
+	      </row>
+	      <row>
+		<entry>6</entry>
+		<entry>MVTN</entry>
+		<entry>0830</entry>
+		<entry>1100</entry>
+	      </row>
+	      <row>
+		<entry>7</entry>
+		<entry>MVTN</entry>
+		<entry>0830</entry>
+		<entry>1100</entry>
+	      </row>
+	      <row>
+		<entry>8</entry>
+		<entry>NLEUP</entry>
+		<entry>1000</entry>
+		<entry>1130</entry>
+	      </row>
+	      <row>
+		<entry>APX</entry>
+		<entry>MVTN</entry>
+		<entry>0830</entry>
+		<entry>1100</entry>
+	      </row>
+	      <row>
+		<entry>DTX</entry>
+		<entry>SEMTN</entry>
+		<entry>0900</entry>
+		<entry>1130</entry>
+	      </row>
+	      <row>
+		<entry>GRR</entry>
+		<entry>MVTN</entry>
+		<entry>0830</entry>
+		<entry>1100</entry>
+	      </row>
+	      <row>
+		<entry>MQT</entry>
+		<entry>NLEUP</entry>
+		<entry>1000</entry>
+		<entry>1130</entry>
+	      </row>
+	    </tbody>
+	  </tgroup>
+	</table>
+      </para>
+
+      <para>
+	<indexterm>
+	  <primary>Planning</primary>
+	  <secondary>Net Managers</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>Planning</primary>
+	  <secondary>DECs</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>DEC</primary>
+	  <secondary>Planning</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>Net Manager</primary>
+	  <secondary>Planning</secondary>
+	</indexterm>
+	<warning>
+	  <title>VHF Net Managers Note:
+	    Since we will not be using repeaters, you will need to establish a
+	    relay between your net and the appropriate District(s).
+	  </title><para>&nbsp;</para>
+	</warning>
+	Each DEC will need to work with the appropriate net manager well ahead
+	of time to determine stations and schedules that will allow the traffic
+	picked up by the net to be delivered to the District, and allow
+	responses from the District to be routed back through the net.
+      </para>
+      <para>
+	This is especially challenging for the VHF nets.  Each VHF net will need
+	to arrange contacts with multiple DECs.  In addition to messages to each
+	of the seven MSP Districts, there will also be traffic for the various
+	NWS offices.  While each DEC only has one net to be concerned with, the
+	VHF nets have between one and seven DECs to interface with.
+      </para>
+      <para>
+	Since some of the VHF nets cover a substantial area, and this is to be a
+	simplex exercise, it may take a large number of relays to deliver the
+	traffic.  The DECs have at their disposal a large number of operators
+	who may be able to assist, but by and large these operators have no
+	traffic experience.  Each of the net managers will need to provide
+	substantial guidance and mentoring to these inexperienced operators.
+      </para>
+    </section>
+
+    <section>
+      <title>Scheduled Nets</title>
+      <para>
+	<indexterm>
+	  <primary>Net Schedule</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Nets</primary>
+	  <secondary>Timeline</secondary>
+	</indexterm>
+	Since the SEOC must meet with seven HF nets over the course of the
+	morning, the HF nets require a prearranged schedule.  VHF net meetings
+	may vary, but they will need to be close to the times below, given their
+	interfaces with the HF nets.
+      </para>
+      <para>
+	<table frame="all">
+	  <title>District Interfaces</title>
+	  <tgroup cols="2">
+	    <thead>
+	      <row>
+		<entry>Time</entry>
+		<entry>Net</entry>
+	      </row>
+	    </thead>
+	    <tbody>
+
+	  <row><entry>0800</entry><entry>MITN picks up traffic from SEOC sends
+	      reps to MVTN</entry></row>
+
+	  <row><entry>0830</entry><entry>MACS picks up traffic from SEOC sends
+	      reps to SEMTN</entry></row>
+
+	  <row><entry>0830</entry><entry>MVTN delivers traffic to D5, 6, 7
+	    </entry></row>
+
+	  <row><entry>0900</entry><entry>Wolverine picks up traffic from SEOC
+	      sends reps to TMMTN</entry></row>
+
+	  <row><entry>0900</entry><entry>SEMTN delivers traffic to D1, 2
+	    </entry></row>
+
+	  <row><entry>0930</entry><entry>UP Net picks up traffic from SEOC
+	      sends reps to NLEUP</entry></row>
+
+	  <row><entry>0930</entry><entry>TMMTN delivers traffic to D3
+	    </entry></row>
+
+	  <row><entry>1000</entry><entry>NLEUP delivers traffic to D8
+	    </entry></row>
+
+	  <row><entry>1100</entry><entry>MVTN picks up traffic from D5, 6, 7,
+	      sends reps to GLETN</entry></row>
+
+	  <row><entry>1130</entry><entry>GLETN meets delivers traffic
+	      to SEOC</entry></row>
+
+	  <row><entry>1130</entry><entry>SEMTN picks up traffic from D1, 2
+	      sends reps to QMN</entry></row>
+
+	  <row><entry>1130</entry><entry>TMMTN picks up traffic from D3
+	      sends reps to QMN</entry></row>
+
+	  <row><entry>1130</entry><entry>NLEUP picks up traffic from D8
+	      sends reps to QMN</entry></row>
+
+	  <row><entry>1200</entry><entry>QMN meets delivers traffic
+	      to SEOC</entry></row>
+
+	    </tbody>
+	  </tgroup>
+	</table>
+
+
+      </para>
+    </section>
+
+
+    <section>
+      <title>VHF Net Interfaces</title>
+      <para>
+	<indexterm>
+	  <primary>Net Interfaces</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Nets</primary>
+	  <secondary>Interface with other nets</secondary>
+	</indexterm>
+	VHF Net Managers willl need to arrange liaisons with two HF nets, one
+	for traffic flowing into the net and one for traffic leaving the net.
+      </para>
+      <para>
+	<table frame="none">
+	  <title>VHF Net Interfaces</title>
+	  <tgroup cols="3">
+	    <thead>
+	      <row>
+		<entry>VHF Net</entry>
+		<entry>Inbound Net</entry>
+		<entry>Outbound Net</entry>
+	      </row>
+	    </thead>
+	    <tbody>
+
+	      <row>
+		<entry>MVTN</entry>
+		<entry>MITN</entry>
+		<entry>GLETN</entry>
+	      </row>
+	      <row>
+		<entry>NLEUP</entry>
+		<entry>UP</entry>
+		<entry>QMN</entry>
+	      </row>
+	      <row>
+		<entry>SEMTN</entry>
+		<entry>MACS</entry>
+		<entry>QMN</entry>
+	      </row>
+	      <row>
+		<entry>TMMTN</entry>
+		<entry>Wolverine</entry>
+		<entry>QMN</entry>
+	      </row>
+	    </tbody>
+	  </tgroup>
+	</table>
+
+      </para>
+    </section>
+
+    <section>
+      <title>Contact List</title>
+      <para>
+	The following contacts must be made during March to arrange liaisons,
+	VHF relays, etc:
+
+	<indexterm>
+	  <primary>Contacts</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Net Managers</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>DECs</primary>
+	</indexterm>
+	<table frame="all">
+	  <title>Contact Pairs</title>
+	  <tgroup cols="2">
+	    <tbody>
+
+	      <row>
+		<entry>Davis, Ted N8ZSA</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>WB8WKQ </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Duggan, Red WA8RLI</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>AC8AR </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Fleming, John K8UP</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>WB8WKQ </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Flickinger, Carl KB8FQJ</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>AC8AR </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Gage, Michael N8VLN</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>AC8AR </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Gagnon, Aileen WA8DHB</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>KG8NK </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Gebolis, Lou KG8NK</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>WA8DHB </para></listitem>
+		    <listitem><para>K8AE </para></listitem>
+		    <listitem><para>KI8AF </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Hanson, Greg KI8AF</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>KG8NK </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Miller, Jeff WB8WKQ</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>AC8AR </para></listitem>
+		    <listitem><para>WB9JSR </para></listitem>
+		    <listitem><para>K8AE </para></listitem>
+		    <listitem><para>N8ZSA </para></listitem>
+		    <listitem><para>K8YZA </para></listitem>
+		    <listitem><para>K8UP </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Pullen, Joseph K8YZA</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>WB8WKQ </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Stinson, Chris KC8YTK</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>AC8AR </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Travis, Anne K8AE</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>KG8NK </para></listitem>
+		    <listitem><para>K8MFK </para></listitem>
+		    <listitem><para>WB8WKQ </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Tuscher, Joe N8OSL</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>K8MFK </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>van der Mel, Tom KB8VEE</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>AC8AR </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Warczynski, Ron K9RON</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>K8MFK </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Warsalla, Frank K8MFK</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>K9RON </para></listitem>
+		    <listitem><para>N8OSL </para></listitem>
+		    <listitem><para>K8AE </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Wehmer, John WB9JSR</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>WB8WKQ </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Wiswasser, Jack WA8IAL</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>AC8AR </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>Young, Jean AC8AR</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>WB8WKQ </para></listitem>
+		    <listitem><para>KB8FQJ </para></listitem>
+		    <listitem><para>KB8VEE </para></listitem>
+		    <listitem><para>WA8RLI </para></listitem>
+		    <listitem><para>N8VLN </para></listitem>
+		    <listitem><para>KC8YTK </para></listitem>
+		    <listitem><para>WA8IAL </para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+
+	    </tbody>
+	  </tgroup>
+	</table>
+	</para>
+    </section>
+  </section>

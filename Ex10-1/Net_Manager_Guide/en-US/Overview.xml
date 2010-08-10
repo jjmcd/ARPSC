@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<section id="sect-Overview">
+  <title>Overview</title>
+  <section>
+    <title>Introduction</title>
+    <para>
+      Over the past several years, many people have asked for more
+      exercises.  This year the section hopes to have at least three,
+      including the annual SET.  The first of these is planned for
+      April.
+    </para>
+  </section>
+  <section>
+    <title>Driving Forces</title>
+    <para>
+      The 2009 SET exposed several serious shortcomings in our level
+      of readiness.  The target of this exercise will be to help
+      develop capabilities to fill those shortcomings.
+    </para>
+    <para>
+      <itemizedlist>
+	<listitem>
+	  <para>
+	    <indexterm>
+	      <primary>Net Leadership</primary>
+	    </indexterm>
+	    Lack of leadership within nets
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <indexterm>
+	      <primary>ARES</primary>
+	    </indexterm>
+	    Lack of understanding of/interface to ARES
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <indexterm>
+	      <primary>Planning</primary>
+	    </indexterm>
+	    Overall lack of planning
+	  </para>
+	</listitem>
+      </itemizedlist>
+    </para>
+  </section>
+  <section>
+    <title>Targets for the exercise</title>
+    <para>
+      <indexterm>
+	<primary>Exercise Targets</primary>
+      </indexterm>
+      To address these needs, we hope to accomplish one basic target;
+      communications from and to the State Emergency Operations Center
+      using formalized, predefined circuits.
+    </para>
+    <para>
+      <indexterm>
+	<primary>Simplex</primary>
+      </indexterm>
+      Communications for the exercise will be accomplished using
+      point-to-point phone circuits, both VHF and HF.  CW and packet
+      circuits will be available for those counties who wish to test
+      direct communications to the SEOC, but the primary exercise
+      objectives will be carried out over phone circuits.
+    </para>
+  </section>
+  <section>
+    <title>Capabilities to be developed</title>
+    <para>
+      Each net will need to develop some specific capabilities
+      prior to the exercise:
+      <itemizedlist>
+	<listitem>
+	  <para>
+	    <indexterm>
+	      <primary>Emergency Plans</primary>
+	    </indexterm>
+	    A plan for action in response to emergency or unusual needs among
+	    the various affiliated nets.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <indexterm>
+	      <primary>Amateur Radio Emergency Services</primary>
+	    </indexterm>
+	      An understanding by the Section National Traffic System leadership
+	      of the Amateur Radio Emergency Services and its possible needs in
+	      the event of an incident.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <indexterm>
+	      <primary>ARES Contacts</primary>
+	    </indexterm>
+	    A familiarity by NTS members of the individuals in leadership
+	    positions within ARES and their capabilities and assets.
+	  </para>
+	</listitem>
+      </itemizedlist>
+    </para>
+  </section>
+</section>

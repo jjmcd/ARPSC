@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+  <section id="sect-Objectives">
+    <title>Exercise Objectives</title>
+    <section>
+      <title>Introduction</title>
+      <para>
+	The point of any exercise should be to accomplish something.  This
+	section outlines some of the key objectives for the current exercise.
+      </para>
+    </section>
+    <section>
+      <title>Structured Communications</title>
+      <para>
+	<indexterm>
+	  <primary>Objectives</primary>
+	  <secondary>Structured Communications</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>Communications Structure</primary>
+	</indexterm>
+	The October 2009 SET had intended to demonstrate a structured flow of
+	messages between the counties and the State EOC, along existing chain of
+	command lines.  (If you will recall, an earlier exercise along an
+	incident-specific structure elicited some significant complaints.)
+      </para>
+      <para>
+	The results were not encouraging. Only one of the section nets organized
+	as expected, and few counties or Districts attempted to exploit the NTS
+	structure.  The exercise structure did leave the nets a lot of
+	opportunity to apply their own creativity, but apparently the intent was
+	insufficiently clear.
+      </para>
+      <para>
+	<indexterm>
+	  <primary>Net Schedule</primary>
+	</indexterm>
+	For this exercise, net schedules and message paths will be detailed
+	ahead of time.  Each section net has a schedule and specified liaisons.
+	Each District has specified liaisons.  There will still need to be some
+	thought applied to the interface between the District and the
+	appropriate VHF net, but both responsible parties are known well ahead
+	of time.
+      </para>
+    </section>
+
+    <section>
+      <title>Net Response Plan</title>
+      <para>
+	<indexterm>
+	  <primary>Objectives</primary>
+	  <secondary>Response Plan</secondary>
+	</indexterm>
+        Over recent years, it appears that nets have lost the ability or
+        incentive to be able to mobilize in response to an incident.  Nets are
+        accustomed to meeting at a specific time and frequency and somehow are
+        not prepared to change.
+      </para>
+      <para>
+	However, when an incident occurs, the National Traffic System is a vital
+	part of the overall response.  ARES units are structured to respond
+	locally, and their communications capability is largely local.  They
+	require the services of NTS for longer haul communications, as well as
+	to provide structure in the event of a heavy communications load.
+      </para>
+      <para>
+	This exercise will only take a small step in the direction of giving the
+	nets the skills needed.  There will be more interfaces with the ARES
+	organization, and an opportunity will be given for close leadership
+	cooperation between ARES and NTS.
+      </para>
+    </section>
+
+    <section>
+      <title>ARES Familiarity</title>
+      <para>
+	<indexterm>
+	  <primary>Amateur Radio Emergency Services</primary>
+	  <secondary>Familiarity with</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>Objectives</primary>
+	  <secondary>ARES Familiarity</secondary>
+	</indexterm>
+        Most net managers have little opportunity in ordinary circumstances to
+	interface with ARES organizations.  However, familiarity with the
+	individuals involved and their capabilities is vital if NTS is to offer
+	needed services in the event of an incident.  This exercise will give
+	NTS leaders some exposure to ARES leaders.  Especially in the case of
+	the VHF nets, they will need to work closely to be successful.
+      </para>
+      <para>
+	This, of course, is not sufficient, but it is a start.  Net managers
+	should begin thinking about issues such as:
+	<itemizedlist>
+	  <listitem>
+	    <para>
+	      What might my net be called on to do in the event of some kind of
+	      incident or emergency
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      How will I notify my members in the event of an unexpected net
+	      activation
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      If I need to activate at a different time of day, will I know how
+	      to respond to different band conditions
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      Do I know which net members might be available if we have a net
+	      meeting at a time different than normal
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      For VHF nets, do I have a plan to respond in the event my
+	      repeater is out of service
+	    </para>
+	  </listitem>
+	</itemizedlist>
+	These are only a few of the questions net managers should begin thinking
+	about.  This exercise will not answer these questions, but we hope to
+	begin providing the insight necessary for the nets to begin grappling
+	with them.
+      </para>
+    </section>
+
+</section>
