@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Net_Practices.ent">
+%BOOK_ENTITIES;
+]>
+<appendix id="appe-Net_Practices-Revision_History">
+  <title>Revision History</title>
+  <simpara>
+    <revhistory>
+      <revision>
+	<revnumber>1</revnumber>
+	<date>Wed Jul 7 2010</date>
+	<author>
+	  <firstname>John</firstname>
+	  <surname>McDonough</surname>
+	  <email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Initial draft</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
+      <revision>
+	<revnumber>0</revnumber>
+	<date>Mon Jul 5 2010</date>
+	<author>
+	  <firstname>John</firstname>
+	  <surname>McDonough</surname>
+	  <email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Initial creation of article by publican</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
+    </revhistory>
+  </simpara>
+</appendix>
+

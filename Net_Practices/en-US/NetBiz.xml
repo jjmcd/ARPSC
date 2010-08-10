@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+  <section id="chap-Net_Procedures-NetBiz">
+    <title>Net Business</title>
+    <para>
+      There is considerable variation in the way the nets in the Section conduct
+      business.  In most cases, there is no need for these differences.
+    </para>
+
+    <section id="sect-Net_Procedures-NetBiz-Announcements">
+      <title>Announcements</title>
+      <indexterm><primary>Announcements</primary></indexterm>
+      <indexterm><primary>QNC</primary></indexterm>
+      <para>
+	Announcements should be made after all checkins, but before other net
+	business.  NCS should try to arrange announcements to occur when all (or
+	most) of the checkins are present.  Since traffic on CW is generally
+	passed off-frequency and often routed as listed, it can take careful
+	planning on the part of NCS to ensure all members have an opportunity to
+	hear the announcement.
+      </para>
+    </section>
+    
+    <section id="sect-Net_Procedures-NetBiz-Traffic">
+      <title>Traffic</title>
+      <indexterm>
+        <primary>Traffic</primary>
+	<secondary>Passing</secondary>
+      </indexterm>
+      <para>
+	Traffic should be handled after all checkins and any announcements.
+	Some nets are tempted to move traffic during checkins, but this is
+	generally not desireable unless traffic is being handled off-frequency.
+	Stations want to get checked in as quickly as possible, and leave if
+	there is no traffic for them.  Handling traffic on-frequency before all
+	stations have checked in simply wastes time for stations that are not
+	yet checked in.
+      </para>
+      <para>
+	One obvious exception is when a net liaison has short time.  There are
+	occasions when a liaison needs to get traffic for a downstream net
+	passed early so that the liaison can get to the downstream net.  On
+	phone, it is often difficult to find another frequency to pass that
+	traffic, but NCS should endeavor to find an alternate frequency if
+	possible. 
+      </para>
+      <para>
+	Net control should consider the most effective way to route the traffic.
+	Traffic should be organized to get as many stations done with the net
+	business as possible, as early as possible.  When a pair of stations
+	have a long list of traffic, that traffic should be handled last in
+	order to get other stations checked out.  Obviously, other constraints
+	such as later nets and short time stations must be considered.
+      </para>
+      <para>
+	NCS should strive to become familiar with regular checkins and their
+	capabilities.  Often, two stations within VHF simplex range can be sent
+	to two meters to pass traffic off the net frequency.  Repeaters can be
+	used when repeater owners are amenable to using their machines for
+	traffic.
+      </para>
+    </section>
+    
+    <section id="sect-Net_Procedures-NetBiz-Routing">
+      <title>Routing Traffic</title>
+      <indexterm>
+	<primary>Traffic</primary>
+	<secondary>Routing</secondary>
+      </indexterm>
+      <para>
+	Net control should strive to route traffic in an effective fashion, with
+	an eye toward sharing the burden where possible.  It can be discouraging
+	to show up at a net night after night and have all traffic sent to
+	another station.
+      </para>
+      <para>
+	On the other hand, NCS should assume that net liaison stations are
+	willing to accept traffic bound for that net.  This is especially true
+	of Eighth Region and NWS reps.
+      </para>
+      <para>
+	Some net controls are reluctant to route traffic to stations who will
+	deliver it via a calling plan.  Certainly, it is preferable that traffic
+	be delivered by a station close to the destination.  However, except for
+	HXG traffic, messages should not be delayed simply because the net
+	control doesn't like how it will be delivered.  Even HXG traffic should
+	not be excessively delayed simply because NCS does not agree with the
+	form of delivery.  Nevertheless, it is preferable to find a local
+	station for delivery where that does not unduly delay the traffic.
+      </para>
+    </section>
+    
+    <section id="sect-Net_Procedures-NetBiz-TT">
+      <title>Training Topics</title>
+      <para>
+	<indexterm><primary>Training Topics</primary></indexterm>
+	Some nets have regular training topics.  Generally, these should be
+	transmitted after other net business, except in the case of nets whose
+	primary purpose is training (e.g. QMN TN).
+      </para>
+      <para>
+	<indexterm><primary>QNC</primary></indexterm>
+	Training topics should be introduced as formal QNCs where possible.
+	This has a number of advantages:
+	<itemizedlist>
+	  <listitem>
+	    <para>
+	      The formal QNC sends a signal to the membership that the
+	      delivering station has spent the time to prepare the topic in a
+	      concise, well-thought-out fashion.
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      Stations have a clean way to file and organize training topics for
+	      future reference.
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      Stations also have a convenient way to re-use the training topic
+	      in a later training session with a different group.
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      The delivering station has a convenient way of keeping track of
+	      what topics have been delivered.
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      Students get the additional practice of copying formal traffic.
+	    </para>
+	  </listitem>
+	</itemizedlist>
+      </para>
+    </section>
+    
+    <section id="sect-Net_Procedures-NetBiz-OverOut">
+      <title>Over vs. Out</title>
+      <indexterm><primary>MARS</primary></indexterm>
+      <para>
+	The recent influx of MARS members to the nets has caused more amateurs
+	to return to the proper use of the prowords
+	<application>Over</application> and <application>Out</application> which
+	had fallen into disuse in recent years. Net controls should set an
+	example for all stations, including appropriate use of these prowords.
+	<itemizedlist>
+	  <listitem>
+	    <para>
+	      <indexterm><primary>Over</primary></indexterm>
+	      <application>Over</application> means "I am finished transmitting
+	      and expect a reply from you".
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      <indexterm><primary>Out</primary></indexterm>
+	      <application>Out</application> means "I am finished transmitting
+	      and I do not expect a direct reply from you".
+	    </para>
+	  </listitem>
+	</itemizedlist>
+      </para>
+    </section>
+
+    <section id="sect-Net_Procedures-NetBiz-RogerWilco">
+      <title>Roger and Wilco</title>
+      <para>
+	<indexterm><primary>MARS</primary></indexterm>
+	<indexterm><primary>Roger</primary></indexterm>
+	<indexterm><primary>Wilco</primary></indexterm> Many stations also
+	misuse the term <application>Roger</application> which means "I have
+	received and understood your transmission".  Recently more stations
+	replace the <application>Roger</application> with the MARS term
+	<application>Wilco</application>, which means "Will comply".  This is
+	the preferred use when your intention is not only to acknowledge
+	receipt, but your intention to comply.
+      </para>
+    </section>
+    
+  </section>

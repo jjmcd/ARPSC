@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Net_Procedures.ent">
+%BOOK_ENTITIES;
+]>
+  <section id="chap-Net_Procedures-PassingTraffic">
+    <title>Passing Traffic</title>
+    <section id="sect-Net_Procedures-Passingtraffic-Break">
+      <title>Break</title>
+      <indexterm>
+	<primary>Traffic</primary>
+	<secondary>Passing</secondary>
+      </indexterm>
+      <indexterm><primary>Break</primary></indexterm>
+      <indexterm><primary>MARS</primary></indexterm>
+      <indexterm><primary>CW</primary></indexterm>
+      <para>
+	While there tend to be few, if any, net to net differences in the use of
+	the word <application>Break</application>, there are operator to
+	operator differences. It is significant because MARS usage of the word
+	is quite different than amateur radio use.
+      </para>
+      <para>
+	In many cases, amateurs can benefit from observing the generally more
+	disciplined MARS practice.  However, in this case, the use of the word
+	<application>Break</application> is well-established in amateur radio
+	and at odds with MARS use, so stations should be careful to avoid the
+	MARS practice in this instance.
+      </para>
+      <para>
+	Further complicating the issue is the fact that
+	<application>Break</application> is used entirely differently in the
+	context of a formal message than it's use outside a message.
+      </para>
+      <section>
+	<title>Break within a message</title>
+	<para>
+	  When used within the context of a formal message,
+	  <application>Break</application> has almost the same meaning as the CW
+	  "double-dash" character; a break between sections of a message.  The
+	  <application>Break</application> proword is used between the address
+	  and the body of a message, and between the body and the signature.
+	</para>
+	<para>
+	  On phone, <application>Break</application> has the added implication
+	  that the sender intends to release the microphone so that the
+	  receiving station may ask for fills, although this step is often
+	  omitted before the signature.  On CW, this is not necessary since most
+	  stations can receive while transmitting.
+	</para>
+      </section>
+
+      <section>
+	<title>Break outside a message</title>
+	<para>
+	  In amateur practice, a <application>Break</application> outside the
+	  context of a formal message means "I need to interrupt this
+	  conversation for something important".  <application>Break
+	  Break</application> means "I need to interrupt this conversation
+	  because of an emergency".  This is rather dramatically different than
+	  MARS practice, which is to use <application>Break</application> much
+	  the same as inside a message, so stations should be careful to avoid
+	  MARS practice and caution others as well.
+	</para>
+      </section>
+
+    </section>
+    
+  </section>
+

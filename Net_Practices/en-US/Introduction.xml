@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Net_Procedures.ent">
+%BOOK_ENTITIES;
+]>
+<section id="chap-Net_Procedures-Introduction">
+  <title>Introduction</title>
+    <indexterm><primary>Michigan Net, The</primary></indexterm>
+  <para>
+    The Michigan Section maintains a very strong NTS system.  The Michigan Net
+    was the first spot frequency net in the nation, perhaps in the world, and
+    developed many of the procedures used throughout NTS.  In spite of the
+    constant drumbeat of "NTS is dying", Michigan's nets continue to pass more
+    traffic year after year, and are continually improving their integration
+    into the State of Michigan's emergency response strategy.
+  </para>
+  <para>
+    Each of Michigan's affiliated and unaffiliated nets has its strengths and
+    weaknesses.  In an effort to continually improve Michigan's NTS system, this
+    document seeks to outline some of the better practices developed by some
+    nets in order that others may improve their own operation.
+  </para>
+
+  <section id="sect-Net_Procedures-Introduction-Net_Differences">
+    <title>Differences between nets</title>
+    <indexterm><primary>Michigan Net, The</primary></indexterm>
+    <indexterm><primary>QMN</primary></indexterm>
+    <indexterm><primary>Michigan Traffic Net</primary></indexterm>
+    <para>
+      The various nets are each unique.  Some of this uniqueness is valuable,
+      some is not.  The greater consistency we can achieve among the Michigan
+      nets, the more efficient they will be and the easier it will be for new
+      members to join a net.  The point of this document is to identify good
+      practices in the hope that the nets will adopt them where appropriate.
+    </para>
+    <para>
+      On the other hand, there are differences between the nets that serve a
+      purpose.  Some nets are hard-core traffic nets.  QMN is the prime example,
+      with the Michigan Traffic Net not far behind.  At the other extreme are
+      nets that focus on fraternity, such as the Wolverine Net.  These nets pass
+      little or no traffic.  Some nets have a training component which may be
+      important to many of the net's members.  Each net serves a particular
+      niche.
+    </para>
+  </section>
+  
+  <section id="sect-Net_Procedures-Introduction-Members">
+    <title>Net Members</title>
+    <para>
+      One important distinction between the nets is that they serve different
+      constituencies.  Many net members feel that handling traffic is boring and
+      takes time away from the important business of the net.  Others find the
+      idle chit-chat to be a waste of time, and want to get the traffic passed
+      as efficiently as possible.
+    </para>
+    <para>
+      One thing is consistent among these members, however; when traffic is
+      passed, it should be passed as expiditiously as possible.  Hard-core
+      traffic handlers pride themselves on efficiency.  Those less interested in
+      traffic handling want to get it out of the way as quickly as possible.
+    </para>
+  </section>
+
+</section>
+

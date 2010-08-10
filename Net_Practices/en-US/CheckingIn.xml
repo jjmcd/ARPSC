@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Net_Procedures.ent">
+%BOOK_ENTITIES;
+]>
+<section id="chap-Net_Procedures-CheckingIn">
+  <title>Checking In</title>
+    <indexterm><primary>Checking In</primary></indexterm>
+  <para>
+    The check-in procedure is a members' initial experience with the net, and
+    happens to be a place where the different nets vary widely.  Differences in
+    expectation among net members during the check in procedure often cause
+    confusion and wasted time.  This is an area where most nets should strive to
+    be as consistent as possible.
+  </para>
+
+  <section id="sect-Net_Procedures-CheckingIn-Preamble">
+    <title>Preamble</title>
+    <indexterm><primary>Preamble</primary></indexterm>
+    <para>
+      Most nets have some sort of a preamble, ranging from fairly terse to quite
+      lengthy.  The preamble does serve to welcome passers-by to the net and to
+      establish the net purpose.
+    </para>
+    <para>
+      Net Managers might take some time to evaluate whether their preamble
+      really serves the net.  For a hard-core traffic net is a lengthy preamble
+      really all that productive?  For a net with a more social purpose, does
+      the preamble serve as an invitation to new members?  Nets might consider
+      how appropriate their preamble is to their objectives.  This is a place
+      where diversity might be welcomed, but nets should periodically evaluate
+      their preamble against the net objectives, and be willing to change when
+      appropriate.
+    </para>
+    <para>
+      Once having become comfortable that the preamble is appropriate, net
+      managers should be sure that all net controls or potential net controls
+      have access to the agreed upon preamble.  Many nets have websites that
+      could provide a reference location for net controls; if not, the STM would
+      be happy to provide space on the <command>mi-nts</command> website.
+    </para>
+  </section>
+
+  <section id="sect-Net_Procedures-CheckingIn-Sequence">
+    <title>Sequence</title>
+      <indexterm>
+	<primary>Checking In</primary>
+	<secondary>Sequence</secondary>
+      </indexterm>
+      <indexterm>
+	<primary>Checking In</primary>
+	<secondary>Order</secondary>
+      </indexterm>
+      <indexterm>
+	<primary>Training Topics</primary>
+	<secondary>Checking In</secondary>
+      </indexterm>
+      <indexterm>
+	<primary>Announcements</primary>
+	<secondary>Checking In</secondary>
+      </indexterm>
+      <indexterm>
+	<primary>Emergency Traffic</primary>
+	<secondary>Checking In</secondary>
+      </indexterm>
+    <para>
+      The order in which check-ins are requested is something that varies
+      greatly from net to net, and, in the opinion of the STM, is not a place
+      where diversity is useful or welcome.
+    </para>
+    <para>
+      The following order is proposed as a standard (phone proceures shown):
+      <orderedlist>
+	<listitem>
+	  <para>
+	    <application>Is there any emergency or priority
+	    traffic?</application>
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <application>Are there any mobile, portable, QRP or light copy
+	    stations for the net?</application>
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <application>Do we have a liaison from <replaceable>The Michigan
+	    Net</replaceable>?</application>  Repeat for each net which
+	    typically sends a liaison.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <application>Are there any liaisons I did not call or who are late
+	    in arriving?</application>
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <application>Are there any announcements for the net</application>
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <application>Are there any stations with Training Topics for the
+	    net?</application> (Training topics and announcements should be
+	    listed early, but not passed until later.  Typically, announcements
+	    should be passed before routine traffic but after all checkins,
+	    training topics after all traffic has been passed.)
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <application>Stations with traffic and traffic only, call signs only
+	    please</application> After obtaining a list of stations with
+	    traffic, NCS should then ask each station to list traffic:
+	    <application><replaceable>KB8QWQ</replaceable> please
+	    list</application> 
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <application>Are there any stations with or without
+	    traffic?</application> 
+	  </para>
+	</listitem>
+      </orderedlist>
+	<indexterm><primary>Over</primary></indexterm>
+	<indexterm><primary>Out</primary></indexterm>
+      The <application>Over</application> and <application>Out</application>
+      prosigns are generally omitted during the checkin procedure as the very
+      specific wording used makes them redundant.  The exception is when a
+      checkin is listing traffic; the end of the list should be marked by
+      <application>Over</application> since the station expects NCS to confirm
+      they have the list. 
+    </para>
+    <para>
+	<indexterm><primary>CW</primary></indexterm>
+      CW procedures are slightly different.  CW tends to be quite terse, so the
+      time spent can be quite short on some things.  On CW, general checkins
+      send a single character, usually the first character of their suffix.  NCS
+      then queries that station by sending the character, and the station then
+      sends their callsign followed by their traffic rather than listing
+      seperately. Net liaisons respond by immediately sending their callsign and
+      traffic.  
+    </para>
+    <para>
+      The one inefficiency introduced in CW nets is the greeting.
+      <orderedlist>
+	<listitem>
+	  <para>
+	    NCS: <command>E/P QTC? K</command>
+	  </para>
+	  <para>
+	    QNI: <command>GE <replaceable>JOE</replaceable> DE
+	    <replaceable>KC8PMX</replaceable> QTC <replaceable>LANSING 1
+	    P</replaceable> K</command>
+	  </para>
+	  <para>
+	    NCS: <command><replaceable>KC8PMX</replaceable> GE
+	    <replaceable>RYAN</replaceable> R AS QSP
+	    <replaceable>LANSING</replaceable> P? K</command>
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    NCS: <command>QNI M/P/QRP? K</command>
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    NCS: <command><replaceable>MVTN</replaceable> REP K</command>
+	  </para>
+	  <para>
+	    QNI: <command>DE <replaceable>KC8RTW</replaceable> GE
+	    <replaceable>JOE</replaceable> QRU K</command>
+	  </para>
+	  <para>
+	    NCS: <command><replaceable>KC8RTW</replaceable> GE
+	    <replaceable>PAT</replaceable> AS</command>
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    CW nets do not ask for late or uncalled liaisons.  However, liaisons
+	    who are late joining will repond to the call for general QNI with a
+	    note that they represent a net, for example:
+	  </para>
+	  <para>
+	    <command>DE <replaceable>K0VP/8RN</replaceable> GE
+	    <replaceable>JOE</replaceable> QRU K</command>
+	  </para>
+	  <para>
+	    Similarly, if an important downstream net, particularly Eighth
+	    Region or NWS, is missing, a station may volunteer to go to that
+	    net: 
+	  </para>
+	  <para>
+	    <command>DE <replaceable>K8AE</replaceable> VOL
+	    <replaceable>NWS</replaceable> GE <replaceable>JOE</replaceable> QRU
+	    K</command>
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <command>QNC? K</command>
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    On CW nets, training topics are generally introduced as QNCs.  Since
+	    traffic is often handled off-frequency on CW nets, net control needs
+	    to plan the QNC for a time when all or most stations are checked in,
+	    and all are on frequency.
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    On CW, nets do not ask for stations with and without traffic
+	    separately.  Because most stations operate QSK or semi-QSK, several
+	    stations may check in almost simultaneously and NCS can often handle
+	    it. General checkins will also indicate their ability to handle
+	    already listed traffic.
+	  </para>
+	  <para>
+	    NCS: <command>QNI K</command>
+	  </para>
+	  <para>
+	    QNI: <command>S</command>
+	  </para>
+	  <para>
+	    QNI: <command>R</command>
+	  </para>
+	  <para>
+	    NCS: <command>R</command>
+	  </para>
+	  <para>
+	    QNI: <command>DE <replaceable>KB8RWG</replaceable> GE
+	    <replaceable>JOE</replaceable> QTC
+	    <replaceable>SAGINAW 1</replaceable> QSP
+	    <replaceable>TAWAS</replaceable> K</command>
+	  </para>
+	  <para>
+	    NCS: <command><replaceable>KB8RWG</replaceable> GE
+	    <replaceable>KELLY</replaceable> R AS</command>
+	  </para>
+	  <para>
+	    NCS: <command>S</command>
+	  </para>
+	  <para>
+	    QNI: <command>GE <replaceable>JOE</replaceable> DE
+	    <replaceable>W8SN</replaceable> QRU K</command>
+	  </para>
+	  <para>
+	    NCS: <command><replaceable>W8SN</replaceable> GE
+	    <replaceable>STAN</replaceable> AS</command>
+	  </para>
+	  <para>
+	    On CW, NCS may immediately send stations off frequency to pass
+	    traffic: 
+	  </para>
+	  <para>
+	    QNI: <command>DE <replaceable>KB8RWG</replaceable> GE
+	    <replaceable>JOE</replaceable> QTC
+	    <replaceable>SAGINAW 1</replaceable> QSP
+	    <replaceable>TAWAS</replaceable> K</command>
+	  </para>
+	  <para>
+	    NCS: <command>GE <replaceable>KELLY KB8RWG</replaceable> ES
+	    <replaceable>K8SB</replaceable></command>
+	  </para>
+	  <para>
+	    K8SB: <command>T</command>
+	  </para>
+	  <para>
+	    NCS: <command><replaceable>UP 3 UP 3 TAWAS 1
+	    K</replaceable></command>
+	  </para>
+	  <para>
+	    KB8RWG: <command>G</command>
+	  </para>
+	  <para>
+	    K8SB: <command>G</command>
+	  </para>
+	  <para>
+	    NCS: <command>TU</command>
+	  </para>
+	</listitem>
+      </orderedlist>
+    </para>
+  </section>
+  
+  <section id="sect-Net_Procedures-CheckingIn-ThisIs">
+    <title>This Is</title>
+    <indexterm><primary>This Is</primary></indexterm>
+    <indexterm><primary>FM</primary></indexterm>
+    <indexterm><primary>SSB</primary></indexterm>
+    <para>
+      It has become common practice on phone to follow the MARS procedure of
+      saying <application>This is</application>, releasing the microphone for a
+      second, and then following with a call.  While there may be some utility
+      on MARS circuits, on amateur circuits this procedure offers little or no
+      benefit, and merely wastes time and adds confusion.
+    </para>
+    <para>
+      On SSB, net control can tell there is a double, and in most cases can
+      identify both stations.  Since <application>This is</application> and most
+      call signs take almost identical amounts of time with most speakers,
+      neither transmitting station realizes they are doubling since on phone,
+      unlike CW, stations cannot hear while they are transmitting.
+    </para>
+    <para>
+      On FM repeaters, the situation is further aggravated by the long transmit
+      turnaround delays on the repeater, and the further annoyance of the beep
+      almost guaranteeing that the two stations are going to transmit at
+      identical times.
+    </para>
+    <para>
+      Some slight advantage might be gained on FM or AM simplex circuits,
+      although it seems unlikely.
+    </para>
+    <para>
+      When net control announces <application>call signs only,
+      please</application>, stations should announce their callsign only,
+      without other adornment or noise words.
+    </para>
+  </section>
+
+  <section id="sect-Net_Procedures-CheckingIn-Acknowledgement">
+    <title>Acknowledgement</title>
+    <indexterm><primary>Acknowledgement</primary></indexterm>
+      <indexterm>
+	<primary>Checking In</primary>
+	<secondary>Acknowledgement</secondary>
+      </indexterm>
+    <para>
+      On phone, net control should acknowldege general checkins in as large a
+      group as feasible.  In most cases, stations tend to come in groups, so
+      acknowledging stations in groups of 5 or 10 reduces the odds of net
+      control doubling with a checking in station, and saves time.
+    </para>
+    <para>
+      When conditions are not good, however, it may make sense to acknowledge
+      each checkin individually.  When acknowledging checkins individually, net
+      control should strive to be efficient, but still ensure that each station
+      understands they have been recognized.  For example:
+      <application><replaceable>N8OSL</replaceable> roger,
+      next</application>. The check in process can be rather tedious, and it is
+      not the time for net control to stretch the process out with unnecessary
+      comments.
+    </para>
+  </section>
+  
+  <section id="sect-Net_Procedures-CheckingIn-NoTraffic">
+    <title>No Traffic</title>
+    <indexterm><primary>With Traffic</primary></indexterm>
+    <indexterm><primary>No Traffic</primary></indexterm>
+    <para>
+      When checking in, stations should give their call, and if they have
+      traffic, add <application>with traffic</application>.  It has become a
+      common, and poor, practice to say <application>no traffic</application>
+      when a station has no traffic for the net, but this not only spends
+      unnecessary time, but can add confusion.  On noisy HF circuits,
+      <application>with traffic</application> and <application>no
+      traffic</application> sound very similar.  Much better to simply omit
+      <application>no traffic</application>.
+    </para>
+  </section>
+  
+</section>

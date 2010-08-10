@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE articleinfo PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Net_Practices.ent">
+%BOOK_ENTITIES;
+]>
+<articleinfo id="arti-Net_Practices-Net_Practices">
+	<title>Net Practices</title>
+	<subtitle>Suggestions for NTS improvements</subtitle>
+	<productname>NTS</productname>
+	<productnumber></productnumber>
+	<edition>1</edition>
+	<pubsnumber>3</pubsnumber>
+	<abstract>
+    <para>
+      Over the years, the various NTS nets in the section have developed various
+      procedures and protocols, each different from the other.  Each net has
+      developed strengths and weakness which, by and large, have not been shared
+      with other nets.
+    </para>
+    <para>
+      This document is an attempt to capture some of the better ideas from the
+      various nets so the knowledge may be shared among the nets.
+    </para>
+
+	</abstract>
+	<corpauthor>
+		<inlinemediaobject>
+			<imageobject>
+				<imagedata fileref="Common_Content/images/title_logo.svg" format="SVG" />
+			</imageobject>
+		</inlinemediaobject>
+	</corpauthor>
+	<xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+</articleinfo>
+

@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Net_Procedures.ent">
+%BOOK_ENTITIES;
+]>
+  <section id="chap-Net_Procedures-Technology">
+    <title>Technology</title>
+    <para>
+      In modern amateur radio, many modes and frequencies are in use.  Each mode
+      and each band has it's own characteristics.  Net controls and net members
+      both need to be alert to these differences, and use them accordingly.
+    </para>
+    <section id="sect-Net_Procedures-Technology-Mode">
+      <title>Mode Characteristics</title>
+      <para>
+	The greatest differences are between modes.  Each mode has unique
+	characteristics that the operator must consider.
+      </para>
+      <section>
+	<title>CW</title>
+	<indexterm>
+	  <primary>Characteristics</primary>
+	  <secondary>CW</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>CW</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>QSK</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Break-In</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Repeats</primary>
+	  <secondary>CW</secondary>
+	</indexterm>
+	<para>
+	  On CW, many stations operate QSK or break-in, and virtually all
+	  stations at least operate semi-break-in.  This means that the operator
+	  can hear the band between elements or at least between words.
+	</para>
+	<para>
+	  On all modes, it generally helps the receiving station to send a few
+	  words before beginning the actual message.  On CW, it is common
+	  practice to precede the message number with <command>NR</command> or
+	  <command>HR NR</command> rather than starting right out with the
+	  message number.  When a station is operating break-in and is
+	  comfortable with that, the station may instead start with <command>QSK
+	    NR</command> to indicate to the receiver that the sender may be
+	  interrupted in the middle of the message to get fills.
+	</para>
+	<para>
+	  When sending a surprising or unusual word, the sender may send a
+	  <command>?</command> character following the word and then repeat the
+	  word.  This is the equivalent of the phone <application>I say
+	    again</application>. 
+	</para>
+	<para>
+	  The "official" eight dits as an error indication is rarely used.  Most
+	  stations send two I's (didit didit) then repeat the mis-sent word.
+	  Sometimes when the error should be obvious, the sender simply re-sends
+	  the word.
+	</para>
+	<para>
+	  On CW, it is the norm, rather than the exception, to pass traffic off
+	  the main net frequency.
+	</para>
+      </section>
+      <section>
+	<title>SSB</title>
+	<indexterm>
+	  <primary>Characteristics</primary>
+	  <secondary>SSB</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>SSB</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Phonetic Alphabet</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Repeats</primary>
+	  <secondary>SSB</secondary>
+	</indexterm>
+	<para>
+	  SSB is especially challenging because of the poor voice quality and
+	  the typically poor band conditions.  Unlike CW, the sending station
+	  cannot hear the receiving station, so it is imperative that the sender
+	  give appropriate breaks to ask for fills, especially when conditions
+	  are poor.
+	</para>
+	<para>
+	  On SSB circuits, it is common to spell unusual or unexpected words, or
+	  even common words that are easily confused.  The proper practice is to
+	  give the word, say <application>I spell</application> and then say the
+	  word again.  For example, "<application><replaceable>two</replaceable>
+	  I spell <replaceable>Tango Whiskey Oscar
+	  two</replaceable></application>".  When the word is surprising, but
+	  not easily confused with another and the spelling is obvious, the
+	  sender will use <application>I say again</application>, for example,
+	  "<application><replaceable>artichoke</replaceable> I say again
+	  <replaceable>artichoke</replaceable></application>".
+	</para>
+	<para>
+	  Because of the difficult conditions often encoutnered on SSB, it is
+	  important to use the precise phrase, rather than some made-up phrase.
+	  Similarly, it is important to use the proper ICAO phonetics, rather
+	  than using some less common phonetic alphabet, or worse still,
+	  something invented on the fly.
+	</para>
+	<para>
+	  Like CW, an operator can tell when two stations are transmitting
+	  simultaneously, and often can understand both.  The transmitting
+	  station, however, cannot tell if another station is transmitting.
+	</para>
+	<para>
+	  On phone, the equivalent of the CW <command>HR NR</command> is
+	  <application>Please copy number</application>. On SSB especially it is
+	  important to use the exact phrasing to reduce misunderstanding.
+	</para>
+      </section>
+      <section>
+	<title>FM and AM</title>
+	<indexterm>
+	  <primary>FM</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Characteristics</primary>
+	  <secondary>FM</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>AM</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Characteristics</primary>
+	  <secondary>AM</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>Heterodyne</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Capture Effect</primary>
+	</indexterm>
+	<para>
+	  FM detectors exhibit a characteristic known as the "capture effect",
+	  meaning that when two stations are transmitting, the listener will
+	  only hear the strongest signal.  Sometimes when the two signals are
+	  close in strength, the listner will hear a hetrodyne, but unlike SSB,
+	  only one station, at most, will be intelligible.  On AM, multiple
+	  stations will cause a heterodyne, but unless their signal strengths
+	  are greatly different, neither will be understood.
+	</para>
+	<para>
+	  This effect means that efficiencies possible on SSB are not possible
+	  on FM or AM.  Stations, especially net controls, should recognize that
+	  weaker stations will be totally obscured by stronger stations.  On the
+	  other hand, some of this disadvantage is offset by the superior audio
+	  quality available on FM and AM.
+	</para>
+	<para>
+	  FM detectors take some time to capture the signal, and thus a receiver
+	  might miss the first few milliseconds of a transmission.  A repeater
+	  as a minimum multiplies that effect since the repeater has a receiver
+	  too.  In addition, many repeaters have short timers before they begin
+	  transmissions to eliminate false transmissions resulting from noise.
+	  Because of these effects, FM operators in particular should wait a
+	  second or so after keying the microphone before speaking.  Repeater
+	  users should become familiar with their machines as some repeaters may
+	  require several seconds of delay.
+	</para>
+      </section>
+      <section>
+	<title>Packet</title>
+	<indexterm>
+	  <primary>Characteristics</primary>
+	  <secondary>Packet</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>Packet</primary>
+	</indexterm>
+	<para>
+	  Packet features "guaranteed" delivery, so many of the adaptations
+	  required for other modes are unnecessary on packet.  On packet, a user
+	  simply logs into a BBS, types <command>S
+	    <replaceable>callsign</replaceable>@<replaceable>hamgate</replaceable>.ampr.org</command>
+	  and types in the message.  Instead of the double dash on CW or
+	  <application>Break</application> on phone, sections of the message are
+	  separated by a blank line.  Messages are separated by two blank
+	  lines.  It is common practice to end the entire set of messages with a
+	  line containing only <command>NNNN</command>.  The line
+	  <command>/EX</command> notifies the BBS of the end of the
+	  transmission. 
+	</para>
+	<para>
+	  The message on packet should follow the normal NTS format.  To aid the
+	  reciever, it is helpful to format the body of the message with five
+	  words per line.  Messages are typically entered entirely in upper
+	  case.  As in a normal message, the only punctuation is
+	  <command>X</command>. 
+	</para>
+      </section>
+      <section>
+	<title>Olivia</title>
+	<indexterm>
+	  <primary>Characteristics</primary>
+	  <secondary>Olivia</secondary>
+	</indexterm>
+	<indexterm>
+	  <primary>Olivia</primary>
+	</indexterm>
+	<indexterm>
+	  <primary>Michigan Digital Traffic Net</primary>
+	</indexterm>
+	<para>
+	  The Michigan Digital Traffic Net (MDTN) is working out the proper
+	  procedures for handling traffic using Olivia.  Olivia offers forward
+	  error correction, which while not quite as effective as packet,
+	  nonetheless offers a significant improvement over many HF digital
+	  modes.
+	</para>
+	<para>
+	  Like FM, neither the transmitting station nor the receiving station
+	  can copy multiple stations simulataneously.  Olivia, like all digital
+	  modes featuring forward error correction, exhibits a significant delay
+	  between a character being sent and received.  This requires different
+	  net procedures that are still in the process of being worked out.
+	</para>
+      </section>
+    </section>
+    
+  </section>
+
