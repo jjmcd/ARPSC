@@ -1,0 +1,440 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Section_Callout_Plan.ent">
+%BOOK_ENTITIES;
+]>
+<article>
+  <xi:include href="Article_Info.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+
+  <section>
+    <title>Notifying the SEC</title>
+    <section>
+      <title>Statewide Events</title>
+      <para>
+	For statewide events, the SEC is notified by the Michigan State
+	Police via E-Team notification when the SEOC is fully activated,
+	or a need for amateur radio is perceived.
+      </para>
+      <para>
+	The SEC also monitors E-Team to be alert to incidents which
+	may deteriorate to the point that SEC attention is required.
+      </para>
+    </section>
+    <section>
+      <title>Local/Regional events</title>
+      <para>
+	For local or regional events, the affected EC should notify
+	the SEC by cell phone (989-430-4855) or E-Team notification.
+	For events of lower urgency the EC may prefer email.  When the
+	EC is under significant pressure (as is often the case in the
+	event of an activation), the EC may delegate notification to
+	the DEC.
+      </para>
+    </section>
+    <section>
+      <title>SEOC Station Activation</title>
+      <para>
+	When the SEOC is fully activated, the Michigan State Police
+	notifies the station manager by pager.  For other events, the
+	SEC may notify the station manager by telephone as required.
+      </para>
+    </section>
+    <section>
+      <title>SEC Staff Notification</title>
+      <para>
+	As required, the SEC may notify the Assistant SECs by telephone.
+      </para>
+    </section>
+  </section>
+
+  <section>
+    <title>Notifying the Districts</title>
+    <para>
+      The SEC will notify the DECs by E-Team notification.  If time
+      permits, those DECs who cannot be reached via E-Team will be
+      notified by telephone.  The E-Team notification list is as
+      follows:
+      <itemizedlist>
+	<listitem>
+	  <para>
+	    District 1 - Daniel Sprow
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    District 2 - John Fleming
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    District 3 - Stan Darmofal
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    District 5 - Art Snapper
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    District 6 - Jeffrey Nawrot
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    District 7 - Thomas Duggan
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    District 8 - Lou Gembolis
+	  </para>
+	</listitem>
+      </itemizedlist>
+    </para>
+
+    <para>
+      In addition, all the ASECs are included in that notification.
+      DECs are strongly encouraged to join E-Team themselves, and
+      ensure at least one assistant DEC also is qualified for E-Team.
+      Less than half of the DECs currently are qualified for E-Team.
+    </para>
+    <section>
+      <title>National Weather Service Offices</title>
+      <para>
+	Currently, none of the NWS DECs have E-Team capability.  As a
+	consequence, NWS DECs will be notified by telephone as
+	appropriate.
+      </para>
+    </section>
+    <section>
+      <title>Regional and Local Incidents</title>
+      <para>
+	In the case of a regional or local event where the SEC becomes
+	involved before the DEC, the SEC will typically notify the
+	affected DEC by telephone.  Depending on the incident, nearby
+	DECs may also be notified.
+      </para>
+    </section>
+    <section>
+      <title>DEC Contact Information</title>
+      <para>
+	<itemizedlist>
+	  <listitem>
+	    <para>
+	      Joe Pullen
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    cell 517-260-1185
+		  </para>
+		</listitem>
+		<listitem>
+		  <para>
+		    home 517-547-6794
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      John Fleming
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    home 248-542-9573
+		  </para>
+		</listitem>
+		<listitem>
+		  <para>
+		    work 248-642-6228
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      Joe Tusher
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    Home 810-742-3866
+		  </para>
+		</listitem>
+		<listitem>
+		  <para>
+		    Mobile 810-908-3089
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      Carl Flickinger
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    home 269-685-8277
+		  </para>
+		</listitem>
+		<listitem>
+		  <para>
+		    mobile 269-873-7891
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      Tom van der Mel
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		  mobile 231-206-0422</para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      Red Duggan<itemizedlist>
+	      <listitem>
+		<para>
+		  home 989-275-2443
+		</para>
+	      </listitem>
+	      <listitem>
+		<para>
+		  mobile 586-413-2831 
+		</para>
+	      </listitem>
+	      <listitem>
+		<para>
+		  pager 9892533247@arch.net
+		</para>
+	      </listitem>
+	    </itemizedlist>
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      Lou Gembolis
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    home 906-485-5442
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      Chris Stinsom
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    mobile 989-430-2375
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      Ted Davis
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    mobile 2486282747
+		  </para>
+		</listitem>
+		<listitem>
+		  <para>
+		    mobile (248) 842-4077
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      Michael Gage
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    home 616-538-0502
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+	  <listitem>
+	    <para>
+	      Greg Hanson
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    home 906-225-1594
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+	</itemizedlist>
+      </para>
+    </section>
+  </section>
+
+  <section>
+    <title>Notifying the Nets</title>
+    <para>
+      Nets are notified as needed by telephone.  On some occasions
+      when weather is anticipated, some nets hold scheduled times and
+      frequencies for monitoring and can be activated by radio.
+    </para>
+    <section>
+      <title>Net manager contact information</title>
+      <para>
+	<itemizedlist>
+	  <listitem>
+	    <para>
+	      QMN
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    Anne Travis - 313-563-0177
+		  </para>
+		</listitem>
+<!--		<listitem>
+		  <para>
+		    Stan Briggs
+		  </para>
+		</listitem> -->
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+	  <listitem>
+	    <para>
+	      MITN
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    Jeff Miller - mobile 248-330-0335, home 248-628-3719
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+
+	  <listitem>
+	    <para>
+	      GLETN
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    Jack Wiswasser - 517-641-8553
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+
+	  <listitem>
+	    <para>
+	      MACS
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    John Wehmer - mobile 616-502-4800, home 616-847-6409
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+
+	  <listitem>
+	    <para>
+	      UP
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    Aileen Gagnon - 906-428-9789
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+	  <listitem>
+	    <para>
+	      Wolverine
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    Ron Warczynski - 269-468-4068
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+
+
+	  <listitem>
+	    <para>
+	      MVTN
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    Jean Young - 231-893-3341
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+	  <listitem>
+	    <para>
+	      SEMTN
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    Jeff Miller -  mobile 248-330-0335, home 248-628-3719
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+	  <listitem>
+	    <para>
+	      TMMTN
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    Grant Watson - 810-982-7488
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+	</itemizedlist>
+      </para>
+    </section>
+
+
+  </section>
+    
+    <xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+    <!--	<index /> -->
+  </article>
+  
