@@ -33,12 +33,11 @@
 	appropriate nets and make plans to receive traffic from the net and
 	return a response later.
 	<important>
-	  <title>Planning is required</title>
-	  <para>
+	  <title>Planning is required:
 	    DECs should arrange well in advance for interfaces with the
 	    appropriate VHF net.  DECs will also need to know how they will get
 	    a response from each county.
-	  </para>
+	  </title><para>&nbsp;</para>
 	</important>
       </para>
     </section>
@@ -158,11 +157,10 @@
 	  <secondary>Planning</secondary>
 	</indexterm>
 	<warning>
-	  <title>Net Managers Note</title>
-	  <para>
+	  <title>VHF Net Managers Note:
 	    Since we will not be using repeaters, you will need to establish a
 	    relay between your net and the appropriate District(s).
-	  </para>
+	  </title><para>&nbsp;</para>
 	</warning>
 	Each DEC will need to work with the appropriate net manager well ahead
 	of time to determine stations and schedules that will allow the traffic

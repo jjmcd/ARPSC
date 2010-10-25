@@ -135,11 +135,10 @@
 	  </listitem>
 	</itemizedlist>
 	<warning>
-	  <title>The plan must be communicated</title>
-	  <para>
+	  <title>The plan must be communicated:
 	    No plan can be effective unless all affected parties are well aware
 	    of the content of the plan and are capable of implementing it
-	  </para>
+	  </title><para>&nbsp;</para>
 	</warning>
       </para>
     </section>
