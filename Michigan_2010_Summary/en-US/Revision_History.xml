@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Michigan_2010_Summary.ent">
+%BOOK_ENTITIES;
+]>
+<appendix id="appe-Michigan_2010_Summary-Revision_History">
+  <title>Revision History</title>
+  <simpara>
+    <revhistory>
+      <revision>
+	<revnumber>1-0</revnumber>
+	<date>Fri Jan 21 2011</date>
+	<author>
+	  <firstname>John</firstname>
+	  <surname>McDonough</surname>
+	  <email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Release - remove draft watermark</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
+      <revision>
+	<revnumber>0-2</revnumber>
+	<date>Thu Jan 20 2011</date>
+	<author>
+	  <firstname>John</firstname>
+	  <surname>McDonough</surname>
+	  <email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <para>
+	    Changes suggested by N8ERF:
+	    <simplelist>
+	      <member>- Adjust colors on Figure 2</member>
+	      <member>- Rewording of 7.3 to better explain HSEEP</member>
+	    </simplelist>
+	  </para>
+	  <para>
+	    Avoid splitting Table 3
+	  </para>
+	  <para>
+	    Add table of Objective 2.1 documents
+	  </para>
+	  <para>
+	    Cosmetic adjustments to most tables
+	  </para>
+	</revdescription>
+      </revision>
+      <revision>
+	<revnumber>0-1</revnumber>
+	<date>Wed Jan 19 2011</date>
+	<author>
+	  <firstname>John</firstname>
+	  <surname>McDonough</surname>
+	  <email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Draft Content</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
+      <revision>
+	<revnumber>0-0</revnumber>
+	<date>Fri Jan 14 2011</date>
+	<author>
+	  <firstname>John</firstname>
+	  <surname>McDonough</surname>
+	  <email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Initial creation of book by publican</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
+    </revhistory>
+  </simpara>
+</appendix>
+

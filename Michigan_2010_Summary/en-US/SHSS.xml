@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Michigan_2010_Summary.ent">
+%BOOK_ENTITIES;
+]>
+
+  <section id="sect-SHSS">
+    <title>State Homeland Security Strategy</title>
+    <para>
+      In late 2009, the SEC participated with other State Agencies in the
+      development of the State Homeland Security Strategy.  In 2010 that
+      strategy was approved, and a number of objective coordinators were
+      appointed to focus on the various elements of the strategy.
+    </para>
+    <para>
+      Of particular interest to ARPSC was Goal 2:
+    </para>
+    <blockquote>
+      <attribution>Goal 2</attribution>
+      <para>
+	Enhance, implement, and sustain homeland security programs.
+      </para>
+    </blockquote>
+    <para>
+      and in particular
+    </para>
+    <blockquote>
+      <attribution>Objective 2.1</attribution>
+      <para>
+	Annually identify planning needs to improve capabilities
+        and address changing conditions by August 30.
+      </para>
+    </blockquote>
+    <para>
+      The Section has committed to contribute to the State's progress against
+      this objective by preparing a number of planning documents.  Some of these
+      documents have been completed, and a number are scheduled for 2011.
+      <table frame="all" id="tbl_docs">
+	<title>Targeted Documents for 2011</title>
+	<tgroup cols="4">
+	    <colspec colnum="1" colname="c1" colwidth="2*" />
+	    <colspec colnum="2" colname="c2" colwidth="4*" />
+	    <colspec colnum="3" colname="c3" colwidth="4*" />
+	    <colspec colnum="4" colname="c4" colwidth="4*" />
+	  <thead>
+	    <row>
+	      <entry>Date</entry>
+	      <entry>Document</entry>
+	      <entry>Description</entry>
+	      <entry>Responsible</entry>
+	    </row>
+	  </thead>
+	  <tbody>
+	    <row>
+	      <entry>2011-01-31</entry>
+	      <entry>State Simplex Plan</entry>
+	      <entry>Agreement on use of simplex frequencies</entry>
+	      <entry>SEC and DECs</entry>
+	    </row>
+	    <row>
+	      <entry>2011-01-31</entry>
+	      <entry>2011 Exercise Plan</entry>
+	      <entry>How will we respond to 2011 exercises</entry>
+	      <entry>ASEC Training and Exercises</entry>
+	    </row>
+	    <row>
+	      <entry>2011-03-31</entry>
+	      <entry>District callout plan</entry>
+	      <entry>Plan for each district to mobilize ECs</entry>
+	      <entry>Each individual DEC responsible for district</entry>
+	    </row>
+
+	    <row>
+	      <entry>2011-04-30</entry>
+	      <entry>County callout plan</entry>
+	      <entry>Plan for each county to mobilize members</entry>
+	      <entry>Each individual EC responsible for county</entry>
+	    </row>
+	    <row>
+	      <entry>2011-05-30</entry>
+	      <entry>MI ARPSC Guidelines</entry>
+	      <entry>Guidelines for participants in MI-ARPSC.  Signed by SM and MSP. Requires revision and review</entry>
+	      <entry>Bill Bond on point but heavy engagement of SM, SEC and DECs plus input from MSP</entry>
+	    </row>
+	    <row>
+	      <entry>2011-06-30</entry>
+	      <entry>Net callout plan</entry>
+	      <entry>Plan for each net to meet for unplanned session</entry>
+	      <entry>Each individual net manager responsible for net</entry>
+	    </row>
+	    <row>
+	      <entry>2011-08-31</entry>
+	      <entry>2012 Plans</entry>
+	      <entry>Objective 2.1 response plans for 2012</entry>
+	      <entry>SEC</entry>
+	    </row>
+	  </tbody>
+	</tgroup>
+      </table>
+    </para>
+    <para>
+      Because many of these documents contain sensitive information, the SEC has
+      developed a "library" on the website where these documents can be easily
+      found and, if necessary, password protected.  DECs and Net Managers have
+      been given password access, and it is anticipated that most ECs will also
+      require access.  Each program within the Section has a dedicated area
+      within the library.
+    </para>
+    <para>
+      <figure float="0">
+	<title>Library Opening Page</title>
+	<mediaobject>
+              <imageobject>
+	    <imagedata scale="99" scalefit="1"
+              fileref="images/Library.png" format="PNG"/>
+	  </imageobject>
+	  <textobject>
+	    <para>
+	      Library Opening Page
+	    </para>
+	  </textobject>
+	</mediaobject>
+      </figure>
+    </para>
+    <para>
+      It is anticipated that documents within the library will be available in a
+      number of formats; html for online access, pdf for printed output, ePub
+      for portable devices, and plain text for packet BBSs and similar
+      low-bandwidth devices.
+    </para>
+  </section>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Michigan_2010_Summary.ent">
+%BOOK_ENTITIES;
+]>
+
+  <section id="sect-Significant">
+    <title>Significant Incidents</title>
+    <para>
+      In addition to numerous local incidents, in 2010 there were two
+      incidents that caused at least partial activation of the State EOC.
+    </para>
+    <para>
+      In June, a tornado went through Monroe county causing significant damage
+      to the Village of Dundee.  In addition, the tornado damaged the E. Fermi
+      II nuclear power plant which caused activation of the SEOC.  No release
+      occurred and the public was not endangered.  ARES programs in Monroe and
+      Wayne counties responded.
+    </para>
+    <para>
+      In July, a pipeline in Battle Creek operated by Enbridge Inc. ruptured,
+      spilling crude oil into the Kalamazoo River.  ARES programs from Calhoun,
+      Allegan and Kalamazoo counties responded.
+    </para>
+    <para>
+      In neither case was the station at the State EOC activated, however in
+      both cases the SEC monitored the progress of the event via the State's
+      Critical Incident Management System and was in frequent telephone and
+      radio contact with the local programs.
+    </para>
+  </section>
+
+    

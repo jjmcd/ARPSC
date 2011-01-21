@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE authorgroup PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Michigan_2010_Summary.ent">
+%BOOK_ENTITIES;
+]>
+<authorgroup>
+  <author>
+    <firstname>John</firstname>
+    <surname>McDonough, WB8RCR</surname>
+    <affiliation>
+      <orgname>Michigan Section,</orgname>
+      <orgdiv>Section Emergency Coordinator / Section Traffic Manager</orgdiv>
+    </affiliation>
+    <email>wb8rcr@arrl.net</email>
+  </author>
+</authorgroup>
+

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Michigan_2010_Summary.ent">
+%BOOK_ENTITIES;
+]>
+  <section id="sect-Overview">
+    <title>Overview</title>
+    <para>
+      The Michigan Amateur Radio Public Service Corps (ARPSC) is an organization
+      of over 2,000 amateur radio operators who participate in public service
+      and emergency response activities.  These include such things as providing
+      communications for various walks and runs, as well as reporting storm
+      damage, participating in search and rescue efforts, and providing backup
+      communications for public safety officers.
+    </para>
+    <para>
+      There are two primary programs, the Amateur Radio Emergency Services
+      (ARES) and the National Traffic System (NTS).  ARES provides "feet on the
+      ground" for various events and incidents, while NTS provides a
+      communications infrastructure that moves formal messages acroos the state
+      and across the nation.
+    </para>
+    <para>
+      There are two other programs, associated with ARES, which do not report
+      independently.  These are RACES and SKYWARN.  RACES consists of those ARES
+      members who have been approved by their local government to operate in
+      critical areas such as incident scenes or Emergency Operations Centers.
+      This approval generally requires a degree of training and a background
+      check.  The Michigan Section and the Michigan State Police have published
+      suggested RACES qualifications, but the responsibility for vetting RACES
+      members rests with the local Emergency Management Coordinator.  Most
+      counties follow the guidelines closely.
+    </para>
+    <para>
+      SKYWARN members provide ground weather observations to their local
+      jurisdictions and to the National Weather Service.  SKYWARN member do not
+      have to be ARES members, but almost always are, and most counties run
+      SKYWARN programs as part of their ARES programs.  SKYWARN observers are
+      trained by the National Weather Service.
+    </para>
+    <para>
+      Together, Michigan amateurs reported over 85,000 volunteer hours during
+      2010 representing a value of over $1.5 million.
+    </para>
+  </section>

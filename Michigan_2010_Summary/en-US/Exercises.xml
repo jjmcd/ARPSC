@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Michigan_2010_Summary.ent">
+%BOOK_ENTITIES;
+]>
+
+<section id="sect-Exercises">
+    <title>Exercises</title>
+    <para>
+      Local programs participate in numerous local and District-wide exercises
+      on a regular basis.  There are also a number of statewide exercises in
+      which the Section participates.
+    </para>
+    <section>
+      <title>State-sponsored exercises</title>
+      <para>
+	The State of Michigan performs a number of drills and exercises each
+	year, most commonly concerned with nuclear power plants.  During these
+	drills and exercises, the State EOC station is activated, the SEC or his
+	delegate participates in the EOC, and programs in the affected counties
+	are activated.
+      </para>
+      <para>
+	<table frame="all" id="tbl-state-ex-2010">
+	  <title>Michigan State Drills and Exercises</title>
+	  <tgroup cols="3">
+	    <colspec colnum="1" colname="c1" colwidth="1*" />
+	    <colspec colnum="2" colname="c2" colwidth="2*" />
+	    <colspec colnum="3" colname="c3" colwidth="3*" />
+	    <thead>
+	      <row>
+		<entry>Date</entry>
+		<entry>Exercise</entry>
+		<entry>Counties</entry>
+	      </row>
+	    </thead>
+	    <tbody>
+	      <row>
+		<entry>January 21</entry>
+		<entry>Palisades Drill #1</entry>
+		<entry>Van Buren, Allegan, Kalamazoo</entry>
+	      </row>
+	      <row>
+		<entry>February 17</entry>
+		<entry>Palisades Drill #2</entry>
+		<entry>Van Buren, Allegan, Kalamazoo</entry>
+	      </row>
+	      <row>
+		<entry>March 2</entry>
+		<entry>Palisades Full-scale Exercise</entry>
+		<entry>Van Buren, Allegan, Kalamazoo</entry>
+	      </row>
+	      <row>
+		<entry>May 12</entry>
+		<entry>E. Fermi II Drill #1</entry>
+		<entry>Monroe, Wayne</entry>
+	      </row>
+	      <row>
+		<entry>May 26</entry>
+		<entry>E. Fermi II Drill #2</entry>
+		<entry>Monroe, Wayne</entry>
+	      </row>
+	      <row>
+		<entry>June 8</entry>
+		<entry>E. Fermi II Full-scale Exercise</entry>
+		<entry>Monroe, Wayne</entry>
+	      </row>
+	    </tbody>
+	  </tgroup>
+	</table>
+      </para>
+    </section>
+    <section>
+      <title>Section Exercises</title>
+      <para>
+	The Section also organizes statewide exercises each year.  Section
+	exercises, unlike State-sponsored exercises, tend to be functional,
+	exercising primarily communications skills, and are developed to attempt
+	to engage all the counties within the state.
+      </para>
+      <para>
+	The interface between ARES and NTS has not been as effective as it might
+	be.  Two functional drills were held in 2010, both with the intention of
+	helping to develop that interface.
+      </para>
+      <para>
+	The first was held April 10.  In this exercise, detailed instructions
+	were provided to the leadership of ARES and NTS as to expectations,
+	circuits to be used, net schedules, etc.  Although there were some
+	issues, the programs performed reasonably well.
+      </para>
+      <para>
+	The second was held October 2.  The scenario and overall plan was the
+	same as the April drill, however, the Emergency Coordinators and Net
+	Managers were given much less detail.  That exercise made it clear that
+	much more practice is needed in the NTS/ARES interface.
+      </para>
+    </section>
+    <section>
+      <title>2011 Exercise Plans</title>
+      <para>
+	Emergency Coordinators have consistently asked for more statewide
+	drills, with the most common request being for four per year.  There is
+	a major statewide exercise coming up in mid-year.  This is being held in
+	conjunction with a National Level Exercise (NLE) around the New Madrid
+	fault called NM11.
+      </para>
+      <para>
+	Because of the upcoming New Madrid exercise, we have some additional
+	needs, perhaps the most significant being embracing FEMA's Homeland
+	Security Exercise and Evaluation Program (HSEEP). For the 2011 cycle,
+	our goals are as follows:
+	<table frame="none" id="tbl_goals_2011">
+	  <title>2011 Objectives</title>
+	  <tgroup cols="2">
+	    <colspec colnum="1" colname="c1" colwidth="1*" />
+	    <colspec colnum="2" colname="c2" colwidth="2*" />
+	    <tbody>
+	      <row>
+		<entry align="right">Timeframe</entry>
+		<entry>
+		  <itemizedlist>
+		    <listitem><para>2011</para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+
+	      <row>
+		<entry align="right">Present Problems</entry>
+		<entry>
+		  <itemizedlist>
+		    <listitem><para>Interface with State Agencies is weak or
+			nonexistent</para>
+		    </listitem>
+		    <listitem><para>Little knowledge of contacting other state
+			EOCs</para>
+		    </listitem>
+		    <listitem><para>Have not been effective in evaluating
+			exercises</para>
+		    </listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry align="right">Long Range Goal</entry>
+		<entry><itemizedlist><listitem><para>Serve effectively as a partner to State Agencies as well as local agencies.</para></listitem></itemizedlist></entry>
+	      </row>
+	      <row>
+		<entry align="right">Functional Objectives</entry>
+		<entry><itemizedlist><listitem><para>Develop relationships with some State Agencies</para></listitem><listitem><para>Develop multiple circuits to nearby state EOCs</para></listitem><listitem><para>Learn to utilize HSEEP effectively</para></listitem></itemizedlist></entry>
+	      </row>
+	    </tbody>
+	  </tgroup>
+	</table>
+      </para>
+      <para>
+	This results in a fairly aggressive schedule for 2011.  Note that a
+	number of the exercises are not statewide, but rather to exercise
+	specific skills within a limited group.
+
+	<table frame="all" id="tbl-2011-explan">
+	  <title>Planned 2011 Exercises</title>
+	  <tgroup cols="2" rowsep="1">
+	    <colspec colnum="1" colname="c1" colwidth="1*" />
+	    <colspec colnum="2" colname="c2" colwidth="3*" />
+	    <tbody>
+	      <row>
+		<entry valign="top" align="right">
+		  <filename>Ex11-x1</filename> Feb 2011
+		</entry>
+		<entry>
+		  <itemizedlist>
+		    <listitem>
+		      <para><filename>Exercise:</filename> Functional Drill</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>For:</filename> Saginaw county, ARES leaders</para>
+		    </listitem>
+		    <listitem>
+		      <para><filename>Purpose:</filename> Exercise HSEEP</para>
+		    </listitem>
+		    <listitem>
+		      <para><filename>Rationale:</filename> The section has no experience with the FEMA process for developing and evaluating exercises.  This is intended to pilot that process. Expect a simple drill but with most of the HSEEP deliverables.</para>
+		    </listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry valign="top" align="right">
+		  <filename>Ex11-1</filename> Feb 2011
+		</entry>
+		<entry>
+		  <itemizedlist>
+		    <listitem>
+		      <para><filename>Exercise:</filename> Functional Drill</para>
+		    </listitem>
+		    <listitem>
+		      <para><filename>For:</filename> Section wide</para>
+		    </listitem>
+		    <listitem>
+		      <para><filename>Purpose:</filename> Prepare for NM11</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>Rationale:</filename> Practice skills for NM11.</para>
+		    </listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry valign="top" align="right">
+		  <filename>Ex11-x2</filename> Mar 2011
+		</entry>
+		<entry>
+		  <itemizedlist>
+		    <listitem>
+		      <para><filename>Exercise:</filename> TTX</para>
+		    </listitem>
+		    <listitem>
+		      <para><filename>For:</filename> Michigan, Indiana NTSD</para>
+		    </listitem>
+		    <listitem>
+		      <para><filename>Purpose:</filename> Prepare for NM11</para>
+		    </listitem>
+		    <listitem>
+		      <para><filename>Rationale:</filename> Work out procedures for NM11. Validate relays from SEOC to WB9JSR to NTSD to Indiana key station to Indiana SEOC.</para>
+		    </listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry valign="top" align="right">
+		  <filename>Ex11-x3</filename> Mar 2011
+		</entry>
+		<entry>
+		  <itemizedlist>
+		    <listitem>
+		      <para><filename>Exercise:</filename> TTX</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>For:</filename> SEOC, MARS</para>
+		    </listitem>
+		    <listitem>
+		      <para><filename>Purpose:</filename> Prepare for NM11</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>Rationale:</filename> Work out procedures for NM11. Validate relays from SEOC to MARS to Indiana MARS rep to Indiana SEOC.</para>
+		    </listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+
+	      <row>
+		<entry valign="top" align="right">
+		  <filename>Ex11-x4</filename> Apr 2011
+		</entry>
+		<entry>
+		  <itemizedlist>
+		    <listitem>
+		      <para><filename>Exercise:</filename> Functional Drill</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>For:</filename> Michigan, Indiana NTSD</para>
+		    </listitem>
+		    <listitem>
+		      <para><filename>Purpose:</filename> Prepare for NM11</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>Rationale:</filename> Test run procedures for moving messages over NTSD from the SEOC to the SEOC of Indiana in preparation for NM11.</para>
+		    </listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+
+	      <row>
+		<entry valign="top" align="right">
+		  <filename>Ex11-x5</filename> Apr 2011
+		</entry>
+		<entry>
+		  <itemizedlist>
+		    <listitem>
+		      <para><filename>Exercise:</filename> Functional Drill</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>For:</filename> SEOC, MARS</para>
+		    </listitem>
+		    <listitem>
+		      <para><filename>Purpose:</filename> Prepare for NM11</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>Rationale:</filename> Test run procedures for moving messages over MARS digital from the SEOC to the SEOC of Indiana in preparation for NM11.</para>
+		    </listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+
+	      <row>
+		<entry valign="top" align="right">
+		  <filename>NM11</filename> May 2011
+		</entry>
+		<entry>
+		  <itemizedlist>
+		    <listitem>
+		      <para><filename>Exercise:</filename> Full Scale Exercise</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>For:</filename> All State Agencies</para>
+		    </listitem>
+		    <listitem>
+		      <para><filename>Purpose:</filename> Test interface with other states</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>Rationale:</filename> Involve all agencies in an exercise that involves several other states.</para>
+		    </listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+
+	      <row>
+		<entry valign="top" align="right">
+		  <filename>Ex11-3</filename> Aug 2011
+		</entry>
+		<entry>
+		  <itemizedlist>
+		    <listitem>
+		      <para><filename>Exercise:</filename> Functional Drill</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>For:</filename> Section wide</para>
+		    </listitem>
+		    <listitem>
+		      <para><filename>Purpose:</filename> tbd</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>Rationale:</filename> tbd</para>
+		    </listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+
+		<entry valign="top" align="right">
+		  <filename>SET 2011</filename> Oct 2011
+		</entry>
+		<entry>
+		  <itemizedlist>
+		    <listitem>
+		      <para><filename>Exercise:</filename> Functional Exercise</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>For:</filename> Section wide</para>
+		    </listitem>
+		    <listitem>
+		      <para><filename>Purpose:</filename> tbd</para>
+
+		    </listitem>
+		    <listitem>
+		      <para><filename>Rationale:</filename> tbd</para>
+		    </listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	    </tbody>
+
+	  </tgroup>
+	</table>
+
+
+      </para>
+    </section>
+  </section>

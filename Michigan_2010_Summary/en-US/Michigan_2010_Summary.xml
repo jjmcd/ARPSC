@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Michigan_2010_Summary.ent">
+%BOOK_ENTITIES;
+]>
+<article>
+  <xi:include href="Article_Info.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
+  />
+  <xi:include href="Overview.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="ARES.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="NTS.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="Individual.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
+  />
+  <xi:include href="NewMedia.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="Significant.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
+  />
+  <xi:include href="Exercises.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="Conferences.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
+  />
+  <xi:include href="SHSS.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+<!--  <index /> -->
+</article>
+

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Michigan_2010_Summary.ent">
+%BOOK_ENTITIES;
+]>
+  <section id="sect-Individual">
+    <title>Individual Amateur Reporting</title>
+    <para>
+      In addition to reporting by Emergency Coordinators and Net Managers,
+      individual amateurs are also encouraged to make reports.  There are three
+      reports from individuals; Public Service Honor Roll, Station Activity
+      Report, and Brass Pounder's League.
+    </para>
+    <section>
+      <title>Public Service Honor Roll</title>
+      <para>
+	The Public Service Honor Roll reporting combines activity in a number of
+	categories.  Stations get "points" for net checkins, traffic, Section
+	level appointments, public service oriented web or other digital
+	systems, and hours spent in public or emergency service.
+      </para>
+      <para>
+	If a station reports 70 points within a month, that station is listed in
+	QST, the amateur radio journal.  If a station is listed for 12
+	consecutive months, or for 18 months out of 24, the League will issue a
+	certificate.
+      </para>
+      <para>
+	PSHR reporting for 2010 has been relatively flat across the year.  The
+	summer months tend to be higher due to bad weather and various public
+	service events.
+	<figure float="0"><title>Public Service Honor Roll Reporting</title>
+	<mediaobject>
+              <imageobject>
+	    <imagedata scale="99" scalefit="1"
+              fileref="images/PSHR.png" format="PNG"/>
+	  </imageobject>
+	  <textobject>
+	    <para>
+	      PSHR Results
+	    </para>
+	  </textobject>
+	</mediaobject>
+      </figure>
+    </para>
+    </section>
+    <section>
+      <title>Station Activity Reports</title>
+      <para>
+	Stations handling traffic are encouraged to submit Station Activity
+	Reports (SAR) indicating the amount of traffic handled.  Only 31
+	stations reported during 2010.
+      </para>
+      <para>
+	Since most of the traffic is handled by relatively few stations, and
+	those stations tend to be the stations that report, the traffic totals
+	reported are quite high.  Stations handling a lot of traffic tend to be
+	those stations that act as liaisons to Region or Area nets, so even
+	though the number of stations reporting is quite small, the amount of
+	traffic reported is considerably larger than the totals from net
+	reports, which include only messages passed on Michigan nets.  For 2010,
+	Michigan stations individually reported 35,423 messages.
+	<figure float="0">
+	  <title>Station Activity Reports</title>
+	  <mediaobject>
+	    <imageobject>
+	      <imagedata scale="99" scalefit="1"
+		fileref="images/SAR-by-call.png" format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <para>
+		SAR Results
+	      </para>
+	    </textobject>
+	  </mediaobject>
+	</figure>
+      </para>
+    </section>
+    <section>
+      <title>Brass Pounder's League</title>
+      <para>
+	Stations reporting 500 messages passed in a single month, or a total of
+	100 originations plus deliveries are eligible for Brass Pounder's
+	league.  This requires substantial dedication, and only a few stations
+	achieve this award.
+      </para>
+      <para>
+	The stations qualifying in 2010 were:
+	<table frame="all" id="tbl-BPL">
+	  <title>Brass Pounder's League</title>
+	  <tgroup cols="3">
+	    <thead>
+	      <row>
+		<entry>Call</entry>
+		<entry>Name</entry>
+		<entry>Total</entry>
+	      </row>
+	    </thead>
+	    <tbody>
+	      <row>
+		<entry>WB8WKQ</entry>
+		<entry>Jeff Miller</entry>
+		<entry>9010</entry>
+	      </row>
+	      <row>
+		<entry>WB9JSR</entry>
+		<entry>John Wehmer</entry>
+		<entry>8287</entry>
+	      </row>
+	      <row>
+		<entry>K8LJG</entry>
+		<entry>John Kroll</entry>
+		<entry>1285</entry>
+	      </row>
+	      <row>
+		<entry>K8CQF</entry>
+		<entry>Joe Turner</entry>
+		<entry>101</entry>
+	      </row>
+	    </tbody>
+	  </tgroup>
+	</table>
+      </para>
+    </section>
+  </section>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE articleinfo PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Michigan_2010_Summary.ent">
+%BOOK_ENTITIES;
+]>
+<articleinfo id="arti-Michigan_2010_Summary-Michigan_2010_Summary">
+  <title>Michigan 2010 Summary</title>
+  <subtitle>An overview of the 2010 program year</subtitle>
+  <productname>ARPSC</productname>
+  <productnumber>2010</productnumber>
+  <edition>0</edition>
+  <pubsnumber>0</pubsnumber>
+  <abstract>
+    <para>
+      Working with state and local governments, as well as a wide variety of
+      non-governmental agencies, Michigan amateurs participate in a wide range
+      of public service and emergency preparedness activities.  This report
+      outlines the efforts of the 2010 calendar year.
+    </para>
+  </abstract>
+  <corpauthor>
+    <inlinemediaobject>
+      <imageobject>
+	<imagedata fileref="Common_Content/images/title_logo.svg" format="SVG" />
+      </imageobject>
+    </inlinemediaobject>
+  </corpauthor>
+  <xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+</articleinfo>
+

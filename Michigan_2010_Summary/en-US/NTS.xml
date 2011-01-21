@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Michigan_2010_Summary.ent">
+%BOOK_ENTITIES;
+]>
+  <section id="sect-NTS">
+    <title>National Traffic System</title>
+    <para>
+      Michigan's National Traffic System consists of amateurs who send messages
+      (called "traffic") around the Section and around the nation.  These
+      amateurs are organized into a group of on the air nets that meet
+      frequently with the intent of passing messages.  These are the "unsung
+      heros" of ARPSC; many practice their skill every day, but they operate
+      behind the scene, out of the eye of the served agencies and the public.
+    </para>
+    <para>
+      The individual nets report monthly.  Michigan nets send approximately 1000
+      messages a month.  In 2010, they reported 13,848 messages passed.  Not all
+      traffic is reported, although the large number of non-reporting nets
+      probably pass a small fraction of the messages. The chart below shows the
+      performance across the year: 
+      <figure float="0">
+	<title>Affiliated Net Reporting</title>
+	<mediaobject>
+              <imageobject>
+	    <imagedata scale="99" scalefit="1"
+              fileref="images/Netreport1.png" format="PNG"/>
+	  </imageobject>
+	  <textobject>
+	    <para>
+	      NTS Results
+	    </para>
+	  </textobject>
+	</mediaobject>
+      </figure>
+      Detailed reports for the most recent month are available at <ulink
+      type="http" url="http://www.mi-nts.org/netreport.php" />.  Links on the
+      page allow for viewing of previous reports or individual net history.
+    </para>
+    <para>
+      Michigan amateurs also participate in other nets.  The Eighth Region net
+      takes messages destined for out of state addresses, and collects traffic
+      bound for Michigan to pass to Michigan representatives who will then carry
+      those messages to the Michigan nets.  The Eastern Area Net interfaces
+      with the Region nets to move traffic among the Regions in the Eastern
+      Area.  The Transcontinental Corps arranges to move traffic between the
+      Areas.  Michigan amateurs participate in all of these, however that effort
+      is not reflected in Michigan reporting.
+    </para>
+    <section>
+      <title>Organization</title>
+      <para>
+	The bulk of the traffic is passed through ten affiliated nets.  Each net
+	has an appointed net manager, responsible for arranging net controls and
+	liaisons to other nets, and for reporting monthly to the Section Traffic
+	Manager.
+      </para>
+      <para>
+	The affiliated nets and their net managers are:
+	<table frame="all" id="tbl-NM">
+	  <title>Net Managers</title>
+	  <tgroup cols="3">
+	    <colspec colnum="1" colname="c1" colwidth="3*" />
+	    <colspec colnum="2" colname="c2" colwidth="1*" />
+	    <colspec colnum="3" colname="c3" colwidth="2*" />
+	    <thead>
+	      <row>
+		<entry>Net</entry>
+		<entry>Call</entry>
+		<entry>Net Manager</entry>
+	      </row>
+	    </thead>
+	    <tbody>
+	      <row>
+		<entry>Great Lakes Emergency and Traffic Net</entry>
+		<entry>WA8IAL</entry>
+		<entry>Jack Wiswasser</entry>
+	      </row>
+	      <row>
+		<entry>Michigan Amateur Communications System</entry>
+		<entry>WB9JSR</entry>
+		<entry>John Wehmer</entry>
+	      </row>
+	      <row>
+		<entry>Michigan ARPSC Net</entry>
+		<entry>WB8RCR</entry>
+		<entry>John McDonough</entry>
+	      </row>
+	      <row>
+		<entry>Michigan Traffic Net</entry>
+		<entry>WB8WKQ</entry>
+		<entry>Jeff Miller</entry>
+	      </row>
+	      <row>
+		<entry>Michigan VHF Traffic Net</entry>
+		<entry>AC8AR</entry>
+		<entry>Flora Jean Young</entry>
+	      </row>
+	      <row>
+		<entry>QMN, The Michigan Net</entry>
+		<entry>K8AE</entry>
+		<entry>Anne Travis</entry>
+	      </row>
+	      <row>
+		<entry>Southeast Michigan Traffic Net</entry>
+		<entry>WB8WKQ</entry>
+		<entry>Jeff Miller</entry>
+	      </row>
+	      <row>
+		<entry>Thumb and Mid-Michigan Traffic Net</entry>
+		<entry>K8VFZ</entry>
+		<entry>Grant Watson</entry>
+	      </row>
+	      <row>
+		<entry>Upper Peninsula Net</entry>
+		<entry>WA8DHB</entry>
+		<entry>Aileen Gagnon</entry>
+	      </row>
+	      <row>
+		<entry>Wolverine Single Sideband Net</entry>
+		<entry>K9RON</entry>
+		<entry>Ron Warczynski</entry>
+	      </row>
+	    </tbody>
+	  </tgroup>
+	</table>
+	To be eligible for affiliation, a net must report regularly and maintain
+	liaison with other National Traffic System nets.
+      </para>
+      <para>
+	In addition, there are perhaps 40 other nets operating within the state,
+	approximately ten of which report regularly.
+      </para>
+      <para>
+	The STM has a small number of assistants who engage in
+	projects such as liaison with other entities, training, and
+	administrative duties:
+	<table frame="all" id="tbl-ASTM">
+	  <title>Assistant Section Traffic Managers</title>
+	  <tgroup cols="2">
+	    <thead>
+	      <row>
+		<entry>Call</entry>
+		<entry>ASTM</entry>
+	      </row>
+	    </thead>
+	    <tbody>
+	      <row>
+		<entry>KB8RCR</entry>
+		<entry>Ryan Lughermo</entry>
+	      </row>
+	      <row>
+		<entry>VE3EUI</entry>
+		<entry>Dennis Wilkinson</entry>
+	      </row>
+	      <row>
+		<entry>WD8USA</entry>
+		<entry>Joe Bell</entry>
+	      </row>
+	    </tbody>
+	  </tgroup>
+	</table>
+      </para>
+    </section>
+  </section>

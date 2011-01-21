@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Michigan_2010_Summary.ent">
+%BOOK_ENTITIES;
+]>
+
+  <section id="sect-Conferences">
+    <title>Conferences</title>
+    <para>
+      In 2010, the Section Emergency Coordinator attended two conferences
+      sponsored by the Michigan State Police.  Several Emergency Coordinators
+      also attended these conferences.
+    </para>
+    <para>
+      In May, the SEC attended the State Homeland Security Conference in Grand
+      Rapids.  Topics covered included terrorism, cyber security, use of social
+      media, and interoperable communications.
+    </para>
+    <para>
+      In November, the SEC was privileged to speak at the State Interoperable
+      Communications Conference in Traverse City.  This conference was attended
+      by a large number of Emergency Management Coordinators from across the
+      state as well as other first responders.
+    </para>
+  </section>

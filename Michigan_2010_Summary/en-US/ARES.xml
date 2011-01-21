@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Michigan_2010_Summary.ent">
+%BOOK_ENTITIES;
+]>
+  <section id="sect-ARES">
+    <title>Amateur Radio Emergency Service</title>
+    <para>
+      ARES represents the largest program.  ARES has a program in each Michigan
+      county, managed by an Emergency Coordinator who works closely with the
+      Emergency Management Director of the county to provide backup
+      communications to the local jurisdiction.
+    </para>
+    <para>
+      Because Michigan counties are so varied, the ARES organizations within
+      those counties are quite varied.  Although their primary customer is
+      typically the county Emergency Management organization, they may also work
+      with the local Red Cross, Salvation Army, and other NGOs.  In some
+      counties, the liaison with the fire departments or Sheriff's office is
+      especially close.  Each county has different needs, and the ARES
+      organization attempts to meet those needs.
+    </para>
+    <para>
+      In Michigan, and especially southern Michigan, severe weather is common,
+      and in many cases, the greatest effort is expended with weather related
+      activities.  Amateurs spot bad weather and report to their National
+      Weather Service office when bad weather is approaching, and following
+      severe weather, are often involved in recovery operations.
+    </para>
+    <para>
+      Late spring and early summer tend to be the time when damaging weather is
+      encountered, and this is also the time that many organizations hold runs,
+      walks and other events for which amateurs frequently provide
+      communications.  Hence, the peaks in the middle of the year in the graph
+      below: 
+      <figure float="0"><title>Michigan ARES Hours</title>
+	<mediaobject>
+              <imageobject>
+	    <imagedata scale="99" scalefit="1"
+              fileref="images/FSD212.png" format="PNG"/>
+	  </imageobject>
+	  <textobject>
+	    <para>
+	      FSD-212 Results
+	    </para>
+	  </textobject>
+	</mediaobject>
+      </figure>
+      Michigan ARES programs reported 55,087 hours in 2010, 7035 of them
+      occuring in June.  2010 was a very light year for damaging weather.  In
+      2009, when the state experienced much severe weather, more than twice that
+      effort was reported in May alone, with all the late spring/early summer
+      months exceeding June of 2010.
+    </para>
+    <section>
+      <title>Organization</title>
+      <para>
+	The Michigan State Police divides the state into 7 Districts, and
+	appoints a District Coordinator for each.  ARES has a District Emergency
+	Coordinator for each of those districts, who works with the District
+	coordinator.  In addition, the Section appoints a District Emergency
+	Coordinator for each of the National Weather Service offices in the
+	state.  This NWS DEC works with the office's Warning Coordination
+	Meteorologist to provide training to SKYWARN members and implement
+	circuits that permit field observations to be transmitted to the NWS
+	office effectively.
+      </para>
+      <para>
+	These DECs are as follows:
+	<table frame="all" id="tbl-DEC">
+	  <title>District Emergency Coordinators</title>
+	  <tgroup cols="3">
+	    <thead>
+	      <row>
+		<entry>District</entry>
+		<entry>DEC Call</entry>
+		<entry>DEC Name</entry>
+	      </row>
+	    </thead>
+	    <tbody>
+	      <row>
+		<entry>1</entry>
+		<entry>K8YZA</entry>
+		<entry>Joe Pullen</entry>
+	      </row>
+	      <row>
+		<entry>2</entry>
+		<entry>K8UP</entry>
+		<entry>John Fleming</entry>
+	      </row>
+	      <row>
+		<entry>3</entry>
+		<entry>N8OSL</entry>
+		<entry>Joe Tuscher</entry>
+	      </row>
+	      <row>
+		<entry>5</entry>
+		<entry>KB8FQJ</entry>
+		<entry>Carl Flickinger</entry>
+	      </row>
+	      <row>
+		<entry>6</entry>
+		<entry>KB8VEE</entry>
+		<entry>Tom van der Mel</entry>
+	      </row>
+	      <row>
+		<entry>7</entry>
+		<entry>WA8RLI</entry>
+		<entry>Red Duggan</entry>
+	      </row>
+	      <row>
+		<entry>8</entry>
+		<entry>KG8NK</entry>
+		<entry>Lou Gembolis</entry>
+	      </row>
+	      <row>
+		<entry>APX</entry>
+		<entry>KC8YTK</entry>
+		<entry>Chris Stinson</entry>
+	      </row>
+	      <row>
+		<entry>DTX</entry>
+		<entry>N8ZSA</entry>
+		<entry>Ted Davis</entry>
+	      </row>
+	      <row>
+		<entry>GRR</entry>
+		<entry>N8VLN</entry>
+		<entry>Michael Gage</entry>
+	      </row>
+	      <row>
+		<entry>MQT</entry>
+		<entry>KI8AF</entry>
+		<entry>Greg Hanson</entry>
+	      </row>
+	    </tbody>
+	  </tgroup>
+	</table>
+	In addition, the Section Emergency Coordinator maintains a small staff
+	to help organize the section.  These assistant SECs are:
+	<table frame="all" id="tbl-ASEC">
+	  <title>Assistant Section Emergency Coordinators</title>
+	  <tgroup cols="3">
+	    <thead>
+	      <row>
+		<entry>Role</entry>
+		<entry>ASEC Call</entry>
+		<entry>ASEC Name</entry>
+	      </row>
+	    </thead>
+	    <tbody>
+	      <row>
+		<entry>SEOC Alternate</entry>
+		<entry>N8ERF</entry>
+		<entry>Dr. Dennis Klipa</entry>
+	      </row>
+	      <row>
+		<entry>SEOC Station Manager</entry>
+		<entry>K8RDN</entry>
+		<entry>Robert Berger</entry>
+	      </row>
+	      <row>
+		<entry>Training and Exercises</entry>
+		<entry>NX8A</entry>
+		<entry>John (Jack) Hutcheson</entry>
+	      </row>
+	    </tbody>
+	  </tgroup>
+	</table>
+      </para>
+    </section>
+  </section>

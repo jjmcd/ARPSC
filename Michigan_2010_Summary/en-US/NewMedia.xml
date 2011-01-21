@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Michigan_2010_Summary.ent">
+%BOOK_ENTITIES;
+]>
+
+<section id="sect-NewMedia">
+    <title>New Media</title>
+    <para>
+      The section utilizes a number of electronic media to communicate with
+      members and potential members.
+    </para>
+    <section>
+      <title>Electronic Mail</title>
+      <para>
+	The Section Emergency Coordinator maintains an email list of all
+	Emergency Coordinators and District Emergency coordinators and uses this
+	as a primary means of direct communications with the ECs.  The Section
+	Traffic Manager maintains a similar list of Net Managers.
+      </para>
+    </section>
+    <section>
+      <title>Web</title>
+      <para>
+	ARPSC maintains two web sites, one for ARES and one for NTS.
+	There is also a Section web site for more general information, and a web
+	site maintained by the Digiral Radio Group.
+	<table frame="all" id="tbl-web">
+	  <title>Web Sites</title>
+	  <tgroup cols="3">
+	    <thead>
+	      <row>
+		<entry>Site</entry>
+		<entry>URL</entry>
+		<entry>Content</entry>
+	      </row>
+	    </thead>
+	    <tbody>
+	      <row>
+		<entry>Michigan Section</entry>
+		<entry>
+		  <ulink type="http" url="http://arrl-mi.org" />
+		</entry>
+		<entry>
+		  Section news of general interest to amateurs in the Michigan
+		  Section 
+		</entry>
+	      </row>
+	      <row>
+		<entry>Amateur Radio Emergency Services</entry>
+		<entry>
+		  <ulink type="http" url="http://www.mi-arpsc.org" />
+		</entry>
+		<entry>
+		  Reference information of interest to ARES members, as well as
+		  performance data
+		</entry>
+	      </row>
+	      <row>
+		<entry>National Traffic System</entry>
+		<entry>
+		  <ulink type="http" url="http://www.mi-nts.org" />
+		</entry>
+		<entry>
+		  Reference information of interest to NTS members, as well as
+		  performance data
+		</entry>
+	      </row>
+	      <row>
+		<entry>Digital Radio Group</entry>
+		<entry>
+		  <ulink type="http" url="http://www.mi-drg.org" />
+		</entry>
+		<entry>
+		  Reference information concerning various digital modes,
+		  especially packet.
+		</entry>
+	      </row>
+	    </tbody>
+	  </tgroup>
+	</table>
+      </para>
+      <para>
+	The screenshot below shows an example page from the mi-arpsc site.
+	<figure float="0">
+	  <title>mi-arpsc Website</title>
+	  <mediaobject>
+	    <imageobject>
+	      <imagedata scale="50" scalefit="1"
+		fileref="images/ARPSC-website.png" format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <para>
+		ARPSC website
+	      </para>
+	    </textobject>
+	  </mediaobject>
+	</figure>
+      </para>
+      <para>
+	In addition to the Section sites, many Districts and Nets also maintain
+	web sites.
+      </para>
+    </section>
+    <section>
+      <title>Blogs</title>
+      <para>
+	The Section Emergency Coordinator also maintains a blog, however this
+	mode has proven to be of limited utility.  Much of the information
+	that the SEC must communicate with ARPSC members has to do with the
+	emergency planning of the State of Michigan.  This information should
+	not be widely distributed, and blogs are easily located by search
+	engines.  As a result, blog entries have been relatively sparse.
+      </para>
+    </section>
+    <section>
+      <title>Online Social Groups</title>
+      <para>
+	The Section also maintains two Yahoo groups, the
+	<filename>MIARPSC</filename> group is available to all Michigan
+	amateurs, and is often useful for a number of discussions.  The
+	<filename>MIARPSC-DEC</filename> group is private to DECs and ADECs, and
+	is used for discussions within a smaller group.
+      </para>
+      <para>
+	As with websites, many Districts and nets have found it helpful to
+	maintain their own groups, most of these also on Yahoo.
+      </para>
+    </section>
+    <section>
+      <title>Microblogging</title>
+      <para>
+	The section maintains two microblogging accounts;
+	<filename>miarpsc</filename> on <filename>identi.ca</filename> and
+	<filename>mi_arpsc</filename> on <filename>twitter.com</filename>.
+	"Tweets" or "dents" are sent to these sites periodically to remind
+	followers of various upcoming events.  Both sites get exactly the same
+	feed.  There is also a page on the mi-arpsc web site, <ulink type="http"
+	url="http://www.mi-arpsc.org/arpsc_tweets.php" />  where those who do
+	not follow either microblogging site may view the feed.
+	<figure float="0"><title>ARPSC Twitter Feed</title>
+	  <mediaobject>
+	    <imageobject>
+	      <imagedata scale="50" scalefit="1"
+		fileref="images/Twitter.png" format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <para>
+		Twitter Feed
+	      </para>
+	    </textobject>
+	  </mediaobject>
+	</figure>
+      </para>
+      <para>
+	The section tries to keep the volume to a few tweets a week to
+	prevent followers from feeling that the feed is too burdensome.  Many of
+	the tweets use the <filename>#hamr</filename> hash tag, causing those
+	that follow amateur radio tweets to also see the messages.
+      </para>
+    </section>
+    <section>
+      <title>Online Meetings</title>
+      <para>
+	Meetings within smaller groups are often held remotely.  Simple phone
+	conferences are frequently used.  In addition, <filename>GoTo
+	Meeting</filename>, and more recently, <filename>Vyew</filename> allow
+	documents to be shared online during these phone conferences.
+      </para>
+    </section>
+    <section>
+      <title>Wiki</title>
+      <para>
+	The section also maintains a wiki which is used by the ARPSC leadership
+	to develop certain plans and strategies.  A wiki allows all participants
+	to contribute asynchronously to a "document", which in many cases can be
+	helpful. 
+	<figure float="0"><title>Example Wiki Page</title>
+	  <mediaobject>
+	    <imageobject>
+	      <imagedata scale="50" scalefit="1"
+		fileref="images/Wiki.png" format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <para>
+		Wiki Page
+	      </para>
+	    </textobject>
+	  </mediaobject>
+	</figure>
+	The wiki is maintained on <filename>github</filename> which keeps a
+	historical record and allows easy rollback of changes if necessary.
+      </para>
+    </section>
+  </section>
