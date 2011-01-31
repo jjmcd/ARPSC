@@ -8,6 +8,24 @@
   <simpara>
     <revhistory>
       <revision>
+	<revnumber>1</revnumber>
+	<date>Mon Jan 31 2011</date>
+	<author>
+	  <firstname>John</firstname>
+	  <surname>McDonough</surname>
+	  <email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Add contact information for ARPSC staff</member>
+	    <member>Emphasize use of E-Team</member>
+	    <member>Remove Wolverine Net</member>
+	    <member>Add Michigan Digital Traffic Net</member>
+	    <member>Add section on challenged communications</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
+      <revision>
 	<revnumber>0</revnumber>
 	<date>Sat Sep 25 2010</date>
 	<author>

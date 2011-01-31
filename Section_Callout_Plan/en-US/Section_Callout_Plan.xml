@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8' ?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
 <!ENTITY % BOOK_ENTITIES SYSTEM "Section_Callout_Plan.ent">
 %BOOK_ENTITIES;
@@ -15,6 +15,16 @@
 	Police via E-Team notification when the SEOC is fully activated,
 	or a need for amateur radio is perceived.
       </para>
+<!--
+      <important>
+	<title>Keep eTeam up to date</title>
+	<para>
+	  The SEC monitors E-Team and uses it to update State
+	  officials during an incident.  Be sure to keep your SitRep
+	  up to date.
+	</para>
+      </important>
+-->
       <para>
 	The SEC also monitors E-Team to be alert to incidents which
 	may deteriorate to the point that SEC attention is required.
@@ -24,11 +34,30 @@
       <title>Local/Regional events</title>
       <para>
 	For local or regional events, the affected EC should notify
-	the SEC by cell phone (989-430-4855) or E-Team notification.
-	For events of lower urgency the EC may prefer email.  When the
-	EC is under significant pressure (as is often the case in the
-	event of an activation), the EC may delegate notification to
-	the DEC.
+	the DEC who will then notify the SEC by E-Team alert or by cell
+	phone (989-430-4855).  If the DEC is not available, the EC
+	should notify the SEC directly.  For events of lower urgency
+	the EC or DEC may prefer email.
+	<note>
+	  <title>E-Team Alert is best</title>
+	  <para>
+	    Since E-Team uses multiple paths, the best method of alert
+	    is through an E-Team targeted alert.
+	  </para>
+	</note>
+      </para>
+      <para>
+	Even when a callout does not seem significant, the SEC should
+	be notified.  The SEC's broader view may allow him to alert
+	ECs to issues not visible to the EC.
+      <warning>
+	<title>Keep eTeam up to date</title>
+	<para>
+	  The SEC monitors E-Team and uses it to update State
+	  officials during an incident.  Be sure to keep your SitRep
+	  up to date.
+	</para>
+      </warning>
       </para>
     </section>
     <section>
@@ -44,6 +73,111 @@
       <para>
 	As required, the SEC may notify the Assistant SECs by telephone.
       </para>
+      <section>
+	<title>ARPSC Staff Contact Information</title>
+	<section>
+	  <title>ASEC Contact Information</title>
+
+	<itemizedlist>
+	  <listitem>
+	    <para>
+	      Dr. Dennis Klipa, N8ERF, SEOC Alternate
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    cell 989-948-5427
+		  </para>
+		</listitem>
+		<listitem>
+		  <para>
+		    home 989-636-7704
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+	  <listitem>
+	    <para>
+	      John Hutcheson, NX8A, Training and Exercises
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    cell 989-430-7560
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+	  <listitem>
+	    <para>
+	      Bob Berger, K8RDN, SEOC Station Manager
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    home 517-882-0370
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+	</itemizedlist>
+	</section>
+
+	<section>
+	  <title>ASTM Contact Information</title>
+
+	<itemizedlist>
+	  <listitem>
+	    <para>
+	      Joe Bell, WD8USA, Red Cross, MARS Liaison
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    home 616-866-3801
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+	  <listitem>
+	    <para>
+	      Ryan Lughermo, KB8RCR, Administration
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    cell 989-710-7008
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+	  <listitem>
+	    <para>
+	      Dennis Wilkinson, VE3EUI, EMO Liaison
+	      <itemizedlist>
+		<listitem>
+		  <para>
+		    home 705-251-4481
+		  </para>
+		</listitem>
+		<listitem>
+		  <para>
+		    cell 705-945-5013
+		  </para>
+		</listitem>
+	      </itemizedlist>
+	    </para>
+	  </listitem>
+
+	</itemizedlist>
+	</section>
+      </section>
+
     </section>
   </section>
 
@@ -95,9 +229,15 @@
 
     <para>
       In addition, all the ASECs are included in that notification.
-      DECs are strongly encouraged to join E-Team themselves, and
-      ensure at least one assistant DEC also is qualified for E-Team.
-      Less than half of the DECs currently are qualified for E-Team.
+      <important>
+	<title>Follow E-Team</title>
+	<para>
+	  DECs are strongly encouraged to join E-Team themselves, and
+	  ensure at least one assistant DEC also is qualified for
+	  E-Team.  Less than half of the DECs currently are qualified
+	  for E-Team.
+	</para>
+      </important>
     </para>
     <section>
       <title>National Weather Service Offices</title>
@@ -287,6 +427,11 @@
 	  </listitem>
 	</itemizedlist>
       </para>
+      <para>
+	If it becomes necessary to directly contact an Emergency
+	Coordinator, complete contact information for Emergency
+	Coordinators is available in the SEOC Position Manual.
+      </para>
     </section>
   </section>
 
@@ -363,24 +508,25 @@
 
 	  <listitem>
 	    <para>
-	      UP
+	      MDTN
 	      <itemizedlist>
 		<listitem>
 		  <para>
-		    Aileen Gagnon - 906-428-9789
+		    Ed Bassett - 989-821-7729
 		  </para>
 		</listitem>
 	      </itemizedlist>
 	    </para>
 	  </listitem>
 
+
 	  <listitem>
 	    <para>
-	      Wolverine
+	      UP
 	      <itemizedlist>
 		<listitem>
 		  <para>
-		    Ron Warczynski - 269-468-4068
+		    Aileen Gagnon - 906-428-9789
 		  </para>
 		</listitem>
 	      </itemizedlist>
@@ -430,11 +576,82 @@
 	</itemizedlist>
       </para>
     </section>
-
+  </section>
+  <section>
+    <title>Challenged Communications</title>
+    <para>
+      When commercial communications are not available, the SEC will
+      attempt to make notification on radiotelegraph and then
+      radiotelephone immediately on notification of the incident,
+      and then once per hour.
+    </para>
+      <para>
+	<note>
+	  <title>Radiotelegraph is far more reliable</title>
+	  <para>
+	    Experience has shown that communications across the state on
+	    radiotelephone is often challenging.  Stations should equip
+	    themselves for radiotelegraph communications whenever
+	    possible.
+	  </para>
+	</note>
+      </para>
+      <para>
+	Radiotelegraph notification will occur on the hour and
+	radiotelephone notification at 15 minutes after the hour,
+	until such time as either the MIARPSC or QMN net has been
+	fully activated, or until the SEC leaves for the SEOC.
+      </para>
+      <para>
+	<table frame="all">
+	  <title>Emergency Frequencies</title>
+	  <tgroup cols="3">
+	    <thead>
+	      <row>
+		<entry>Conditions</entry>
+		<entry>Radiotelegraph</entry>
+		<entry>Radiotelephone</entry>
+	      </row>
+	    </thead>
+	    <tbody>
+	      <row>
+		<entry>
+		  Normal conditions
+		</entry>
+		<entry>3.563</entry>
+		<entry>3.932</entry>
+	      </row>
+	      <row>
+		<entry>
+		  Summer, daytime, high flux. Lower frequencies are
+		  too noisy to support communications.
+		</entry>
+		<entry>7.068</entry>
+		<entry>7.232</entry>
+	      </row>
+	      <row>
+		<entry>
+		  Winter, nighttime, low flux.  Short skip (within
+		  state) is not possible on higher frequencies.
+		</entry>
+		<entry>1.812</entry>
+		<entry>1.932</entry>
+	      </row>
+	    </tbody>
+	  </tgroup>
+	</table>
+      </para>
+      <para>
+	When the situation warrants, the DEC may also notify programs
+	via the CMEN linked repeater system and/or the IRA link.
+	Repeated notification, when required, will take place on the
+	CMEN system at the bottom of the hour and the IRA system a 45
+	minutes after the hour.
+      </para>
 
   </section>
     
     <xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-    <!--	<index /> -->
+    <!-- <index /> -->
   </article>
   
