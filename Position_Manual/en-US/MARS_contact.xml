@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE Article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<appendix>
+  <title>MARS Contact Information</title>
+
+  <table frame="all">
+    <title>MARS Contact Information</title>
+    <tgroup cols="5">
+      <thead>
+	<row>
+	  <entry>Position</entry>
+	  <entry>Name</entry>
+	  <entry>Call</entry>
+	  <entry>MARS Call</entry>
+	  <entry>Contact Information</entry>
+	</row>
+      </thead>
+      <tbody>
+	<row>
+	  <entry>State MARS Director</entry>
+	  <entry>Dave Bock</entry>
+	  <entry>W8OHS</entry>
+	  <entry>AAA5MI</entry>
+	  <entry>
+	    <itemizedlist spacing='compact'>
+	      <listitem><para>Home: 586-943-5381</para></listitem>
+	    </itemizedlist>
+	  </entry>
+	</row>
+	<row>
+	  <entry>Interoperability Officer</entry>
+	  <entry>Joe Bell</entry>
+	  <entry>WD8USA</entry>
+	  <entry>AAM5IMI</entry>
+	  <entry>
+	    <itemizedlist spacing='compact'>
+	      <listitem><para>Home: 616-866-3801</para></listitem>
+	    </itemizedlist>
+	  </entry>
+	</row>
+	<row>
+	  <entry>SEOC Contact</entry>
+	  <entry>Jim Harvey</entry>
+	  <entry>KA8DDQ</entry>
+	  <entry>AAT5CA</entry>
+	  <entry>
+	    <itemizedlist spacing='compact'>
+	      <listitem><para>Home: 517-394-5254</para></listitem>
+	      <listitem><para>Also E-Team targeted alerts</para></listitem>
+	    </itemizedlist>
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </table>
+</appendix>

@@ -19,6 +19,10 @@
 	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
   <xi:include href="EC_contact.xml" 
 	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+  <xi:include href="NM_contact.xml" 
+	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+  <xi:include href="MARS_contact.xml" 
+	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
   <!--<xi:include href="Legal_Include.xml"
 	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include> -->
   <xi:include href="Revision_History.xml" 
