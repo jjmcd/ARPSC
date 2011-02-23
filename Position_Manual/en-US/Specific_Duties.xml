@@ -2,7 +2,7 @@
 <!DOCTYPE Article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
 ]>
 
-  <section>
+  <chapter>
     <title>Specific Duties</title>
 
     <section>
@@ -101,4 +101,4 @@
 	technical details and focus on capability.
       </para>
     </section>
-  </section>
+  </chapter>

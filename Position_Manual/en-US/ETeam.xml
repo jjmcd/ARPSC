@@ -2,7 +2,7 @@
 <!DOCTYPE Article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
 ]>
 
-<section>
+<chapter>
   <title>E-Team</title>
 
   <section>
@@ -37,11 +37,10 @@
 	    <warning>
 	      <title>Use SEOC-specific password</title>
 	      <para>
-		  &nbsp;
-	      </para>
-	    </warning>
 	      Do not use your personal password when logging on at
 	      the SEOC.
+	      </para>
+	    </warning>
 	  </para>
 	</listitem>
       </itemizedlist>
@@ -87,4 +86,4 @@
       </itemizedlist>
     </para>
   </section>
-</section>
+</chapter>
