@@ -8,6 +8,22 @@
   <simpara>
     <revhistory>
       <revision>
+	<revnumber>3</revnumber>
+	<date>Wed Feb 23 2011</date>
+	<author>
+	  <firstname>John</firstname>
+	  <surname>McDonough</surname>
+	  <email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Additional contact information updates</member>
+	    <member>Formatting improvements in phone lists</member>
+	    <member>Additional prose in frequency table</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
+      <revision>
 	<revnumber>2</revnumber>
 	<date>Wed Feb 23 2011</date>
 	<author>
