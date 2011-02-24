@@ -6,6 +6,19 @@
   <simpara>
     <revhistory>
       <revision>
+	<revnumber>10</revnumber>
+        <date>Wed Feb 23 2011</date>
+        <author><firstname>John</firstname>
+	<surname>McDonough</surname>
+	<email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Additional contact information for DECs, NMs</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
+      <revision>
 	<revnumber>9</revnumber>
         <date>Wed Feb 23 2011</date>
         <author><firstname>John</firstname>

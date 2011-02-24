@@ -2,85 +2,205 @@
 <!DOCTYPE Article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
 ]>
   <appendix><title>District Emergency Coordinators</title>
-    <table frame="all" id="tbl-DEC">
-      <title>District Emergency Coordinators</title>
-      <tgroup cols="4">
-	<thead>
-	  <row>
-	    <entry>District</entry>
-	    <entry>Call</entry>
-	    <entry>Name</entry>
-	    <entry>Phone</entry>
-	  </row>
-	</thead>
-	<tbody>
-	  <row>
-	    <entry>1</entry>
-	    <entry>K8YZA</entry>
-	    <entry>Joe Pullen</entry>
-	    <entry>517-263-2181</entry>
-	  </row>
-	  <row>
-	    <entry>2</entry>
-	    <entry>K8UP</entry>
-	    <entry>John Fleming</entry>
-	    <entry>248-542-9573</entry>
-	  </row>
-	  <row>
-	    <entry>3</entry>
-	    <entry>N8OSL</entry>
-	    <entry>Joe Tuscher</entry>
-	    <entry>810-908-3089</entry>
-	  </row>
-	  <row>
-	    <entry>5</entry>
-	    <entry>KB8FQJ</entry>
-	    <entry>Carl Flickinger</entry>
-	    <entry>269-873-7891</entry>
-	  </row>
-	  <row>
-	    <entry>6</entry>
-	    <entry>KB8VEE</entry>
-	    <entry>Tom van der Mel</entry>
-	    <entry>231-206-0422</entry>
-	  </row>
-	  <row>
-	    <entry>7</entry>
-	    <entry>WA8RLI</entry>
-	    <entry>Red Duggan</entry>
-	    <entry>586-413-2831</entry>
-	  </row>
-	  <row>
-	    <entry>8</entry>
-	    <entry>KG8NK</entry>
-	    <entry>Lou Gembolis</entry>
-	    <entry>906-485-5442</entry>
-	  </row>
-	  <row>
-	    <entry>APX</entry>
-	    <entry>KC8YTK</entry>
-	    <entry>Chris Stinson</entry>
-	    <entry>989-430-2375</entry>
-	  </row>
-	  <row>
-	    <entry>DTX</entry>
-	    <entry>N8ZSA</entry>
-	    <entry>Ted Davis</entry>
-	    <entry>248-842-4077</entry>
-	  </row>
-	  <row>
-	    <entry>GRR</entry>
-	    <entry>N8VLN</entry>
-	    <entry>Michael Gage</entry>
-	    <entry>616-538-0502</entry>
-	  </row>
-	  <row>
-	    <entry>MQT</entry>
-	    <entry>KI8AF</entry>
-	    <entry>Greg Hanson</entry>
-	    <entry>906-225-1594</entry>
-	  </row>
-	</tbody>
-      </tgroup>
-    </table>
+      <table frame="all" id="tbl-DEC">
+	<title>District Emergency Coordinators</title>
+	<tgroup cols="4">
+	  <colspec colnum="1" colname="c1" colwidth="1*" />
+	  <colspec colnum="2" colname="c2" colwidth="1*" />
+	  <colspec colnum="3" colname="c3" colwidth="2*" />
+	  <colspec colnum="4" colname="c4" colwidth="2*" />
+	  <thead>
+	    <row>
+	      <entry>District</entry>
+	      <entry>Call</entry>
+	      <entry>Name</entry>
+	      <entry>Phone</entry>
+	    </row>
+	  </thead>
+	  <tbody>
+	    <row>
+	      <entry>1</entry>
+	      <entry>K8YZA</entry>
+	      <entry>Joe Pullen</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Mobile: 517-260-1185</para></listitem>
+		  <listitem><para>Home: 517-547-6794</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>2</entry>
+	      <entry>K8UP</entry>
+	      <entry>John Fleming</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem>
+		    <para>
+		      Mobile: 248-320-7739
+		    </para>
+		  </listitem>
+		  <listitem>
+		    <para>
+		      Home: 248-542-9573
+		    </para>
+		  </listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>3</entry>
+	      <entry>N8OSL</entry>
+	      <entry>Joe Tuscher</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem>
+		    <para>
+		      Mobile: 810-908-3089
+		    </para>
+		  </listitem>
+		  <listitem>
+		    <para>
+		      Home: 810-742-3866
+		    </para>
+		  </listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>5</entry>
+	      <entry>KB8FQJ</entry>
+	      <entry>Carl Flickinger</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem>
+		    <para>
+		      Mobile: 269-873-7891
+		    </para>
+		  </listitem>
+		  <listitem>
+		    <para>
+		      Home: 269-685-8277
+		    </para>
+		  </listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>6</entry>
+	      <entry>KB8VEE</entry>
+	      <entry>Tom van der Mel</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem>
+		    <para>
+		      Mobile: 231-206-0422
+		    </para>
+		  </listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>7</entry>
+	      <entry>WA8RLI</entry>
+	      <entry>Red Duggan</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem>
+		    <para>
+		      Home: 989-275-2443
+		    </para>
+		  </listitem>
+		  <listitem>
+		    <para>
+		      Mobile: 586-413-2831 
+		    </para>
+		  </listitem>
+		  <listitem>
+		    <para>
+		      Pager: 9892533247@arch.net
+		    </para>
+		  </listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>8</entry>
+	      <entry>KG8NK</entry>
+	      <entry>Lou Gembolis</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem>
+		    <para>
+		      Home: 906-485-5442
+		    </para>
+		  </listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>APX</entry>
+	      <entry>KC8YTK</entry>
+	      <entry>Chris Stinson</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem>
+		    <para>
+		      Mobile: 989-430-2375
+		    </para>
+		  </listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>DTX</entry>
+	      <entry>N8ZSA</entry>
+	      <entry>Ted Davis</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem>
+		    <para>
+		      Mobile: 248-628-2747
+		    </para>
+		  </listitem>
+		  <listitem>
+		    <para>
+		      Mobile: 248-842-4077
+		    </para>
+		  </listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>GRR</entry>
+	      <entry>N8VLN</entry>
+	      <entry>Michael Gage</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem>
+		    <para>
+		      Home: 616-538-0502
+		    </para>
+		  </listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>MQT</entry>
+	      <entry>KI8AF</entry>
+	      <entry>Greg Hanson</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem>
+		    <para>
+		      Home: 906-225-1594
+		    </para>
+		  </listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	  </tbody>
+	</tgroup>
+      </table>
+
   </appendix>

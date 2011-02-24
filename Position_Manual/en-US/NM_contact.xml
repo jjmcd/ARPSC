@@ -3,123 +3,129 @@
 ]>
 <appendix>
   <title>Net Manager Contact Information</title>
+	<table frame="all" id="tbl-NM">
+	  <title>Net Manager Contact Information</title>
+	  <tgroup cols="5">
+	    <colspec colnum="1" colname="c1" colwidth="1*" />
+	    <colspec colnum="2" colname="c2" colwidth="2*" />
+	    <colspec colnum="3" colname="c3" colwidth="2*" />
+	    <colspec colnum="4" colname="c4" colwidth="1*" />
+	    <colspec colnum="5" colname="c5" colwidth="2*" />
+	    <thead>
+	      <row>
+		<entry>Net Acronym</entry>
+		<entry>Net Name</entry>
+		<entry>Net Manager</entry>
+		<entry>Call</entry>
+		<entry>Contact Information</entry>
+	      </row>
+	    </thead>
+	    <tbody>
+	      <row>
+		<entry>QMN</entry>
+		<entry>The Michigan Net</entry>
+		<entry>Anne Travis</entry>
+		<entry>K8AE</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>Home: 313-563-0177</para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>MITN</entry>
+		<entry>Michigan Traffic Net</entry>
+		<entry>Jeff Miller</entry>
+		<entry>WB8WKQ</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>Home: 248-628-3719</para></listitem>
+		    <listitem><para>Mobile: 248-330-0335</para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>GLETN</entry>
+		<entry>Great Lakes Emergency and Traffic Net</entry>
+		<entry>Jack Wiswasser</entry>
+		<entry>WA8IAL</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>Home: 517-641-8553</para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>MACS</entry>
+		<entry>Michigan Amateur Communications System</entry>
+		<entry>John Wehmer</entry>
+		<entry>WB9JSR</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>Home: 616-847-6409</para></listitem>
+		    <listitem><para>Mobile: 616-502-4800</para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>MDTN</entry>
+		<entry>Michigan Digital Traffic Net</entry>
+		<entry>Ed Bassett</entry>
+		<entry>N8FVM</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>Home: 989-821-7729</para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>UP</entry>
+		<entry>Upper Peninsula Net</entry>
+		<entry>Aileen Gagnon</entry>
+		<entry>WA8DHB</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>Home: 906-428-9789</para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>MVTN</entry>
+		<entry>Michigan VHF Traffic Net</entry>
+		<entry>Flora Jean Young</entry>
+		<entry>AC8AR</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>Home: 231-893-3341</para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>SEMTN</entry>
+		<entry>Southeast Michigan Traffic Net</entry>
+		<entry>Jeff Miller</entry>
+		<entry>WB8WKQ</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>Home: 248-628-3719</para></listitem>
+		    <listitem><para>Mobile: 248-330-0335</para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	      <row>
+		<entry>TMMTN</entry>
+		<entry>Thumb and Mid-Michigan Traffic Net</entry>
+		<entry>Grant Watson</entry>
+		<entry>K8VFZ</entry>
+		<entry>
+		  <itemizedlist spacing='compact'>
+		    <listitem><para>Home: 810-982-7488</para></listitem>
+		  </itemizedlist>
+		</entry>
+	      </row>
+	    </tbody>
+	  </tgroup>
+	</table>
 
-  <table frame="all">
-    <title>Net Manager Contact Information</title>
-    <tgroup cols="5">
-      <thead>
-	<row>
-	  <entry>Net Acronym</entry>
-	  <entry>Net Name</entry>
-	  <entry>Net Manager</entry>
-	  <entry>Call</entry>
-	  <entry>Contact Information</entry>
-	</row>
-      </thead>
-      <tbody>
-	<row>
-	  <entry>QMN</entry>
-	  <entry>The Michigan Net</entry>
-	  <entry>Anne travis</entry>
-	  <entry>K8AE</entry>
-	  <entry>
-	    <itemizedlist spacing='compact'>
-	      <listitem><para>Home: 313-563-0177</para></listitem>
-	    </itemizedlist>
-	  </entry>
-	</row>
-	<row>
-	  <entry>MITN</entry>
-	  <entry>Michigan Traffic Net</entry>
-	  <entry>Jeff Miller</entry>
-	  <entry>WB8WKQ</entry>
-	  <entry>
-	    <itemizedlist spacing='compact'>
-	      <listitem><para>Home: 248-628-3719</para></listitem>
-	      <listitem><para>Mobile: 248-330-0335</para></listitem>
-	    </itemizedlist>
-	  </entry>
-	</row>
-	<row>
-	  <entry>GLETN</entry>
-	  <entry>Great Lakes Emergency and Traffic Net</entry>
-	  <entry>Jack Wiswasser</entry>
-	  <entry>WA8IAL</entry>
-	  <entry>
-	    <itemizedlist spacing='compact'>
-	      <listitem><para>Home: 517-641-8553</para></listitem>
-	    </itemizedlist>
-	  </entry>
-	</row>
-	<row>
-	  <entry>MACS</entry>
-	  <entry>Michigan Amateur Communications System</entry>
-	  <entry>John Wehmer</entry>
-	  <entry>WB9JSR</entry>
-	  <entry>
-	    <itemizedlist spacing='compact'>
-	      <listitem><para>Home: 616-847-6409</para></listitem>
-	      <listitem><para>Mobile: 616-502-4800</para></listitem>
-	    </itemizedlist>
-	  </entry>
-	</row>
-	<row>
-	  <entry>MDTN</entry>
-	  <entry>Michigan Digital traffic Net</entry>
-	  <entry>Ed Bassett</entry>
-	  <entry>N8FVM</entry>
-	  <entry>
-	    <itemizedlist spacing='compact'>
-	      <listitem><para>Home: 989-821-7729</para></listitem>
-	    </itemizedlist>
-	  </entry>
-	</row>
-	<row>
-	  <entry>UP</entry>
-	  <entry>Upper Peninsula Net</entry>
-	  <entry>Aileen Gagnon</entry>
-	  <entry>WA8DHB</entry>
-	  <entry>
-	    <itemizedlist spacing='compact'>
-	      <listitem><para>Home: 906-428-9789</para></listitem>
-	    </itemizedlist>
-	  </entry>
-	</row>
-	<row>
-	  <entry>MVTN</entry>
-	  <entry>Michigan VHF Traffic Net</entry>
-	  <entry>Flora Jean Young</entry>
-	  <entry>AC8AR</entry>
-	  <entry>
-	    <itemizedlist spacing='compact'>
-	      <listitem><para>Home: 231-893-3341</para></listitem>
-	    </itemizedlist>
-	  </entry>
-	</row>
-	<row>
-	  <entry>SEMTN</entry>
-	  <entry>Southeast Michigan Traffic Net</entry>
-	  <entry>Jeff Miller</entry>
-	  <entry>WB8WKQ</entry>
-	  <entry>
-	    <itemizedlist spacing='compact'>
-	      <listitem><para>Home: 248-628-3719</para></listitem>
-	      <listitem><para>Mobile: 248-330-0335</para></listitem>
-	    </itemizedlist>
-	  </entry>
-	</row>
-	<row>
-	  <entry>TMMTN</entry>
-	  <entry>Thumb and Mid-Michigan Traffic Net</entry>
-	  <entry>Grant Watson</entry>
-	  <entry>K8VFZ</entry>
-	  <entry>
-	    <itemizedlist spacing='compact'>
-	      <listitem><para>Home: 810-982-7488</para></listitem>
-	    </itemizedlist>
-	  </entry>
-	</row>
-      </tbody>
-    </tgroup>
-  </table>
+
 </appendix>
