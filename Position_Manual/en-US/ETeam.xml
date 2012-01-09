@@ -37,7 +37,14 @@
 	    <warning>
 	      <title>Use SEOC-specific password</title>
 	      <para>
+		<!-- This is a real hack but I was having no joy in
+		getting this straightened out in the xsl -->
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 	      Do not use your personal password when logging on at
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 	      the SEOC.
 	      </para>
 	    </warning>
