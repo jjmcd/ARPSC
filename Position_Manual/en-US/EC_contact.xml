@@ -4,26 +4,28 @@
 <appendix>
   <title>EC Contact Information</title>
 
-
   <section>
     <title>District One</title>
-	<para>
-	  <figure float="0"><title>District One</title>
-	    <mediaobject>
-	      <imageobject>
-		<imagedata scale="99" scalefit="1"
-              fileref="images/DistrictOne.gif" format="GIF"/>
-	      </imageobject>
-	      <textobject>
-		<para>
-		  District One Map
-		</para>
-	      </textobject>
-	    </mediaobject>
-	  </figure>
+    <para>
+      <figure float="0"><title>District One</title>
+      <mediaobject>
+	<imageobject>
+	  <imagedata scale="99" scalefit="1"
+		     fileref="images/DistrictOne.gif" format="GIF"/>
+	</imageobject>
+	<textobject>
+	  <para>
+	    District One Map
+	  </para>
+	</textobject>
+      </mediaobject>
+      </figure>
       <table frame="all">
         <title>District One - Joseph Pullen, K8YZA</title>
         <tgroup cols="3">
+	  <colspec colnum="1" colname="c1" colwidth="1*" />
+	  <colspec colnum="2" colname="c2" colwidth="1*" />
+	  <colspec colnum="3" colname="c3" colwidth="2*" />
           <thead>
             <row>
               <entry>County</entry>
@@ -32,103 +34,103 @@
             </row>
           </thead>
           <tbody>
-          <row>
-            <entry>Clinton</entry>
-            <entry>David Oulette, WB8MWG</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>&nbsp;</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Eaton</entry>
-            <entry>Jeff Frank, N8HEE</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 5175438200</para></listitem>
-                <listitem><para>Night Phone: 5175432643</para></listitem>
-                <listitem><para>Cell Phone: 5176673015</para></listitem>
-                <listitem><para>eMail: n8hee@n8hee.com</para></listitem>
-                <listitem><para>ampr.org address: n8hee@hamgate.eaton.ampr.org</para></listitem>
-                <listitem><para>repeater: 443.625 (100)</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Gratiot</entry>
-            <entry>Bill Rogers, KC8OUF</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 9896815349</para></listitem>
-                <listitem><para>eMail: kc8ouf@mail.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Hillsdale</entry>
-            <entry>Daniel Sprow, KC8RYF</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 5174373677</para></listitem>
-                <listitem><para>Night Phone: 5174371410</para></listitem>
-                <listitem><para>eMail: dsprow@comcast.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Ingham/ Lansing</entry>
-            <entry>Jim Hannahs, KC8QWH</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 517-589-8346</para></listitem>
-                <listitem><para>eMail: ginhannahs@gmail.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Jackson</entry>
-            <entry>Tim Bair, WD8PMD</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>&nbsp;</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Lenawee</entry>
-            <entry>Joseph Pullen, K8YZA</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 5175476794</para></listitem>
-                <listitem><para>Night Phone: 5172632181</para></listitem>
-                <listitem><para>Cell Phone: 5172601185</para></listitem>
-                <listitem><para>eMail: jpullen007@comcast.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Livingston</entry>
-            <entry>Bruce Pollock, N8WWX</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 5175407681</para></listitem>
-                <listitem><para>Night Phone: 7348780138</para></listitem>
-                <listitem><para>eMail: n8wwx@yahoo.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Shiawassee</entry>
-            <entry>Thomas Carpenter, KI8AS</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 5175790599</para></listitem>
-                <listitem><para>eMail: ki8as@charter.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-        </tbody>
+	    <row>
+	      <entry>Clinton</entry>
+	      <entry>David Oulette, WB8MWG</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>&nbsp;</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Eaton</entry>
+	      <entry>Jeff Frank, N8HEE</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 5175438200</para></listitem>
+		  <listitem><para>Night Phone: 5175432643</para></listitem>
+		  <listitem><para>Cell Phone: 5176673015</para></listitem>
+		  <listitem><para>eMail: n8hee@n8hee.com</para></listitem>
+		  <listitem><para>ampr.org address: n8hee@hamgate.eaton.ampr.org</para></listitem>
+		  <listitem><para>repeater: 443.625 (100)</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Gratiot</entry>
+	      <entry>Bill Rogers, KC8OUF</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 9896815349</para></listitem>
+		  <listitem><para>eMail: kc8ouf@mail.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Hillsdale</entry>
+	      <entry>Daniel Sprow, KC8RYF</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 5174373677</para></listitem>
+		  <listitem><para>Night Phone: 5174371410</para></listitem>
+		  <listitem><para>eMail: dsprow@comcast.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Ingham/ Lansing</entry>
+	      <entry>Jim Hannahs, KC8QWH</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 517-589-8346</para></listitem>
+		  <listitem><para>eMail: ginhannahs@gmail.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Jackson</entry>
+	      <entry>Tim Bair, WD8PMD</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>&nbsp;</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Lenawee</entry>
+	      <entry>Joseph Pullen, K8YZA</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 5175476794</para></listitem>
+		  <listitem><para>Night Phone: 5172632181</para></listitem>
+		  <listitem><para>Cell Phone: 5172601185</para></listitem>
+		  <listitem><para>eMail: jpullen007@comcast.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Livingston</entry>
+	      <entry>Bruce Pollock, N8WWX</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 5175407681</para></listitem>
+		  <listitem><para>Night Phone: 7348780138</para></listitem>
+		  <listitem><para>eMail: n8wwx@yahoo.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Shiawassee</entry>
+	      <entry>Thomas Carpenter, KI8AS</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 5175790599</para></listitem>
+		  <listitem><para>eMail: ki8as@charter.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	  </tbody>
         </tgroup>
       </table>
     </para>
@@ -136,23 +138,26 @@
 
   <section>
     <title>District Two</title>
-	<para>
-	  <figure float="0"><title>District Two</title>
-	    <mediaobject>
-	      <imageobject>
-		<imagedata scale="99" scalefit="1"
-              fileref="images/DistrictTwo.gif" format="GIF"/>
-	      </imageobject>
-	      <textobject>
-		<para>
-		  District Two Map
-		</para>
-	      </textobject>
-	    </mediaobject>
-	  </figure>
+    <para>
+      <figure float="0"><title>District Two</title>
+      <mediaobject>
+	<imageobject>
+	  <imagedata scale="99" scalefit="1"
+		     fileref="images/DistrictTwo.gif" format="GIF"/>
+	</imageobject>
+	<textobject>
+	  <para>
+	    District Two Map
+	  </para>
+	</textobject>
+      </mediaobject>
+      </figure>
       <table frame="all">
         <title>District Two - Randy Love, WF5X</title>
         <tgroup cols="3">
+	  <colspec colnum="1" colname="c1" colwidth="1*" />
+	  <colspec colnum="2" colname="c2" colwidth="1*" />
+	  <colspec colnum="3" colname="c3" colwidth="2*" />
           <thead>
             <row>
               <entry>County</entry>
@@ -161,64 +166,64 @@
             </row>
           </thead>
           <tbody>
-          <row>
-            <entry>Macomb</entry>
-            <entry>Paul Reinhardt, KC8BDK</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 5867381861</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Monroe</entry>
-            <entry>Mike Hall, K8MLH</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Cell Phone: 734-625-5082</para></listitem>
-                <listitem><para>eMail: mhall54@chartermi.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Oakland</entry>
-            <entry>Jim Richards, AB8JR</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 2488515623</para></listitem>
-                <listitem><para>Cell Phone: 2483183842</para></listitem>
-                <listitem><para>eMail: ab8jr@arrl.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Saint Clair</entry>
-            <entry> (vacant) </entry>
-            <entry> &nbsp; </entry>
-          </row>
-          <row>
-            <entry>Washtenaw</entry>
-            <entry>Doug Cox, N8ZLR</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 7349364387</para></listitem>
-                <listitem><para>Night Phone: 7346650625</para></listitem>
-                <listitem><para>eMail: doug@dougcox.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Wayne</entry>
-            <entry>Shanon Herron, KA8SPW</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 7344219221</para></listitem>
-                <listitem><para>Cell Phone: 7342776724</para></listitem>
-                <listitem><para>eMail: ka8spw@sbcglobal.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-        </tbody>
+	    <row>
+	      <entry>Macomb</entry>
+	      <entry>Paul Reinhardt, KC8BDK</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 5867381861</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Monroe</entry>
+	      <entry>Mike Hall, K8MLH</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Cell Phone: 734-625-5082</para></listitem>
+		  <listitem><para>eMail: mhall54@chartermi.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Oakland</entry>
+	      <entry>Jim Richards, AB8JR</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 2488515623</para></listitem>
+		  <listitem><para>Cell Phone: 2483183842</para></listitem>
+		  <listitem><para>eMail: ab8jr@arrl.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Saint Clair</entry>
+	      <entry> (vacant) </entry>
+	      <entry> &nbsp; </entry>
+	    </row>
+	    <row>
+	      <entry>Washtenaw</entry>
+	      <entry>Doug Cox, N8ZLR</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 7349364387</para></listitem>
+		  <listitem><para>Night Phone: 7346650625</para></listitem>
+		  <listitem><para>eMail: doug@dougcox.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Wayne</entry>
+	      <entry>Shanon Herron, KA8SPW</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 7344219221</para></listitem>
+		  <listitem><para>Cell Phone: 7342776724</para></listitem>
+		  <listitem><para>eMail: ka8spw@sbcglobal.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	  </tbody>
         </tgroup>
       </table>
     </para>
@@ -226,23 +231,26 @@
 
   <section>
     <title>District Three</title>
-	<para>
-	  <figure float="0"><title>District Three</title>
-	    <mediaobject>
-	      <imageobject>
-		<imagedata scale="99" scalefit="1"
-              fileref="images/DistrictThree.gif" format="GIF"/>
-	      </imageobject>
-	      <textobject>
-		<para>
-		  District Three Map
-		</para>
-	      </textobject>
-	    </mediaobject>
-	  </figure>
+    <para>
+      <figure float="0"><title>District Three</title>
+      <mediaobject>
+	<imageobject>
+	  <imagedata scale="99" scalefit="1"
+		     fileref="images/DistrictThree.gif" format="GIF"/>
+	</imageobject>
+	<textobject>
+	  <para>
+	    District Three Map
+	  </para>
+	</textobject>
+      </mediaobject>
+      </figure>
       <table frame="all">
         <title>District Three - Joe Tuscher, N8OSL</title>
         <tgroup cols="3">
+	  <colspec colnum="1" colname="c1" colwidth="1*" />
+	  <colspec colnum="2" colname="c2" colwidth="1*" />
+	  <colspec colnum="3" colname="c3" colwidth="2*" />
           <thead>
             <row>
               <entry>County</entry>
@@ -251,143 +259,147 @@
             </row>
           </thead>
           <tbody>
-          <row>
-            <entry>Alcona</entry>
-            <entry>Stanley Darmofal, W8SZ</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9063780270</para></listitem>
-                <listitem><para>Night Phone: 9063873898</para></listitem>
-                <listitem><para>eMail: w8sz@arrl.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Arenac</entry>
-            <entry>Charles Rood, AB8SY</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9898468331</para></listitem>
-                <listitem><para>eMail: ab8sy@att.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Bay</entry>
-            <entry>Dean Bass, KC8BGK</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 9896844044</para></listitem>
-                <listitem><para>eMail: kc8bgk@arrl.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Genesee</entry>
-            <entry>Tony Bryant, KD8LCN</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Cell Phone: 8109554852</para></listitem>
-                <listitem><para>eMail: FireGuyZ71@aol.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Gladwin</entry>
-            <entry>Bruce Wagner, N8LYL</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 9895392950</para></listitem>
-                <listitem><para>eMail: tinarrow@toast.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Huron</entry>
-            <entry> (vacant) </entry>
-            <entry> &nbsp; </entry>
-          </row>
-          <row>
-            <entry>Iosco</entry>
-            <entry>Kelly Karpp, KB8RWG</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 5177392911</para></listitem>
-                <listitem><para>Night Phone: 9897352091</para></listitem>
-                <listitem><para>eMail: kb8rwg@netzero.net</para></listitem>
-                <listitem><para>ampr.org address: kb8rwg@ioseoc.ampr.org</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Lapeer</entry>
-            <entry>Tom Oliver, KD8EBY</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 8104072461</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Midland</entry>
-            <entry>John C. Wolters, W8QN</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 9898329122</para></listitem>
-                <listitem><para>eMail: w8qn@aol.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Ogemaw</entry>
-            <entry>Chris Barbb, W8COP</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9896853120</para></listitem>
-                <listitem><para>eMail: w8cop@yahoo.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Oscoda</entry>
-            <entry>Al Bickford, KD8CLM</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9893706077</para></listitem>
-                <listitem><para>eMail: bickford@surfbest.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Saginaw</entry>
-            <entry>Ron Huss, KC8YVF</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9897992679</para></listitem>
-                <listitem><para>eMail: kc8yvf@rhuss.cncfamily.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Sanilac</entry>
-            <entry>Theodore Davis, KF8ZO</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 8106729504</para></listitem>
-                <listitem><para>Night Phone: 8106729504</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Tuscola</entry>
-            <entry>Roger Edwards, WB8WJV</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9896735722</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-        </tbody>
+	    <row>
+	      <entry>Alcona</entry>
+	      <entry>Stanley Darmofal, W8SZ</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9897245550</para></listitem>
+		  <listitem><para>eMail: w8sz@arrl.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Arenac</entry>
+	      <entry>Charles Rood, AB8SY</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9898468331</para></listitem>
+		  <listitem><para>eMail: ab8sy@att.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Bay</entry>
+	      <entry>Dean Bass, KC8BGK</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 9896844044</para></listitem>
+		  <listitem><para>eMail: kc8bgk@arrl.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Genesee</entry>
+	      <entry>Tony Bryant, KD8LCN</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Cell Phone: 8109554852</para></listitem>
+		  <listitem><para>eMail: kdlcn@yahoo.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Gladwin</entry>
+	      <entry>Bruce Wagner, N8LYL</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 9897413313</para></listitem>
+		  <listitem><para>eMail: tinarrow@toast.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Huron</entry>
+	      <entry> (vacant) </entry>
+	      <entry> &nbsp; </entry>
+	    </row>
+	    <row>
+	      <entry>Iosco</entry>
+	      <entry>Kelly Karpp, KB8RWG</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 9897352091</para></listitem>
+		  <listitem><para>Cell Phone: 9892862415</para></listitem>
+		  <listitem><para>eMail: kb8rwg@cynergycomm.net</para></listitem>
+		  <listitem><para>ampr.org address: kb8rwg@ioseoc.ampr.org</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Lapeer</entry>
+	      <entry>Tom Oliver, KD8EBY</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 8102473227</para></listitem>
+		  <listitem><para>eMail: frycapt@att.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Midland</entry>
+	      <entry>John C. Wolters, W8QN</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 9898329122</para></listitem>
+		  <listitem><para>eMail: w8qn@aol.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Ogemaw</entry>
+	      <entry>Chris Barbb, W8COP</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9896853120</para></listitem>
+		  <listitem><para>eMail: w8cop@yahoo.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Oscoda</entry>
+	      <entry>Al Bickford, KD8CLM</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 9898263132</para></listitem>
+		  <listitem><para>Cell Phone: 9893706077</para></listitem>
+		  <listitem><para>eMail: bickford@surfbest.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Saginaw</entry>
+	      <entry>Ron Huss, KC8YVF</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9897992679</para></listitem>
+		  <listitem><para>Cell Phone: 9897512693</para></listitem>
+		  <listitem><para>eMail: kc8yvf@rhuss.cncfamily.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Sanilac</entry>
+	      <entry>Theodore Davis, KF8ZO</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 8106729504</para></listitem>
+		  <listitem><para>Night Phone: 8106729504</para></listitem>
+		  <listitem><para>eMail: kf8zo@speedconnect.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Tuscola</entry>
+	      <entry>Roger Edwards, WB8WJV</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9896735722</para></listitem>
+		  <listitem><para>eMail: wb8wjv@bigtube.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	  </tbody>
         </tgroup>
       </table>
     </para>
@@ -395,23 +407,26 @@
 
   <section>
     <title>District Five</title>
-	<para>
-	  <figure float="0"><title>District Five</title>
-	    <mediaobject>
-	      <imageobject>
-		<imagedata scale="99" scalefit="1"
-              fileref="images/DistrictFive.gif" format="GIF"/>
-	      </imageobject>
-	      <textobject>
-		<para>
-		  District Five Map
-		</para>
-	      </textobject>
-	    </mediaobject>
-	  </figure>
+    <para>
+      <figure float="0"><title>District Five</title>
+      <mediaobject>
+	<imageobject>
+	  <imagedata scale="99" scalefit="1"
+		     fileref="images/DistrictFive.gif" format="GIF"/>
+	</imageobject>
+	<textobject>
+	  <para>
+	    District Five Map
+	  </para>
+	</textobject>
+      </mediaobject>
+      </figure>
       <table frame="all">
         <title>District Five - Carl Flickinger, KB8FQJ</title>
         <tgroup cols="3">
+	  <colspec colnum="1" colname="c1" colwidth="1*" />
+	  <colspec colnum="2" colname="c2" colwidth="1*" />
+	  <colspec colnum="3" colname="c3" colwidth="2*" />
           <thead>
             <row>
               <entry>County</entry>
@@ -420,99 +435,99 @@
             </row>
           </thead>
           <tbody>
-          <row>
-            <entry>Allegan</entry>
-            <entry>Jim Cance, AB8SF</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 2696851189</para></listitem>
-                <listitem><para>Night Phone: 2696851189</para></listitem>
-                <listitem><para>eMail: jimandkarencance@gmail.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Barry</entry>
-            <entry>Ron Yeo, KC8SFQ</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>eMail: kc8sfq@arrl.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Berrien</entry>
-            <entry>Thomas Dumminger, KC8MGD</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 2699236999</para></listitem>
-                <listitem><para>Night Phone: 2695560570</para></listitem>
-                <listitem><para>Cell Phone: 2698769619</para></listitem>
-                <listitem><para>eMail: tommyd578@sbcglobal.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Branch</entry>
-            <entry>Jan Hayden, KD8CYW</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 5178129009</para></listitem>
-                <listitem><para>Night Phone: 5176394488</para></listitem>
-                <listitem><para>eMail: kd8cyw@arrl.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Calhoun</entry>
-            <entry>W. Kenneth Nierman, KC8QNQ</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 2699640579</para></listitem>
-                <listitem><para>eMail: kc8qnq@arrl.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Cass</entry>
-            <entry> (vacant) </entry>
-            <entry> &nbsp; </entry>
-          </row>
-          <row>
-            <entry>Kalamazoo</entry>
-            <entry>Art Snapper, NK8X</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 2694918874</para></listitem>
-                <listitem><para>Day Phone: 6163723300</para></listitem>
-                <listitem><para>Night Phone: 2693723906</para></listitem>
-                <listitem><para>Night Phone: 6163818871</para></listitem>
-                <listitem><para>eMail: art@nk8x.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Saint Joseph</entry>
-            <entry>Bill Douglas, AE8K</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>eMail: ae8k@arrl.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Van Buren</entry>
-            <entry>Paul Reissmann, WD8MWT</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 2696216138</para></listitem>
-                <listitem><para>Cell Phone: 2158177594</para></listitem>
-                <listitem><para>eMail: wd8mwt@comcast.net</para></listitem>
-                <listitem><para>repeater: 444.800+ 94.8 PL</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-        </tbody>
+	    <row>
+	      <entry>Allegan</entry>
+	      <entry>Jim Cance, AB8SF</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 2696851189</para></listitem>
+		  <listitem><para>Night Phone: 2696851189</para></listitem>
+		  <listitem><para>eMail: jimandkarencance@gmail.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Barry</entry>
+	      <entry>Ron Yeo, KC8SFQ</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>eMail: kc8sfq@arrl.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Berrien</entry>
+	      <entry>Thomas Dumminger, KC8MGD</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 2699236999</para></listitem>
+		  <listitem><para>Night Phone: 2695560570</para></listitem>
+		  <listitem><para>Cell Phone: 2698769619</para></listitem>
+		  <listitem><para>eMail: tommyd578@sbcglobal.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Branch</entry>
+	      <entry>Jan Hayden, KD8CYW</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 5178129009</para></listitem>
+		  <listitem><para>Night Phone: 5176394488</para></listitem>
+		  <listitem><para>eMail: kd8cyw@arrl.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Calhoun</entry>
+	      <entry>W. Kenneth Nierman, KC8QNQ</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 2699640579</para></listitem>
+		  <listitem><para>eMail: kc8qnq@arrl.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Cass</entry>
+	      <entry> (vacant) </entry>
+	      <entry> &nbsp; </entry>
+	    </row>
+	    <row>
+	      <entry>Kalamazoo</entry>
+	      <entry>Art Snapper, NK8X</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 2694918874</para></listitem>
+		  <listitem><para>Day Phone: 6163723300</para></listitem>
+		  <listitem><para>Night Phone: 2693723906</para></listitem>
+		  <listitem><para>Night Phone: 6163818871</para></listitem>
+		  <listitem><para>eMail: art@nk8x.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Saint Joseph</entry>
+	      <entry>Bill Douglas, AE8K</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>eMail: ae8k@arrl.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Van Buren</entry>
+	      <entry>Paul Reissmann, WD8MWT</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 2696216138</para></listitem>
+		  <listitem><para>Cell Phone: 2158177594</para></listitem>
+		  <listitem><para>eMail: wd8mwt@comcast.net</para></listitem>
+		  <listitem><para>repeater: 444.800+ 94.8 PL</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	  </tbody>
         </tgroup>
       </table>
     </para>
@@ -520,23 +535,26 @@
 
   <section>
     <title>District Six</title>
-	<para>
-	  <figure float="0"><title>District Six</title>
-	    <mediaobject>
-	      <imageobject>
-		<imagedata scale="99" scalefit="1"
-              fileref="images/DistrictSix.gif" format="GIF"/>
-	      </imageobject>
-	      <textobject>
-		<para>
-		  District Six Map
-		</para>
-	      </textobject>
-	    </mediaobject>
-	  </figure>
+    <para>
+      <figure float="0"><title>District Six</title>
+      <mediaobject>
+	<imageobject>
+	  <imagedata scale="99" scalefit="1"
+		     fileref="images/DistrictSix.gif" format="GIF"/>
+	</imageobject>
+	<textobject>
+	  <para>
+	    District Six Map
+	  </para>
+	</textobject>
+      </mediaobject>
+      </figure>
       <table frame="all">
         <title>District Six - Tom VanderMel, KB8VEE</title>
         <tgroup cols="3">
+	  <colspec colnum="1" colname="c1" colwidth="1*" />
+	  <colspec colnum="2" colname="c2" colwidth="1*" />
+	  <colspec colnum="3" colname="c3" colwidth="2*" />
           <thead>
             <row>
               <entry>County</entry>
@@ -545,142 +563,142 @@
             </row>
           </thead>
           <tbody>
-          <row>
-            <entry>Clare</entry>
-            <entry>Richard J. Johnson, KA8DCJ</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9895397463</para></listitem>
-                <listitem><para>Day Phone: 9892204623</para></listitem>
-                <listitem><para>Cell Phone: 9894807342</para></listitem>
-                <listitem><para>eMail: ka8dcj@charter.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Ionia</entry>
-            <entry>Roger Packard, KD8KLI</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 6165276410</para></listitem>
-                <listitem><para>Cell Phone: 6165402794</para></listitem>
-                <listitem><para>eMail: rpackard@hughes.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Isabella</entry>
-            <entry>Gustave Glass, K8GUS</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9893390851</para></listitem>
-                <listitem><para>Night Phone: 9895883220</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Kent</entry>
-            <entry>Jeffrey Nawrot, N8JSN</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 6162911869</para></listitem>
-                <listitem><para>Night Phone: 6162911869</para></listitem>
-                <listitem><para>eMail: jnawrot@kcvrm.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Lake</entry>
-            <entry> (vacant) </entry>
-            <entry> &nbsp; </entry>
-          </row>
-          <row>
-            <entry>Mason</entry>
-            <entry>Gary Berk, KC8MWF</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 2318454219</para></listitem>
-                <listitem><para>Night Phone: 2318432945</para></listitem>
-                <listitem><para>eMail: kc8mwf@charter.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Mecosta</entry>
-            <entry>G Thomas Behler, KB8TYJ</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 2315929854</para></listitem>
-                <listitem><para>Night Phone: 2315929854</para></listitem>
-                <listitem><para>eMail: kb8tyj@arrl.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Montcalm</entry>
-            <entry>Blaine Jenks, KD8DQA</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 989-831-8939</para></listitem>
-                <listitem><para>Night Phone: 616-894-0954</para></listitem>
-                <listitem><para>eMail: kd8dqa@gmail.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Muskegon</entry>
-            <entry>James Duram, K8COP</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 2318286306</para></listitem>
-                <listitem><para>eMail: jimk8cop@afo.net</para></listitem>
-                <listitem><para>eMail: k8cop@arrl.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Newaygo</entry>
-            <entry>Tim Deater, KC8MSE</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 2319248806</para></listitem>
-                <listitem><para>Night Phone: 2318541694</para></listitem>
-                <listitem><para>eMail: kc8mse@gmail.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Oceana</entry>
-            <entry>David Robertson, N8UKH</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 2317981736</para></listitem>
-                <listitem><para>Night Phone: 2318541065</para></listitem>
-                <listitem><para>Pager: 2313150218</para></listitem>
-                <listitem><para>Nextel: 2312258569 131*538466*15</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Osceola</entry>
-            <entry>Bill Kelso, N8NJA</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>&nbsp;</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Ottawa</entry>
-            <entry>Jason MacKay, KC8OVS</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Cell Phone: 616-212-8659</para></listitem>
-                <listitem><para>eMail: ocecdec@gmail.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-        </tbody>
+	    <row>
+	      <entry>Clare</entry>
+	      <entry>Richard J. Johnson, KA8DCJ</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9895397463</para></listitem>
+		  <listitem><para>Day Phone: 9892204623</para></listitem>
+		  <listitem><para>Cell Phone: 9894807342</para></listitem>
+		  <listitem><para>eMail: ka8dcj@charter.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Ionia</entry>
+	      <entry>Roger Packard, KD8KLI</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 6165276410</para></listitem>
+		  <listitem><para>Cell Phone: 6165402794</para></listitem>
+		  <listitem><para>eMail: rpackard@hughes.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Isabella</entry>
+	      <entry>Gustave Glass, K8GUS</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9893390851</para></listitem>
+		  <listitem><para>Night Phone: 9895883220</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Kent</entry>
+	      <entry>Jeffrey Nawrot, N8JSN</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 6162911869</para></listitem>
+		  <listitem><para>Night Phone: 6162911869</para></listitem>
+		  <listitem><para>eMail: jnawrot@kcvrm.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Lake</entry>
+	      <entry> (vacant) </entry>
+	      <entry> &nbsp; </entry>
+	    </row>
+	    <row>
+	      <entry>Mason</entry>
+	      <entry>Gary Berk, KC8MWF</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 2318454219</para></listitem>
+		  <listitem><para>Night Phone: 2318432945</para></listitem>
+		  <listitem><para>eMail: kc8mwf@charter.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Mecosta</entry>
+	      <entry>G Thomas Behler, KB8TYJ</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 2315929854</para></listitem>
+		  <listitem><para>Night Phone: 2315929854</para></listitem>
+		  <listitem><para>eMail: kb8tyj@arrl.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Montcalm</entry>
+	      <entry>Blaine Jenks, KD8DQA</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 989-831-8939</para></listitem>
+		  <listitem><para>Night Phone: 616-894-0954</para></listitem>
+		  <listitem><para>eMail: kd8dqa@gmail.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Muskegon</entry>
+	      <entry>James Duram, K8COP</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 2318286306</para></listitem>
+		  <listitem><para>eMail: jimk8cop@afo.net</para></listitem>
+		  <listitem><para>eMail: k8cop@arrl.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Newaygo</entry>
+	      <entry>Tim Deater, KC8MSE</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 2319248806</para></listitem>
+		  <listitem><para>Night Phone: 2318541694</para></listitem>
+		  <listitem><para>eMail: kc8mse@gmail.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Oceana</entry>
+	      <entry>David Robertson, N8UKH</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 2317981736</para></listitem>
+		  <listitem><para>Night Phone: 2318541065</para></listitem>
+		  <listitem><para>Pager: 2313150218</para></listitem>
+		  <listitem><para>Nextel: 2312258569 131*538466*15</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Osceola</entry>
+	      <entry>Bill Kelso, N8NJA</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>&nbsp;</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Ottawa</entry>
+	      <entry>Jason MacKay, KC8OVS</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Cell Phone: 616-212-8659</para></listitem>
+		  <listitem><para>eMail: ocecdec@gmail.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	  </tbody>
         </tgroup>
       </table>
     </para>
@@ -688,23 +706,26 @@
 
   <section>
     <title>District Seven</title>
-	<para>
-	  <figure float="0"><title>District Seven</title>
-	    <mediaobject>
-	      <imageobject>
-		<imagedata scale="99" scalefit="1"
-              fileref="images/DistrictSeven.gif" format="GIF"/>
-	      </imageobject>
-	      <textobject>
-		<para>
-		  District Seven Map
-		</para>
-	      </textobject>
-	    </mediaobject>
-	  </figure>
+    <para>
+      <figure float="0"><title>District Seven</title>
+      <mediaobject>
+	<imageobject>
+	  <imagedata scale="99" scalefit="1"
+		     fileref="images/DistrictSeven.gif" format="GIF"/>
+	</imageobject>
+	<textobject>
+	  <para>
+	    District Seven Map
+	  </para>
+	</textobject>
+      </mediaobject>
+      </figure>
       <table frame="all">
         <title>District Seven - Thomas 'Red' Duggan, WA8RLI</title>
         <tgroup cols="3">
+	  <colspec colnum="1" colname="c1" colwidth="1*" />
+	  <colspec colnum="2" colname="c2" colwidth="1*" />
+	  <colspec colnum="3" colname="c3" colwidth="2*" />
           <thead>
             <row>
               <entry>County</entry>
@@ -713,156 +734,160 @@
             </row>
           </thead>
           <tbody>
-          <row>
-            <entry>Alpena</entry>
-            <entry>John Thomas, N8JWH</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9898840292</para></listitem>
-                <listitem><para>Cell Phone: 9894644798</para></listitem>
-                <listitem><para>eMail: n8jwh@arrl.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Antrim</entry>
-            <entry>Mike Cleary, W8VPC</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 2135448181</para></listitem>
-                <listitem><para>eMail: xp1@torchlake.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Benzie</entry>
-            <entry>Tom Schoonover, K8BTE</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 2318824249</para></listitem>
-                <listitem><para>eMail: schooner@charter.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Charlevoix</entry>
-            <entry> (vacant) </entry>
-            <entry> &nbsp; </entry>
-          </row>
-          <row>
-            <entry>Cheboygan</entry>
-            <entry>Charles J. Brew, N8NXP</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 2314365570</para></listitem>
-                <listitem><para>Cell Phone: 2314996478</para></listitem>
-                <listitem><para>eMail: brewfire@upnorth.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Crawford</entry>
-            <entry>Thomas 'Red' Duggan, WA8RLI</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 8107772443</para></listitem>
-                <listitem><para>Day Phone: 9892752443</para></listitem>
-                <listitem><para>Night Phone: 9892533247</para></listitem>
-                <listitem><para>Cell Phone: 5864132831</para></listitem>
-                <listitem><para>eMail: wa8rli@arrl.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Emmet</entry>
-            <entry>Charles P. Scott, N8DNX</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 2314870692</para></listitem>
-                <listitem><para>Night Phone: 2313479941</para></listitem>
-                <listitem><para>Cell Phone: 2313304517</para></listitem>
-                <listitem><para>eMail: cscott@gaslightmedia.com</para></listitem>
-                <listitem><para>Pager: 2313304517@message.alltel.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Grand Traverse</entry>
-            <entry> (vacant) </entry>
-            <entry> &nbsp; </entry>
-          </row>
-          <row>
-            <entry>Kalkaska</entry>
-            <entry> (vacant) </entry>
-            <entry> &nbsp; </entry>
-          </row>
-          <row>
-            <entry>Leelanau</entry>
-            <entry>Gerald Gorrell, W8WFN</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 6163343793</para></listitem>
-                <listitem><para>eMail: w8wfn@aol.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Manistee</entry>
-            <entry> (vacant) </entry>
-            <entry> &nbsp; </entry>
-          </row>
-          <row>
-            <entry>Missaukee</entry>
-            <entry> (vacant) </entry>
-            <entry> &nbsp; </entry>
-          </row>
-          <row>
-            <entry>Montmorency</entry>
-            <entry>George Brand, WA8SCO</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 9893448607</para></listitem>
-                <listitem><para>Night Phone: 9893449762</para></listitem>
-                <listitem><para>Cell Phone: 9893701395</para></listitem>
-                <listitem><para>eMail: georgeb@i2k.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Otsego</entry>
-            <entry>Richard Nelson, WB8AKH</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9899398020</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Presque Isle</entry>
-            <entry>Michael Horn, WB8TQZ</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9897344170</para></listitem>
-                <listitem><para>Night Phone: 9897344956</para></listitem>
-                <listitem><para>eMail: wb8tqz@arrl.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Roscommon</entry>
-            <entry> (vacant) </entry>
-            <entry> &nbsp; </entry>
-          </row>
-          <row>
-            <entry>Wexford</entry>
-            <entry>Thomas Warnock, WB8WIV</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>&nbsp;</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-        </tbody>
+	    <row>
+	      <entry>Alpena</entry>
+	      <entry>John Thomas, N8JWH</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9898840292</para></listitem>
+		  <listitem><para>Cell Phone: 9894644798</para></listitem>
+		  <listitem><para>eMail: n8jwh@arrl.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Antrim</entry>
+	      <entry>Mike Cleary, W8VPC</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 2135448181</para></listitem>
+		  <listitem><para>eMail: xp1@torchlake.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Benzie</entry>
+	      <entry>Tom Schoonover, K8BTE</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 2318824249</para></listitem>
+		  <listitem><para>eMail: schooner@charter.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Charlevoix</entry>
+	      <entry> (vacant) </entry>
+	      <entry> &nbsp; </entry>
+	    </row>
+	    <row>
+	      <entry>Cheboygan</entry>
+	      <entry>Charles J. Brew, N8NXP</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 2314365570</para></listitem>
+		  <listitem><para>Cell Phone: 2314996478</para></listitem>
+		  <listitem><para>eMail: brewfire@upnorth.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Crawford</entry>
+	      <entry>Thomas 'Red' Duggan, WA8RLI</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 8107772443</para></listitem>
+		  <listitem><para>Day Phone: 9892752443</para></listitem>
+		  <listitem><para>Night Phone: 9892533247</para></listitem>
+		  <listitem><para>Cell Phone: 5864132831</para></listitem>
+		  <listitem><para>eMail: wa8rli@arrl.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Emmet</entry>
+	      <entry>Charles P. Scott, N8DNX</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 2314870692</para></listitem>
+		  <listitem><para>Night Phone: 2313479941</para></listitem>
+		  <listitem><para>Cell Phone: 2313304517</para></listitem>
+		  <listitem><para>eMail: cscott@gaslightmedia.com</para></listitem>
+		  <listitem><para>Pager: 2313304517@message.alltel.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Grand Traverse</entry>
+	      <entry>Ernest Abel, K8RCT</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>&nbsp;</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Kalkaska</entry>
+	      <entry> (vacant) </entry>
+	      <entry> &nbsp; </entry>
+	    </row>
+	    <row>
+	      <entry>Leelanau</entry>
+	      <entry>Gerald Gorrell, W8WFN</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 6163343793</para></listitem>
+		  <listitem><para>eMail: w8wfn@aol.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Manistee</entry>
+	      <entry> (vacant) </entry>
+	      <entry> &nbsp; </entry>
+	    </row>
+	    <row>
+	      <entry>Missaukee</entry>
+	      <entry> (vacant) </entry>
+	      <entry> &nbsp; </entry>
+	    </row>
+	    <row>
+	      <entry>Montmorency</entry>
+	      <entry>George Brand, WA8SCO</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 9893448607</para></listitem>
+		  <listitem><para>Night Phone: 9893449762</para></listitem>
+		  <listitem><para>Cell Phone: 9893701395</para></listitem>
+		  <listitem><para>eMail: georgeb@i2k.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Otsego</entry>
+	      <entry>Richard Nelson, WB8AKH</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9899398020</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Presque Isle</entry>
+	      <entry>Michael Horn, WB8TQZ</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9897344170</para></listitem>
+		  <listitem><para>Night Phone: 9897344956</para></listitem>
+		  <listitem><para>eMail: wb8tqz@arrl.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Roscommon</entry>
+	      <entry> (vacant) </entry>
+	      <entry> &nbsp; </entry>
+	    </row>
+	    <row>
+	      <entry>Wexford</entry>
+	      <entry>Thomas Warnock, WB8WIV</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>&nbsp;</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	  </tbody>
         </tgroup>
       </table>
     </para>
@@ -870,23 +895,26 @@
 
   <section>
     <title>District Eight</title>
-	<para>
-	  <figure float="0"><title>District Eight</title>
-	    <mediaobject>
-	      <imageobject>
-		<imagedata scale="99" scalefit="1"
-              fileref="images/DistrictEight.gif" format="GIF"/>
-	      </imageobject>
-	      <textobject>
-		<para>
-		  District Eight Map
-		</para>
-	      </textobject>
-	    </mediaobject>
-	  </figure>
+    <para>
+      <figure float="0"><title>District Eight</title>
+      <mediaobject>
+	<imageobject>
+	  <imagedata scale="99" scalefit="1"
+		     fileref="images/DistrictEight.gif" format="GIF"/>
+	</imageobject>
+	<textobject>
+	  <para>
+	    District Eight Map
+	  </para>
+	</textobject>
+      </mediaobject>
+      </figure>
       <table frame="all">
         <title>District Eight - Lou Gembolis, KG8NK</title>
         <tgroup cols="3">
+	  <colspec colnum="1" colname="c1" colwidth="1*" />
+	  <colspec colnum="2" colname="c2" colwidth="1*" />
+	  <colspec colnum="3" colname="c3" colwidth="2*" />
           <thead>
             <row>
               <entry>County</entry>
@@ -895,157 +923,156 @@
             </row>
           </thead>
           <tbody>
-          <row>
-            <entry>Alger</entry>
-            <entry>Raoul Revard, W8RDR</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9063871655</para></listitem>
-                <listitem><para>Night Phone: 9063871655</para></listitem>
-                <listitem><para>eMail: rrevord@jamadots.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Baraga</entry>
-            <entry>Randall F. Bell, K8HRO</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>eMail: rfb@up.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Chippewa</entry>
-            <entry>Ronald L Munro, KC8ZGB</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>eMail: munro@centurytel.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Delta</entry>
-            <entry>Mark Seymour, N8XAH</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9067865911</para></listitem>
-                <listitem><para>Night Phone: 9062802062</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Dickinson</entry>
-            <entry>Dennis Beurjey, KC8SWX</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>&nbsp;</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Gogebic</entry>
-            <entry>Andrew Tate, KD8EBO</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>&nbsp;</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Houghton</entry>
-            <entry>John Swift, N8WAV</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9064820530</para></listitem>
-                <listitem><para>Night Phone: 9064827766</para></listitem>
-                <listitem><para>eMail: jswift@up.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Iron</entry>
-            <entry>James Rye, W8IFI</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 9068753582</para></listitem>
-                <listitem><para>eMail: jimrye@up.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Keweenaw</entry>
-            <entry>Gary Hansen, K8YSZ</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9063371436</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Luce</entry>
-            <entry>David Dake, KC8QZG</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>eMail: daved@forestinsurancecenter.com</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Mackinac</entry>
-            <entry>Ron Peterka, W8DR</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 9066437133</para></listitem>
-                <listitem><para>eMail: w8dr@lighthouse.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Marquette</entry>
-            <entry>Richard Schwenke, N8GBA</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Day Phone: 9062493837</para></listitem>
-                <listitem><para>Night Phone: 9062493837</para></listitem>
-                <listitem><para>eMail: n8gba@chartermi.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Menominee</entry>
-            <entry>Paul Sorensen, NS8V</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 9068642551</para></listitem>
-                <listitem><para>eMail: royalfeathers@earthlink.net</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Ontonagon</entry>
-            <entry>Alfred Trainer, KC8OCK</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>&nbsp;</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-          <row>
-            <entry>Schoolcraft</entry>
-            <entry>Howard A Baker, KD8DBF</entry>
-            <entry>
-              <itemizedlist spacing='compact'>
-                <listitem><para>Night Phone: 9064942557</para></listitem>
-              </itemizedlist>
-            </entry>
-          </row>
-        </tbody>
+	    <row>
+	      <entry>Alger</entry>
+	      <entry>Raoul Revard, W8RDR</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9063871655</para></listitem>
+		  <listitem><para>Night Phone: 9063871655</para></listitem>
+		  <listitem><para>eMail: rrevord@jamadots.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Baraga</entry>
+	      <entry>Randall F. Bell, K8HRO</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>eMail: rfb@up.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Chippewa</entry>
+	      <entry>Ronald L Munro, KC8ZGB</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>eMail: munro@centurytel.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Delta</entry>
+	      <entry>Mark Seymour, N8XAH</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9067865911</para></listitem>
+		  <listitem><para>Night Phone: 9062802062</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Dickinson</entry>
+	      <entry>Dennis Beurjey, KC8SWX</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>&nbsp;</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Gogebic</entry>
+	      <entry>Andrew Tate, KD8EBO</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>&nbsp;</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Houghton</entry>
+	      <entry>John Swift, N8WAV</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9064820530</para></listitem>
+		  <listitem><para>Night Phone: 9064827766</para></listitem>
+		  <listitem><para>eMail: jswift@up.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Iron</entry>
+	      <entry>James Rye, W8IFI</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 9068753582</para></listitem>
+		  <listitem><para>eMail: jimrye@up.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Keweenaw</entry>
+	      <entry>Gary Hansen, K8YSZ</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9063371436</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Luce</entry>
+	      <entry>David Dake, KC8QZG</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>eMail: daved@forestinsurancecenter.com</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Mackinac</entry>
+	      <entry>Ron Peterka, W8DR</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 9066437133</para></listitem>
+		  <listitem><para>eMail: w8dr@lighthouse.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Marquette</entry>
+	      <entry>Richard Schwenke, N8GBA</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Day Phone: 9062493837</para></listitem>
+		  <listitem><para>Night Phone: 9062493837</para></listitem>
+		  <listitem><para>eMail: n8gba@chartermi.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Menominee</entry>
+	      <entry>Paul Sorensen, NS8V</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 9068642551</para></listitem>
+		  <listitem><para>eMail: royalfeathers@earthlink.net</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Ontonagon</entry>
+	      <entry>Alfred Trainer, KC8OCK</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>&nbsp;</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	    <row>
+	      <entry>Schoolcraft</entry>
+	      <entry>Howard A Baker, KD8DBF</entry>
+	      <entry>
+		<itemizedlist spacing='compact'>
+		  <listitem><para>Night Phone: 9064942557</para></listitem>
+		</itemizedlist>
+	      </entry>
+	    </row>
+	  </tbody>
         </tgroup>
       </table>
     </para>
   </section>
-
 
 
 </appendix>
