@@ -6,6 +6,23 @@
   <simpara>
     <revhistory>
       <revision>
+	<revnumber>13</revnumber>
+        <date>Wed Jul 25 2012</date>
+        <author><firstname>John</firstname>
+	<surname>McDonough</surname>
+	<email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Update contact information</member>
+	    <member>Add all ASECs to leadership cell list</member>
+	    <member>Add (new) auxcomm desk</member>
+	    <member>Add reminder to contact local entities</member>
+	    <member>Add reference list of SEOC phone numbers</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
+      <revision>
 	<revnumber>12</revnumber>
         <date>Fri Jan 27 2012</date>
         <author><firstname>John</firstname>
