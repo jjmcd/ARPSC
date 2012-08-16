@@ -8,10 +8,13 @@
   <section>
       <title>Introduction</title>
       <para>
-	As a general rule, the station staff maintains the RACES Situation
-	Report (SitRep) since the SEC frequently does not have a terminal.
-	However, if for some reason the station staff is unable to maintain the
-	SitRep, it falls on the SEC or his delegate to do so.
+	The coordinator should establish an agency SitRep immediately
+	on entering the SEOC.  The same SitRep will be maintained by
+	the coordinator and the station.  Encourage the station to
+	make frequent updates when contacts are made relevant to the
+	incident.  The coordinator's updates will typically be
+	summaries of station activities as well as information on
+	other leadership the coordinator has contacted by telephone.
       </para>
       <para>
 	It is important to many agencies to be alert to the state of readiness
@@ -22,7 +25,7 @@
       </para>
       <para>
 	In any case, be sure the Agency SitRep is complete, accurate, and up to
-	date. 
+	date.  The SitRep should be updated at least once per hour.
       </para>
     </section>
     <section>
@@ -88,6 +91,13 @@
 	<listitem>
 	  <para>
 	    Review the incident report and other agency SitReps
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    Be certain to review all numbered messages from message
+	    control, either paper copies distributed to the auxcomm
+	    desk or on E-Team.
 	  </para>
 	</listitem>
       </itemizedlist>

@@ -6,6 +6,23 @@
   <simpara>
     <revhistory>
       <revision>
+	<revnumber>14</revnumber>
+        <date>Wed Aug 15 2012</date>
+        <author><firstname>John</firstname>
+	<surname>McDonough</surname>
+	<email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Better reflect separate RACES/Auxcomm desk</member>
+	    <member>Updates to E-Team procedures</member>
+	    <member>Reminder to report on MARS</member>
+	    <member>Correct K8MLH email, KASPW cell</member>
+	    <member>Add Monroe/Wayne REP contacts</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
+      <revision>
 	<revnumber>13</revnumber>
         <date>Wed Jul 25 2012</date>
         <author><firstname>John</firstname>
