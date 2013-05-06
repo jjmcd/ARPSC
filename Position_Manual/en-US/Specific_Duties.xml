@@ -23,12 +23,30 @@
     </section>
 
     <section>
+      <title>Assessing the situation</title>
+      <para>
+	The rep must first get a feel for the current situation.  Sign
+	on to the <application>MI CIMS</application> and quickly
+	review the <filename>Incident Action Plan</filename>, if one
+	is available.  Also, review the most recent entries in the
+	<application>SEOC Significant Events</application> and the
+	<application>Statewide Significant Events</application>
+	boards.
+      </para>
+      <para>
+	This should be done quickly so that the jurisdiction
+	can be contacted.  Often there will be considerable detail to
+	be studied, but first the jurisdiction must be contacted.
+      </para>
+    </section>
+
+    <section>
       <title>Contact local jurisdiction</title>
       <para>
 	When the SEOC has been activated, one of the first tasks is to
 	contact the DEC for the affected jurisdiction.  In many cases,
 	of course, the DEC may have contacted the SEC in the first
-	place.  Even in those cases, contact the DEC so he is aware
+	place.  Even in those cases, contact the DEC so (s)he is aware
 	that the SEOC is activated.
       </para>
       <para>
@@ -96,16 +114,38 @@
     </section>
 
     <section>
+      <title>Requests</title>
+      <para>
+	From time to time, the Logistics chief or the Ops chief may
+	ask for status information from the field or other
+	communications into the affected area.  Be aware of the
+	available circuits and field resources so that these requests
+	may be routed most effectively.  Keep in mind that event
+	though their resources are limited, MARS may well have
+	personnel in an appropriate position to respond to the
+	request. 
+      </para>
+      <para>
+	Often, we are the only agency with a communications focus. In
+	effect, the AuxComm EMC becomes the Communications Branch
+	leader. Do not be surprised if the request is far outside a
+	simple radiogram, and consider both your unique skills, and
+	the considerable resources available at the SEOC to respond to
+	the request.
+      </para>
+    </section>
+
+    <section>
       <title>Agency Announcements</title>
       <para>
-	Periodically, the IC or Ops Section Chief will ask for agency
-	updates.  Give a brief status of the station for each update.
-	Keep in mind that the agency reps are non-technical, but most
-	realize that we are their backup plan.  Give a meaningful
-	status without getting technical.  Where possible get
-	information on the program status at the local jurisdiction
-	and, if significant, pass this along to the other agencies as
-	well.
+	Periodically, the Director or Ops Section Chief will ask for
+	agency updates.  Give a brief status of the station for each
+	update.  Keep in mind that the agency reps are non-technical,
+	but most realize that we are their backup plan.  Give a
+	meaningful status without getting technical.  Where possible
+	get information on the program status at the local
+	jurisdiction and, if significant, pass this along to the other
+	agencies as well.
       </para>
       <para>
 	Pay attention to the other agency reports.  Should they need
