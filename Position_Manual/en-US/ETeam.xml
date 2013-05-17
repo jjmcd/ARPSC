@@ -3,18 +3,150 @@
 ]>
 
 <chapter>
-  <title>E-Team</title>
+  <title>MI CIMS</title>
 
   <section>
       <title>Introduction</title>
       <para>
-	The coordinator should establish an agency SitRep immediately
-	on entering the SEOC.  The same SitRep will be maintained by
-	the coordinator and the station.  Encourage the station to
-	make frequent updates when contacts are made relevant to the
-	incident.  The coordinator's updates will typically be
-	summaries of station activities as well as information on
-	other leadership the coordinator has contacted by telephone.
+	the coordinator will spend much of the time focusing on
+	activity in the <application>MI CIMS</application> and keeping
+	status updated in that application.  This is the communication
+	tool not only to the other agencies, but also to personnel in
+	the affected area.  It also provides critical documentation
+	for the incident which is needed for the After Action Report,
+	the SEOC SitRep for the operational period, and for any
+	Federal or State aid that may be required following the
+	incident.
+      </para>
+  </section>
+
+  <section>
+    <title>Situation Report</title>
+    <para>
+      The coordinator should establish an agency SitRep immediately on
+      after notifying the affected jurisdictions.  Navigate to
+      <guilabel>SEOC Situation Report - Agency List</guilabel> and
+      select <guilabel>AuxComm</guilabel> from the list.
+    </para>
+  </section>
+
+  <section>
+    <title>Activity Log</title>
+    <para>
+      Any significant occurrence, or even notes, should be recorded in
+      the <guilabel>Activity Log</guilabel>. This is a log of our
+      actions for later reference, and is private unless one of three
+      boxes at the bottom of the board have been checked:
+    </para>
+    <para>
+      <itemizedlist>
+	<listitem>
+	  <para>
+	    <guilabel>Post to SEOC Significant Events</guilabel>
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <guilabel>Post to Statewide Significant Events</guilabel>
+	  </para>
+	</listitem>
+	<listitem>
+	  <para>
+	    <guilabel>REP</guilabel>
+	  </para>
+	</listitem>
+      </itemizedlist>
+    </para>
+    <para>
+      For any occurrence that should be brought to the attention of the
+      SEOC staff, the appropriate box should be ticked.  This will
+      cause the record to be displayed on one of the other boards in
+      addition to the <guilabel>Activity Log</guilabel>.
+    </para>
+    <para>
+      A new record in the <guilabel>Activity Log</guilabel> may be
+      created by clicking the <guilabel>New Record</guilabel> button
+      at the top of the board.  Text may be added <emphasis>to the
+      top</emphasis> of an existing record by clicking the
+      <guilabel>Update Record</guilabel> button at the bottom of the
+      record.
+    </para>
+    <para>
+      All records are timestamped.  The timestamp for the creation of
+      a new record appears to the left of the record.  Each entry
+      within the record has a timestamp at the bottom of the entry.
+    </para>
+  </section>
+
+  <section>
+    <title>AuxComm Station Status</title>
+    <para>
+      The coordinator should remind the station to maintain their
+      status in the <guilabel> AuxComm Station Status</guilabel>
+      board.  Not only should current
+      <guilabel>OPEN</guilabel>/<guilabel>CLOSED</guilabel> status and
+      current frequencies be up to date, but any occurrences of
+      interest should be recorded in the <guilabel>Situation
+      Update</guilabel> section.  Like other entries, additions to
+      this section are timestamped.
+    </para>
+  </section>
+
+  <section>
+    <title>AuxComm Message Log</title>
+    <para>
+      The coordinator must also keep abreast of the <guilabel>AuxComm
+      Message Log</guilabel>.  The coordinator may enter messages in
+      that board on receipt, or the station may initiate the entry.
+      When the delivering station has <application>MI
+      CIMS</application> access, then the delivering station should
+      update the delivery details.  However, it may often fall on the
+      SEOC station to discover and record the delivery.
+    </para>
+  </section>
+
+  <section>
+    <title>Situational Awareness</title>
+    <para>
+      There are many other items within the <application>MI
+      CIMS</application> that the coordinator must follow in order to
+      stay up to date on the progress of the incident.
+    </para>
+
+    <para>
+      Most critical are the <guilabel>SEOC Significant
+      Events</guilabel> board, the <guilabel>Statewide Significant
+      Events</guilabel> board, and the the <guilabel>Local Significant
+      Events</guilabel> board.  Any time any of these turns red in the
+      menu, the coordinator should check the board, understand the
+      update, and potentially, notify the station.  Chances are the
+      station cannot follow all the significant events, so needs to be
+      advised of anything of consequence to them.  This, of course,
+      includes the MARS station as well as the ARES station.
+    </para>
+
+    <para>
+      The coordinator must always be alert to the <guilabel>Battle
+      Rhythm</guilabel> board.  Typically this will be displayed on
+      one of the large screens, but it notifies the coordinator of
+      upcoming briefings.
+    </para>
+    <para>
+      The other available boards are useful, and at times, the various
+      dashboards can be especially useful, and when possible the
+      coordinator should stay up to date on all the boards, but the
+      boards mentioned above are especially critical.
+    </para>
+
+<!--
+    <para>
+      In addition to the SitRep, the rep should record any significant
+      occurrences in entering the SEOC.  The same SitRep will be
+      maintained by the coordinator and the station.  Encourage the
+      station to make frequent updates when contacts are made relevant
+      to the incident.  The coordinator's updates will typically be
+      summaries of station activities as well as information on other
+      leadership the coordinator has contacted by telephone.
       </para>
       <para>
 	It is important to many agencies to be alert to the state of readiness
@@ -34,14 +166,16 @@
       <itemizedlist>
 	<listitem>
 	  <para>
-	    Log on to E-Team using the password provided by the DIT rep
+	    Log on to <application>MI CIMS</application> using the password provided by the DIT rep
 	    (typically Rich Law or Jaclyn Barcroft).  They will usually log
 	    you on.
 	    <warning>
 	      <title>Use SEOC-specific password</title>
 	      <para>
+-->
 		<!-- This is a real hack but I was having no joy in
 		getting this straightened out in the xsl -->
+<!--
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 	      Do not use your personal password when logging on at
@@ -79,7 +213,7 @@
       <itemizedlist>
 	<listitem>
 	  <para>
-	    Update the agency sitrep approximately hourly. Often, the
+	    Update the agency SitRep approximately hourly. Often, the
 	    SEOC rep and the station will share a SitRep.
 	  </para>
 	</listitem>
@@ -96,11 +230,12 @@
 	<listitem>
 	  <para>
 	    Be certain to review all numbered messages from message
-	    control, either paper copies distributed to the auxcomm
-	    desk or on E-Team.
+	    control, either paper copies distributed to the AuxComm
+	    desk or on <application>MI CIMS</application>.
 	  </para>
 	</listitem>
       </itemizedlist>
     </para>
+-->
   </section>
 </chapter>
