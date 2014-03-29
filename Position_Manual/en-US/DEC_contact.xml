@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE Article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
 ]>
-  <appendix><title>District Emergency Coordinators</title>
+  <appendix id="appe-DEC">
+    <title>District Emergency Coordinators</title>
       <table frame="all" id="tbl-DEC">
 	<title>District Emergency Coordinators</title>
 	<tgroup cols="4">

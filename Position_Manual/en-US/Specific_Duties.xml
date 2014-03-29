@@ -16,9 +16,11 @@
       <para>
 	The rep must pick up a badge at the security station outside
 	the EOC room for some events.  Once appropriately signed in,
-	enter the EOC, pick up the copy of the position manual in the
+	enter the EOC, pick up the copy of this position manual in the
 	bookshelf near the door, and go to the Auxcomm desk (first
-	desk to the right when entering the SEOC).
+	desk to the right when entering the SEOC).  Note that the
+	coordinator is expected to have the official copy of this
+	document at the desk.
       </para>
     </section>
 
@@ -26,7 +28,7 @@
       <title>Assessing the situation</title>
       <para>
 	The rep must first get a feel for the current situation.  Sign
-	on to the <application>MI CIMS</application> and quickly
+	on to <application>MI CIMS</application> and quickly
 	review the <filename>Incident Action Plan</filename>, if one
 	is available.  Also, review the most recent entries in the
 	<application>SEOC Significant Events</application> and the
@@ -47,17 +49,23 @@
 	contact the DEC for the affected jurisdiction.  In many cases,
 	of course, the DEC may have contacted the SEC in the first
 	place.  Even in those cases, contact the DEC so (s)he is aware
-	that the SEOC is activated.
+	that the SEOC is activated. (<xref linkend="appe-DEC" />)
       </para>
       <para>
 	The local ECs affected must also be notified.  When speaking
 	with the DEC, decide whether the DEC will notify the ECs or
 	whether they will each get a call from Collins Road.
+	(<xref linkend="appe-EC" />)
       </para>
       <para>
 	Be sure to determine, whether through the DEC or directly with
 	the ECs, the communications circuits to be used between the
 	SEOC and the local EOC.
+      </para>
+      <para>
+	After contacting the DEC, then contact the Net Manager of the
+	net responsible for the affected District.
+	(<xref linkend="appe-NM" />)
       </para>
     </section>
     
@@ -91,7 +99,7 @@
       </para>
       <para>
 	The coordinator will typically communicate with the station via
-	telephone.  See Appendix A for numbers.
+	telephone.  See <xref linkend="appe-SEOC" /> for numbers.
       </para>
       <para>
 	The coordinator and the station should also agree on a backup
