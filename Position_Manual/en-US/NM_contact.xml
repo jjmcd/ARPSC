@@ -35,35 +35,33 @@
 	      <row>
 		<entry>MITN</entry>
 		<entry>Michigan Traffic Net</entry>
-		<entry>Jeff Miller</entry>
-		<entry>WB8WKQ</entry>
+		<entry>Michael Horn</entry>
+		<entry>WB8TQZ</entry>
 		<entry>
 		  <itemizedlist spacing='compact'>
-		    <listitem><para>Home: 248-628-3719</para></listitem>
-		    <listitem><para>Mobile: 248-330-0335</para></listitem>
+		    <listitem><para>Home:  989-734-4956</para></listitem>
 		  </itemizedlist>
 		</entry>
 	      </row>
 	      <row>
 		<entry>GLETN</entry>
 		<entry>Great Lakes Emergency and Traffic Net</entry>
-		<entry>Grant Watson</entry>
-		<entry>K8VFZ</entry>
+		<entry>Jack Wiswasser</entry>
+		<entry>WA8IAL</entry>
 		<entry>
 		  <itemizedlist spacing='compact'>
-		    <listitem><para>Home: 810-982-7488</para></listitem>
+		    <listitem><para>Home: 517-641-8553</para></listitem>
 		  </itemizedlist>
 		</entry>
 	      </row>
 	      <row>
 		<entry>MACS</entry>
 		<entry>Michigan Amateur Communications System</entry>
-		<entry>John Wehmer</entry>
-		<entry>WB9JSR</entry>
+		<entry>Michael Horn</entry>
+		<entry>WB8TQZ</entry>
 		<entry>
 		  <itemizedlist spacing='compact'>
-		    <listitem><para>Home: 616-847-6409</para></listitem>
-		    <listitem><para>Mobile: 616-502-4800</para></listitem>
+		    <listitem><para>Home:  989-734-4956</para></listitem>
 		  </itemizedlist>
 		</entry>
 	      </row>
@@ -103,15 +101,15 @@
 	      <row>
 		<entry>SEMTN</entry>
 		<entry>Southeast Michigan Traffic Net</entry>
-		<entry>Jeff Miller</entry>
-		<entry>WB8WKQ</entry>
+		<entry>Bradford E. Maney</entry>
+		<entry>KD8QPF</entry>
 		<entry>
 		  <itemizedlist spacing='compact'>
-		    <listitem><para>Home: 248-628-3719</para></listitem>
-		    <listitem><para>Mobile: 248-330-0335</para></listitem>
+		    <listitem><para>Mobile: 734-731-0597</para></listitem>
 		  </itemizedlist>
 		</entry>
 	      </row>
+<!--
 	      <row>
 		<entry>TMMTN</entry>
 		<entry>Thumb and Mid-Michigan Traffic Net</entry>
@@ -123,6 +121,7 @@
 		  </itemizedlist>
 		</entry>
 	      </row>
+-->
 	    </tbody>
 	  </tgroup>
 	</table>

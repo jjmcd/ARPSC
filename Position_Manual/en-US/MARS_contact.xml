@@ -23,19 +23,19 @@
       </thead>
       <tbody>
 	<row>
-	  <entry>State MARS Director</entry>
-	  <entry>Dave Bock</entry>
-	  <entry>W8OHS</entry>
+	  <entry>Army MARS Director</entry>
+	  <entry>Flora Jean Young</entry>
+	  <entry>AC8AR</entry>
 	  <entry>AAA5MI</entry>
 	  <entry>
 	    <itemizedlist spacing='compact'>
-	      <listitem><para>Home: 586-943-5381</para></listitem>
-	      <listitem><para>Email: bock@marketcommander.com</para></listitem>
+	      <listitem><para>Home: 231-893-3341</para></listitem>
+	      <listitem><para>Email: ac8ar@arrl.net</para></listitem>
 	    </itemizedlist>
 	  </entry>
 	</row>
 	<row>
-	  <entry>Interoperability Officer</entry>
+	  <entry>Army MARS Interoperability Officer</entry>
 	  <entry>Joe Bell</entry>
 	  <entry>WD8USA</entry>
 	  <entry>AAM5IMI</entry>
@@ -56,7 +56,31 @@
 	      <listitem><para>Home: 517-394-5254</para></listitem>
 <!--	      <listitem><para>Email: cavalry@acd.net</para></listitem> -->
 	      <listitem><para>Email: harvey.cavalry@att.net</para></listitem>
-	      <listitem><para>Also E-Team targeted alerts</para></listitem>
+<!--	      <listitem><para>Also E-Team targeted alerts</para></listitem> -->
+	    </itemizedlist>
+	  </entry>
+	</row>
+	<row>
+	  <entry>Air Force MARS Director</entry>
+	  <entry>Paul D. Wanty, Sr.</entry>
+	  <entry>KF8AM</entry>
+	  <entry></entry>
+	  <entry>
+	    <itemizedlist spacing='compact'>
+	      <listitem><para>Home: 734-922-3800</para></listitem>
+	      <listitem><para>Email: paulsr@wanty.us</para></listitem>
+	    </itemizedlist>
+	  </entry>
+	</row>
+	<row>
+	  <entry>Navy/Marine Corps MARS Director</entry>
+	  <entry>Terry L. Hines, Jr</entry>
+	  <entry>AB8AL</entry>
+	  <entry></entry>
+	  <entry>
+	    <itemizedlist spacing='compact'>
+	      <listitem><para>Home:616-984-5957 </para></listitem>
+	      <listitem><para>Email: ab8al@yahoo.com</para></listitem>
 	    </itemizedlist>
 	  </entry>
 	</row>
