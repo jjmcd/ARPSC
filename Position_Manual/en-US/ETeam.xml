@@ -8,7 +8,7 @@
   <section>
       <title>Introduction</title>
       <para>
-	the coordinator will spend much of the time focusing on
+	The coordinator will spend much of the time focusing on
 	activity in the <application>MI CIMS</application> and keeping
 	status updated in that application.  This is the communication
 	tool not only to the other agencies, but also to personnel in
@@ -28,6 +28,20 @@
       <guilabel>SEOC Situation Report - Agency List</guilabel> and
       select <guilabel>AuxComm</guilabel> from the list.
     </para>
+    <para>
+      <warning>
+        <title>The Executive Summary will become part of the SEOC
+        Situation Report</title>
+	<para>
+	  Be sure to update that section of the agency SitRep each
+	  operational period and be sure that it is framed in such a
+	  way as to be useful as a part of the SEOC Situation Report.
+	  Other sections may be more specific, but the
+	  <guilabel>Executive Summary</guilabel> will be viewed by a
+	  wider audience.
+	</para>
+	</warning>
+    </para>
   </section>
 
   <section>
@@ -39,7 +53,7 @@
       boxes at the bottom of the board have been checked:
     </para>
     <para>
-      <itemizedlist>
+      <itemizedlist spacing="compact">
 	<listitem>
 	  <para>
 	    <guilabel>Post to SEOC Significant Events</guilabel>
