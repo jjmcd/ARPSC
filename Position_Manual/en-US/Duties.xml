@@ -2,13 +2,13 @@
 <!DOCTYPE Article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
 ]>
 
-  <chapter>
+  <section>
     <title>General Responsibilities</title>
 
     <section>
       <title>Team Objectives</title>
       <para>
-	ARES/RACES is present at the SEOC to provide backup communications
+	Auxcomm is present at the SEOC to provide backup communications
 	between the area of an incident or emergency and the various state
 	agencies.  The "agency coordinator" (SEC or alternate) sits in on the
 	EOC proceedings and stays alert to communications needs of the other
@@ -31,15 +31,8 @@
 	should the capabilities of the local county be exceeded, the SEC or
 	alternate must marshall additional resources, typically by contacting
 	the DEC of the affected area, adjacent DECs or in some cases, nearby ECs
-	directly. 
-      </para>
-      <para>
-	At the current time, the SEC also serves as the AuxComm
-	Emergency Management Coordinator and thus is responsible for
-	all volunteer communications.  In practice, this means Army
-	MARS in addition to ARPSC, however should CAP, REACT or other
-	resources become available, the SEC must consider those
-	resources as well.
+	directly. In addition, the MARS State Director, CAP
+	Communications Director or SATERN may be contacted for assistance.
       </para>
     </section>
 
@@ -65,7 +58,21 @@
 	Districts are obviously preferred due to travel times, but any District
 	may have the needed resources and must be considered.
       </para>
+      <para>
+	SATERN, if needed, will typically already be on site.  Local
+	Emergency Management Coordinators typically have close contact
+	with their local Salvation Army, who in turn will understand
+	whether SATERN resources may be helpful.
+      </para>
+      <para>
+	MARS and CAP are a different issue.  They require Federal
+	authorization, and unless other arrangements have previously
+	been made for the incident, will need to be activated through
+	the MSP Dispatch desk.  If needed, the local EMC should be
+	contacted, the procedure explained, and a request to MSP made
+	from the local jurisdiction.
+      </para>
     </section>
 
 
-  </chapter>
+  </section>
