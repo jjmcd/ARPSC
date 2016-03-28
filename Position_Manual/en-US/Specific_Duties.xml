@@ -8,31 +8,34 @@
     <section>
       <title>Checking In</title>
       <para>
-	On arrival, sign in at the front door.  The door to the
-	downstairs stairway will be locked.  If the rep or alternate
+	On arrival, sign in at the front door.  If the rep or alternate
 	does not have a pass card, an officer will escort him to the
 	security station.
       </para>
       <para>
-	The rep must pick up a badge at the security station outside
-	the EOC room for some events.  Once appropriately signed in,
+	Once appropriately signed in,
 	enter the EOC, pick up the copy of this position manual in the
 	bookshelf near the door, and go to the Auxcomm desk (first
 	desk to the right when entering the SEOC).  Note that the
 	coordinator is expected to have the official copy of this
 	document at the desk.
       </para>
+      <para>
+	Log on to <application>MI-CIMS</application>, make an entry in
+	the Activity Log noting you are in the SEOC.  Make the record
+	shared with agency and SEOC.
+      </para>
     </section>
 
     <section>
       <title>Assessing the situation</title>
       <para>
-	The rep must first get a feel for the current situation.  Sign
-	on to <application>MI CIMS</application> and quickly
-	review the <filename>Incident Action Plan</filename>, if one
-	is available.  Also, review the most recent entries in the
-	<application>SEOC Significant Events</application> and the
-	<application>Statewide Significant Events</application>
+	The rep must first get a feel for the current situation. On
+	<application>MI CIMS</application>, quickly review the
+	<guilabel>Incident Action Plan</guilabel>, if one is
+	available.  Also, review the most recent entries in the
+	<guilabel>SEOC Significant Events</guilabel> and the
+	<guilabel>Statewide Significant Events</guilabel>
 	boards.
       </para>
       <para>
@@ -67,8 +70,58 @@
 	net responsible for the affected District.
 	(<xref linkend="appe-NM" />)
       </para>
+      <para>
+	Advise leaders of CAP, MARS and SATERN of the activation.
+	They will most likely not be required to respond, but they
+	should be aware of the incident.
+      </para>
     </section>
     
+    <section>
+      <title>Situation Report</title>
+      <para>
+	After the initial contacts have been made, review the
+	<guilabel>Incident Action Plan</guilabel> once again, paying
+	attention to the incident objectives.  If there is no IAP yet,
+	there may be an <guilabel>ICS-202 Incident
+	Objectives</guilabel> under the <guilabel>Reference
+	Info</guilabel> menu.  Take cares, depending on the incident,
+	there may be a 202 <emphasis>per agency</emphasis>.  Be sure
+	to select a relevant 202.
+      </para>
+      <para>
+	Under <guilabel> SEOC Situation Report- Agency
+	List</guilabel>, <guilabel>AuxComm</guilabel>,
+	<guilabel>Edit Record</guilabel> enter the three
+	<emphasis>Auxcomm</emphasis> objectives for the incident.
+	Consider the objectives for the next operational period
+	(e.g. where will you get resources).  List any concerns you
+	have. 
+      </para>
+      <para>
+	Briefly assess the status of each service, and summarize the
+	status in the various <guilabel>... SITUATION
+	UPDATES</guilabel> fields. Also in this field list the names
+	and calls of all operators at the SEOC.
+      </para>
+      <para>
+	Returning to the top of the form, briefly summarize the
+	Auxcomm situation in the <guilabel>EXECUTIVE
+	SUMMARY</guilabel> field. This will become part of the of the
+	<guilabel>SEOC Situation Report - Published</guilabel> so it
+	wants to be at a very high level.  If the Auxcomm section of
+	the <guilabel>SEOC Situation Report - Published</guilabel>
+	should be blank, leave this blank.
+      </para>
+      <para>
+	From time to time come back to this board to update the
+	situation.  Occasionally, the Planning Section will ask for
+	this form to be complete. When that happens, review the board
+	to be sure it says what you want to say.
+      </para>
+    </section>
+      
+
     <section>
       <title>Liaison with the station</title>
       <para>
