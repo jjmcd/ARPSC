@@ -13,18 +13,34 @@
 	security station.
       </para>
       <para>
-	Once appropriately signed in,
-	enter the EOC, pick up the copy of this position manual in the
-	bookshelf near the door, and go to the Auxcomm desk (first
-	desk to the right when entering the SEOC).  Note that the
-	coordinator is expected to have the official copy of this
-	document at the desk.
+	Once appropriately signed in, enter the EOC, pick up the copy
+	of this position manual in the bookshelf near the door, and go
+	to the Auxcomm desk (Second row, left most two chairs when
+	facing the command diaz).  Note that the coordinator is
+	expected to have the official copy of this document at the
+	desk.
       </para>
       <para>
 	Log on to <application>MI-CIMS</application>, make an entry in
 	the Activity Log noting you are in the SEOC.  Make the record
 	shared with agency and SEOC.
       </para>
+      <para>
+        <figure float="0"><title>Activity Log</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata scale="40" scalefit="1"
+		       fileref="images/SignInActivityLog.png" format="PNG"/>
+          </imageobject>
+          <textobject>
+            <para>
+              Activity log
+            </para>
+          </textobject>
+        </mediaobject>
+        </figure>
+      </para>
+      
     </section>
 
     <section>
@@ -38,6 +54,21 @@
 	<guilabel>Statewide Significant Events</guilabel>
 	boards.
       </para>
+        <para>
+          <figure float="0"><title>IAP</title>
+            <mediaobject>
+              <imageobject>
+                <imagedata scale="37" scalefit="1"
+              fileref="images/ICS202.png" format="PNG"/>
+              </imageobject>
+              <textobject>
+                <para>
+                  Incident Action Plan - ICS202
+                </para>
+              </textobject>
+            </mediaobject>
+          </figure>
+    </para>
       <para>
 	This should be done quickly so that the jurisdiction
 	can be contacted.  Often there will be considerable detail to
@@ -85,7 +116,7 @@
 	attention to the incident objectives.  If there is no IAP yet,
 	there may be an <guilabel>ICS-202 Incident
 	Objectives</guilabel> under the <guilabel>Reference
-	Info</guilabel> menu.  Take cares, depending on the incident,
+	Info</guilabel> menu.  Take care, depending on the incident,
 	there may be a 202 <emphasis>per agency</emphasis>.  Be sure
 	to select a relevant 202.
       </para>
@@ -99,10 +130,40 @@
 	have. 
       </para>
       <para>
+        <figure float="0"><title>Situation Report - overview</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata scale="25" scalefit="1"
+		       fileref="images/SitRep-top.png" format="PNG"/>
+          </imageobject>
+          <textobject>
+            <para>
+              SitRep - top
+            </para>
+          </textobject>
+        </mediaobject>
+        </figure>
+      </para>
+      <para>
 	Briefly assess the status of each service, and summarize the
 	status in the various <guilabel>... SITUATION
 	UPDATES</guilabel> fields. Also in this field list the names
 	and calls of all operators at the SEOC.
+      </para>
+      <para>
+        <figure float="0"><title>Situation Report - individual services</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata scale="25" scalefit="1"
+		       fileref="images/SitRep-bottom.png" format="PNG"/>
+          </imageobject>
+          <textobject>
+            <para>
+              SitRep - bottom
+            </para>
+          </textobject>
+        </mediaobject>
+        </figure>
       </para>
       <para>
 	Returning to the top of the form, briefly summarize the
@@ -154,6 +215,15 @@
 	The coordinator will typically communicate with the station via
 	telephone.  See <xref linkend="appe-SEOC" /> for numbers.
       </para>
+      <warning>
+	<title>Things change</title>
+	<para>
+	  The SEOC facility is new, the phones may not be permanent,
+	  and the intercom system might not yet be functional.  You
+	  may need to physically check the phone number in the
+	  station, and/or communicate with the station via HT.
+	</para>
+      </warning>
       <para>
 	The coordinator and the station should also agree on a backup
 	communications plan.  Typically, the coordinator and a station
@@ -170,7 +240,7 @@
       <para>
 	If the MARS station is active, be sure to stay abreast of the
 	MARS SitRep and include them in hourly updates.  Similarly if
-	REACT, CAP or other services are involved.
+	REACT, SATERN or other services are involved.
       </para>
     </section>
 
@@ -188,7 +258,7 @@
       </para>
       <para>
 	Often, we are the only agency with a communications focus. In
-	effect, the AuxComm EMC becomes the Communications Branch
+	effect, the AuxComm EMC becomes the Communications Unit
 	leader. Do not be surprised if the request is far outside a
 	simple radiogram, and consider both your unique skills, and
 	the considerable resources available at the SEOC to respond to
