@@ -6,6 +6,19 @@
   <simpara>
     <revhistory>
       <revision>
+	<revnumber>17</revnumber>
+        <date>Mon Mar 28 2016</date>
+        <author><firstname>John</firstname>
+	<surname>McDonough</surname>
+	<email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Revise first chapters to reflect Auxcomm</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
+      <revision>
 	<revnumber>16</revnumber>
         <date>Sat Mar 29 2014</date>
         <author><firstname>John</firstname>
@@ -159,94 +172,94 @@
 	</revdescription>
       </revision>
       <revision>
-         <revnumber>5</revnumber>
+        <revnumber>5</revnumber>
         <date>Fri May 14 2010</date>
         <author><firstname>John</firstname>
-	    <surname>McDonough</surname>
-	    <email>wb8rcr@arrl.net</email>
-	  </author>
-	  <revdescription>
-	    <simplelist>
-	      <member>Update Newaygo</member>
-	      <member>Update Clare</member>
-	    </simplelist>
-	  </revdescription>
-	</revision>
+	<surname>McDonough</surname>
+	<email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Update Newaygo</member>
+	    <member>Update Clare</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
       <revision>
         <revnumber>4</revnumber>
         <date>Mon Mar 01 2010</date>
         <author><firstname>John</firstname>
-	    <surname>McDonough</surname>
-	    <email>wb8rcr@arrl.net</email>
-	  </author>
-	  <revdescription>
-	    <simplelist>
-	      <member>Additional phone numbers</member>
-	      <member>Rescale District 8 map</member>
-	      <member>Correct typos</member>
-	      <member>Remove draft status</member>
-	    </simplelist>
-	  </revdescription>
-	</revision>
+	<surname>McDonough</surname>
+	<email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Additional phone numbers</member>
+	    <member>Rescale District 8 map</member>
+	    <member>Correct typos</member>
+	    <member>Remove draft status</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
       <revision>
         <revnumber>3</revnumber>
         <date>Mon Feb 22 2010</date>
         <author><firstname>John</firstname>
-	    <surname>McDonough</surname>
-	    <email>wb8rcr@arrl.net</email>
-	  </author>
-	  <revdescription>
-	    <simplelist>
-	      <member>Tweak some images for PDF</member>
-	      <member>Change format of Appendix D to allow for less 
-		wasted space</member>
-	      <member>Improve/correct E-Team chapter</member>
-	    </simplelist>
-	  </revdescription>
-	</revision>
+	<surname>McDonough</surname>
+	<email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Tweak some images for PDF</member>
+	    <member>Change format of Appendix D to allow for less 
+	    wasted space</member>
+	    <member>Improve/correct E-Team chapter</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
       <revision>
         <revnumber>2</revnumber>
         <date>Fri Feb 19 2010</date>
         <author><firstname>John</firstname>
-	    <surname>McDonough</surname>
-	    <email>wb8rcr@arrl.net</email>
-	  </author>
-	  <revdescription>
-	    <simplelist>
-	      <member>Still more expanding of duties</member>
-	      <member>Tables of EC contact information</member>
-	      <member>District map</member>
-	      <member>Move reference materials to appendix</member>
-	    </simplelist>
-	  </revdescription>
-	</revision>
+	<surname>McDonough</surname>
+	<email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Still more expanding of duties</member>
+	    <member>Tables of EC contact information</member>
+	    <member>District map</member>
+	    <member>Move reference materials to appendix</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
       <revision>
         <revnumber>1</revnumber>
         <date>Wed Feb 17 2010</date>
         <author><firstname>John</firstname>
-	    <surname>McDonough</surname>
-	    <email>wb8rcr@arrl.net</email>
-	  </author>
-	  <revdescription>
-	    <simplelist>
-	      <member>Additional details on duties</member>
-	      <member>DEC Contact Information</member>
-	    </simplelist>
-	  </revdescription>
-	</revision>
+	<surname>McDonough</surname>
+	<email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Additional details on duties</member>
+	    <member>DEC Contact Information</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
       <revision>
         <revnumber>0</revnumber>
         <date>Wed Jan 27 2010</date>
         <author><firstname>John</firstname>
-	    <surname>McDonough</surname>
-	    <email>wb8rcr@arrl.net</email>
-	  </author>
-	  <revdescription>
-	    <simplelist>
-	      <member>Initial creation of book by publican</member>
-	    </simplelist>
-	  </revdescription>
-	</revision>
-      </revhistory>
-    </simpara>
-  </appendix>
+	<surname>McDonough</surname>
+	<email>wb8rcr@arrl.net</email>
+	</author>
+	<revdescription>
+	  <simplelist>
+	    <member>Initial creation of book by publican</member>
+	  </simplelist>
+	</revdescription>
+      </revision>
+    </revhistory>
+  </simpara>
+</appendix>
