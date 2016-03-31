@@ -23,14 +23,14 @@
       </thead>
       <tbody>
 	<row>
-	  <entry>Army MARS Director</entry>
-	  <entry>Flora Jean Young</entry>
-	  <entry>AC8AR</entry>
+	  <entry>Army MARS Communications Director</entry>
+	  <entry>Cortland Richmond</entry>
+	  <entry>KA5S</entry>
 	  <entry>AAA5MI</entry>
 	  <entry>
 	    <itemizedlist spacing='compact'>
-	      <listitem><para>Home: 231-893-3341</para></listitem>
-	      <listitem><para>Email: ac8ar@arrl.net</para></listitem>
+	      <listitem><para>Mobile: 616-551-8495</para></listitem>
+	      <listitem><para>Email: dak1ge@earthlink.net</para></listitem>
 	    </itemizedlist>
 	  </entry>
 	</row>
@@ -73,6 +73,19 @@
 	  </entry>
 	</row>
 	<row>
+	  <entry>Air Force Communications Officer</entry>
+	  <entry>Gordon Tuzinsky</entry>
+	  <entry>WB8H</entry>
+	  <entry>AFF5MI</entry>
+	  <entry>
+	    <itemizedlist spacing='compact'>
+	      <listitem><para>Home:  586-739-3275</para></listitem>
+	      <listitem><para>Email: afa1gh@yahoo.com</para></listitem>
+	    </itemizedlist>
+	  </entry>
+	</row>
+<!--
+	<row>
 	  <entry>Navy/Marine Corps MARS Director</entry>
 	  <entry>Terry L. Hines, Jr</entry>
 	  <entry>AB8AL</entry>
@@ -83,7 +96,8 @@
 	      <listitem><para>Email: ab8al@yahoo.com</para></listitem>
 	    </itemizedlist>
 	  </entry>
-	</row>
+	  </row>
+-->
       </tbody>
     </tgroup>
   </table>
