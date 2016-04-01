@@ -16,6 +16,8 @@
 	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
   <xi:include href="Contact.xml"
 	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+  <xi:include href="SEOCdesks.xml"
+	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
   <xi:include href="District_Map.xml" 
 	      xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
   <xi:include href="DEC_contact.xml" 

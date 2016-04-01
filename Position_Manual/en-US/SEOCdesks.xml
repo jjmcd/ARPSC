@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE Article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+
+<appendix id="appe-SEOCdesks">
+  <title>SEOC Desks</title>
+<!--  
+  <section>
+  <title>Phone numbers for SEOC desks</title>
+-->
+    <table frame="all" id="tbl-SEOCstaffNumsIM">
+      <title>Incident Management</title>
+      <tgroup cols="3">
+	<colspec colnum="1" colname="c1" colwidth="3*" />
+	<colspec colnum="2" colname="c2" colwidth="1*" />
+	<colspec colnum="3" colname="c3" colwidth="3*" />
+	<thead>
+          <row>
+            <entry>Incident Management</entry>
+            <entry>Phone</entry>
+	    <entry>Email Address</entry>
+          </row>
+	</thead>
+	<tbody>
+	  
+	  <row>
+	    <entry>Governor's Representative</entry>
+	    <entry>517-284-3922</entry>
+	    <entry>MSP-EOC-seoc_governor@michigan.gov</entry>
+	  </row>
+	  
+	  <row>
+	    <entry morerows="1">State Director of Emergency
+	    Management and Homeland Security</entry>
+	    <entry>517-284-3861</entry>
+	    <entry morerows="1">MSP-seocsdem@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3729</entry>
+	  </row>
+	  
+	  <row>
+	    <entry morerows="1">SEOC Unified Command</entry>
+	    <entry>517-284-3682</entry>
+	    <entry morerows="1">&nbsp;</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3681</entry>
+	  </row>
+	  
+	  <row>
+	    <entry>Site Liaison</entry>
+	    <entry>517-284-3863</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	  
+	  <row>
+	    <entry>EOF Hotline</entry>
+	    <entry>517-284-3862</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	  
+	  <row>
+	    <entry>State Health Physicist</entry>
+	    <entry>517-284-3921</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	  
+	  <row>
+	    <entry>LEIN</entry>
+	    <entry>517-284-3695</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	  
+	  <row>
+	    <entry>Utility Liaison</entry>
+	    <entry>517-284-3902</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	  
+	  <row>
+	    <entry>National Weather Service</entry>
+	    <entry>517-284-3912</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	  
+	  <row>
+	    <entry morerows="2">Federal Liaison</entry>
+	    <entry>517-284-3923</entry>
+	    <entry morerows="2">federalseoc@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3687</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3686</entry>
+	  </row>
+	  
+	  <row>
+	    <entry>Public Information Officer</entry>
+	    <entry>517-284-3882</entry>
+	    <entry>MSP-seocpic@michigan.gov</entry>
+	  </row>
+	  
+	  <row>
+	    <entry>Public Information Officer (Hotline)</entry>
+	    <entry>517-284-3883</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	  
+	  <row>
+	    <entry>State Director Administrative Support</entry>
+	    <entry>517-284-3900</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	  
+	</tbody>
+      </tgroup>
+    </table>
+
+    <table frame="all" id="tbl-SEOCstaffNumsOPS">
+      <title>Operations Section</title>
+      <tgroup cols="3">
+	<colspec colnum="1" colname="c1" colwidth="3*" />
+	<colspec colnum="2" colname="c2" colwidth="1*" />
+	<colspec colnum="3" colname="c3" colwidth="3*" />
+	<thead>
+          <row>
+            <entry>Operations Section</entry>
+            <entry>Phone</entry>
+	    <entry>Email Address</entry>
+          </row>
+	</thead>
+	<tbody>
+	  <row>
+	    <entry morerows="1">Operations Section Chief</entry>
+	    <entry>517-284-3889</entry>
+	    <entry morerows="1">MSP-seocopsc@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3888</entry>
+	  </row>
+	  
+	  <row>
+	    <entry>LEIN</entry>
+	    <entry>517-284-3894</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	  
+	  <row>
+	    <entry>Message Controller</entry>
+	    <entry>517-284-3891</entry>
+	    <entry>MSP-EOC-seocmsgc@michigan.gov</entry>
+	  </row>
+	    
+	  <row>
+	    <entry>Message Recorder</entry>
+	    <entry>517-284-3890</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	  
+	  <row>
+	    <entry morerows="1">Emergency Management Assistance
+	    Compact (EMAC)</entry>
+	    <entry>517-284-3897</entry>
+	    <entry>Emac1@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>517-284-3896</entry>
+	    <entry>emacdesk@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry morerows="3">Communications Room</entry>
+	    <entry>517-284-3881</entry>
+	    <entry morerows="3">&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>517-284-3880</entry>
+	  </row>
+
+	  <row>
+	    <entry>517-284-3879</entry>
+	  </row>
+
+	  <row>
+	    <entry>517-284-3875</entry>
+	  </row>
+
+	</tbody>
+      </tgroup>
+    </table>
+
+
+    <table frame="all" id="tbl-SEOCstaffNumsPLN">
+      <title>Planning Section</title>
+      <tgroup cols="3">
+	<colspec colnum="1" colname="c1" colwidth="3*" />
+	<colspec colnum="2" colname="c2" colwidth="1*" />
+	<colspec colnum="3" colname="c3" colwidth="3*" />
+	<thead>
+          <row>
+            <entry>Planning Section</entry>
+            <entry>Phone</entry>
+	    <entry>Email Address</entry>
+          </row>
+	</thead>
+	<tbody>
+	    
+	  <row>
+	    <entry>Planning Section Chief</entry>
+	    <entry>517-284-3887</entry>
+	    <entry>plangc@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry morerows="2">Planning Section Staff</entry>
+	    <entry>517-284-3886</entry>
+	    <entry>MSP-SEOCda1@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>517-284-3885</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>517-284-3884</entry>
+	    <entry>MSP-SEOCda2@michigan.gov</entry>
+	  </row>
+
+	    
+	  <row>
+	    <entry>Status Plotter</entry>
+	    <entry>517-284-3860</entry>
+	    <entry>MSP-SEOCStatus@michigan.gov</entry>
+	  </row>
+
+	</tbody>
+      </tgroup>
+    </table>
+
+    
+    <table frame="all" id="tbl-SEOCstaffNumsLOG">
+      <title>Logistics Section</title>
+      <tgroup cols="3">
+	<colspec colnum="1" colname="c1" colwidth="3*" />
+	<colspec colnum="2" colname="c2" colwidth="1*" />
+	<colspec colnum="3" colname="c3" colwidth="3*" />
+	<thead>
+          <row>
+            <entry>Logistics Section</entry>
+            <entry>Phone</entry>
+	    <entry>Email Address</entry>
+          </row>
+	</thead>
+	<tbody>
+	    
+	  <row>
+	    <entry morerows="1">Logistics Section Chief</entry>
+	    <entry>517-284-3893</entry>
+	    <entry>MSP-seoclgc@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3892</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>County Hotline 1</entry>
+	    <entry>517-284-3899</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>County Hotline 2</entry>
+	    <entry>517-284-3898</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	    
+	  <row>
+	    <entry morerows="1">SEOC IT / MI CIMS Support</entry>
+	    <entry>517-284-3869</entry>
+	    <entry>MICIMS@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3868</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	    
+	  <row>
+	    <entry morerows="3">Geographic Information Systems</entry>
+	    <entry>517-284-3867</entry>
+	    <entry>MSP-seocgis@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3866</entry>
+	    <entry>MSP-seocgis2@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3865</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3864</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>Safety Officer</entry>
+	    <entry>517-284-3688</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>Auxiliary Communications State RACES Officer</entry>
+	    <entry>517-284-3907</entry>
+	    <entry>MSP-seocauxcomm@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>Radio Amateur Civil Emergency Service (RACES)</entry>
+	    <entry>517-284-3933</entry>
+	    <entry>wc8eoc@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>Military Auxiliary Radio Service (MARS)</entry>
+	    <entry>517-284-3932</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>Civil Air Patrol (CAP)</entry>
+	    <entry>517-284-3932</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>Michigan Association of Broadcasters (MAB)</entry>
+	    <entry>517-284-3917</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	</tbody>
+      </tgroup>
+    </table>
+
+
+<!--
+  </section>
+-->
+</appendix>

@@ -4,430 +4,443 @@
 
 
 <appendix id="appe-SEOC">
-    <title>SEOC Contacts</title>
+  <title>Key SEOC Contacts</title>
+  
 
-    <section>
-      <title>Harris Drive</title>
-      <para>
-	<itemizedlist>
-	  <listitem>
-	    <para>RACES Station - 517-284-3933</para>
-	  </listitem>
-	  <listitem>
-	    <para>MARS Station - </para>
-	  </listitem>
-	  <listitem>
-	    <para>SEOC Auxcomm Desk - 517-284-3907</para>
-	  </listitem>
-	</itemizedlist>
-      </para>
-    </section>
-    <section>
-      <title>Leadership Cell Phones</title>
-      <para>
-	<itemizedlist>
-	  <listitem>
-	    <para>SEC WB8RCR - 989-430-4855</para>
-	  </listitem>
-	  <listitem>
-	    <para>ASEC N8ERF (SEOC Alternate) - 989-948-5427</para>
-	  </listitem>
-	  <listitem>
-	    <para>ASEC K8COP (SEOC Alternate) - 231-638-7010</para>
-	  </listitem>
-	  <listitem>
-	    <para>SM - WB8R - 517-617-4883</para>
-	  </listitem>
-	  <listitem>
-	    <para>ASEC K8RDN (SEOC Station Manager) - 517-232-0267</para>
-	  </listitem>
-	  <listitem>
-	    <para>ASEC NX8A (Training and Exercises) - 989-430-7560</para>
-	  </listitem>
-	</itemizedlist>
-      </para>
-    </section>
+  <section>
+    <title>Harris Drive Key Phone Numbers</title>
+    <para>
+      <itemizedlist>
+	<listitem>
+	  <para>RACES Station - 517-284-3933</para>
+	</listitem>
+	<listitem>
+	  <para>MARS Station - 517-284-3932</para>
+	</listitem>
+	<listitem>
+	  <para>CAP Station - 517-284-3931</para>
+	</listitem>
+	<listitem>
+	  <para>SEOC Auxcomm Desk - 517-284-3907</para>
+	</listitem>
+      </itemizedlist>
+    </para>
+  </section>
+  <section>
+    <title>ARES Leadership Cell Phones</title>
+    <para>
+      <itemizedlist>
+	<listitem>
+	  <para>SEC WB8RCR - 989-430-4855</para>
+	</listitem>
+	<listitem>
+	  <para>ASEC N8ERF (SEOC Alternate) - 989-948-5427</para>
+	</listitem>
+	<listitem>
+	  <para>ASEC K8COP (SEOC Alternate) - 231-638-7010</para>
+	</listitem>
+	<listitem>
+	  <para>SM - WB8R - 517-617-4883</para>
+	</listitem>
+	<listitem>
+	  <para>ASEC K8RDN (SEOC Station Manager) - 517-232-0267</para>
+	</listitem>
+	<listitem>
+	  <para>ASEC NX8A (Training and Exercises) - 989-430-7560</para>
+	</listitem>
+      </itemizedlist>
+    </para>
+  </section>
 
-    <section>
-      <title>MSP Contacts</title>
-      <para>
-	The following are key Michigan State Police contacts.  If these
-	individuals are on duty, they will typically be in the SEOC:
-      </para>
-      <important>
-	<title>Stuff changes</title>
-	<para>
-	  The following are out of date (for now)
-	</para>
-      </important>
-      <para>
-	<simplelist>
-	  <member>Division Commander - Capt. Chris Kelenske -
-	  Office:517-719-1194, Mobile: 517-241-0916</member>
-	</simplelist>
-	<simplelist>
-	  <member>Assistant Division Commander - Tony Katarsky -
-	  Office:517-333-5024, Mobile: 517-242-5371</member>
-	</simplelist>
-	<simplelist>
+  <section>
+    <title>Key MSP Contacts</title>
+    <para>
+      The following are key Michigan State Police contacts.  If these
+      individuals are on duty, they will typically be in the SEOC:
+    </para>
+    <para>
+      <simplelist>
+	<member>Division Commander - Capt. Chris Kelenske -
+	Office:517-719-1194, Mobile: 517-241-0916, Desk: 517-284-
+	3861</member>
+      </simplelist>
+      <simplelist>
+	<member>Assistant Division Commander - Tony Katarsky -
+	Desk: 517-284-3662, Mobile: 517-242-5371</member>
+      </simplelist>
+      <!--
+	  <simplelist>
 	  <member>Section Commander - Jim Porcello -
 	  Office:517-336-6435, Mobile:517-204-4059</member>
-	</simplelist>
-	<simplelist>
+	  </simplelist>
+	  <simplelist>
 	  <member>Training and exercise manager - Carol Wolfinger -
 	  Office:517-636-0734, Mobile: 517-648-8598</member>
-	</simplelist>
-	<simplelist>
-	  <member>F/Lt. - Michael Johnson - Office:517-333-5048,
-	  Mobile:517-243-3232 (F/Lt. Johnson tends to serve in a
-	  variety of key roles, including Operations or Logistics
-	  Section Chief, State Director, JIC SEOC Liaison, JFO State
-	  Coordinating Officer and EMHSD Duty Officer)</member>
-	</simplelist>
-	<simplelist>
-	  <member>MI-CIMS administrator - Jaclyn Barcroft -
-	  Office:517-324-2385</member>
-	</simplelist>
-	<simplelist>
-	  <member>I/T assistance - Rich Law - Office:517-333-5027,
-	  Mobile:517-242-4044</member>
-	</simplelist>
-	<simplelist>
-	  <member>MSP Facilities - Communications - Don Bouffard -
-	  Office:517-333-5026, Mobile: 517-643-6251</member>
-	</simplelist>
-      </para>
-    </section>
+	  </simplelist>
+      -->
+      <simplelist>
+	<member>F/Lt. - Gabe Covey -
+	Mobile: 517-927-5362</member>
+      </simplelist>
+      <simplelist>
+	<member>MI-CIMS administrator - Jaclyn Barcroft -
+	Desk: 517-284-3869</member>
+      </simplelist>
+      <simplelist>
+	<member>I/T assistance - Rich Law - Office:517-333-5027,
+	Mobile:517-242-4044</member>
+      </simplelist>
+      <simplelist>
+	<member>MSP Facilities - Communications - Don Bouffard -
+	Mobile: 517-643-6251</member>
+      </simplelist>
+    </para>
+  </section>
 
-    <section>
+  <!--
+      <section>
       <title>Phone numbers for SEOC desks</title>
+      <important>
+      <title>Stuff changes</title>
+      <para>
+      The following are out of date (for now)
+      </para>
+      </important>
       <table frame="all" id="tbl-SEOCdesks">
-        <title>Desks in the SEOC</title>
-        <tgroup cols="2">
-          <colspec colnum="1" colname="c1" colwidth="4*" />
-          <colspec colnum="2" colname="c2" colwidth="1*" />
-          <thead>
-            <row>
-              <entry>Desk</entry>
-              <entry>Number</entry>
-            </row>
-          </thead>
-          <tbody>
-            <row>
-              <entry>Agriculture and Rural Development</entry>
-              <entry>517-324-2346</entry>
-            </row>
-            <row>
-              <entry>Agriculture and Rural Development</entry>
-              <entry>517-336-2647</entry>
-            </row>
-            <row>
-              <entry>Attorney General</entry>
-              <entry>517-324-2333</entry>
-            </row>
-            <row>
-              <entry>Auxiliary Communications</entry>
-              <entry>517-324-2306</entry>
-            </row>
-            <row>
-              <entry>Budget</entry>
-              <entry>517-324-2341</entry>
-            </row>
-            <row>
-              <entry>Civil Rights</entry>
-              <entry>517-324-2313</entry>
-            </row>
-            <row>
-              <entry>Civil Service</entry>
-              <entry>517-324-2312</entry>
-            </row>
-            <row>
-              <entry>Community Health</entry>
-              <entry>517-324-2326</entry>
-            </row>
-            <row>
-              <entry>Community Health</entry>
-              <entry>517-324-2399</entry>
-            </row>
-            <row>
-              <entry>Corrections</entry>
-              <entry>517-324-2329</entry>
-            </row>
-            <row>
-              <entry>Corrections</entry>
-              <entry>517-324-2331</entry>
-            </row>
-            <row>
-              <entry>Education</entry>
-              <entry>517-324-2342</entry>
-            </row>
-            <row>
-              <entry>Environmental Quality</entry>
-              <entry>517-336-2676</entry>
-            </row>
-            <row>
-              <entry>Environmental Quality</entry>
-              <entry>517-336-2699</entry>
-            </row>
-            <row>
-              <entry>Federal Liaison</entry>
-              <entry>517-324-2315</entry>
-            </row>
-            <row>
-              <entry>Fire Marshall</entry>
-              <entry>517-324-2350</entry>
-            </row>
-            <row>
-              <entry>Governor</entry>
-              <entry>517-324-2332</entry>
-            </row>
-            <row>
-              <entry>Health Physicist</entry>
-              <entry>517-336-2671</entry>
-            </row>
-            <row>
-              <entry>Human Services</entry>
-              <entry>517-324-2337</entry>
-            </row>
-            <row>
-              <entry>Licensing and Regulatory Affairs</entry>
-              <entry>517-324-2334</entry>
-            </row>
-            <row>
-              <entry>Licensing and Regulatory Affairs</entry>
-              <entry>517-324-2335</entry>
-            </row>
-            <row>
-              <entry>Military and Veteran Affairs</entry>
-              <entry>517-333-4633</entry>
-            </row>
-            <row>
-              <entry>Military and Veteran Affairs</entry>
-              <entry>517-336-2696</entry>
-            </row>
-            <row>
-              <entry>Natural Resources</entry>
-              <entry>517-324-2309</entry>
-            </row>
-            <row>
-              <entry>Natural Resources</entry>
-              <entry>517-336-2695</entry>
-            </row>
-            <row>
-              <entry>NOAA</entry>
-              <entry>517-324-2344</entry>
-            </row>
-            <row>
-              <entry>RACES</entry>
-              <entry>517-324-2305</entry>
-            </row>
-            <row>
-              <entry>Red Cross</entry>
-              <entry>517-324-2339</entry>
-            </row>
-            <row>
-              <entry>Secretary of State</entry>
-              <entry>517-324-2340</entry>
-            </row>
-            <row>
-              <entry>Services to the Aging</entry>
-              <entry>517-324-2338</entry>
-            </row>
-            <row>
-              <entry>State Police</entry>
-              <entry>517-324-2318</entry>
-            </row>
-            <row>
-              <entry>State Police</entry>
-              <entry>517-324-2319</entry>
-            </row>
-            <row>
-              <entry>Supreme Court</entry>
-              <entry>517-324-2351</entry>
-            </row>
-            <row>
-              <entry>Technology Management and Budget</entry>
-              <entry>517-324-2316</entry>
-            </row>
-            <row>
-              <entry>Technology Management and Budget</entry>
-              <entry>517-324-2317</entry>
-            </row>
-            <row>
-              <entry>Technology Management and Budget</entry>
-              <entry>517-324-2336</entry>
-            </row>
-            <row>
-              <entry>Transportation</entry>
-              <entry>517-324-2310</entry>
-            </row>
-            <row>
-              <entry>Transportation</entry>
-              <entry>517-324-2311</entry>
-            </row>
-            <row>
-              <entry>Treasury</entry>
-              <entry>517-324-2343</entry>
-            </row>
-            <row>
-              <entry>Utility Liaison</entry>
-              <entry>517-336-2694</entry>
-            </row>
-          </tbody>
-        </tgroup>
+      <title>Desks in the SEOC</title>
+      <tgroup cols="2">
+      <colspec colnum="1" colname="c1" colwidth="4*" />
+      <colspec colnum="2" colname="c2" colwidth="1*" />
+      <thead>
+      <row>
+      <entry>Desk</entry>
+      <entry>Number</entry>
+      </row>
+      </thead>
+      <tbody>
+      <row>
+      <entry>Agriculture and Rural Development</entry>
+      <entry>517-324-2346</entry>
+      </row>
+      <row>
+      <entry>Agriculture and Rural Development</entry>
+      <entry>517-336-2647</entry>
+      </row>
+      <row>
+      <entry>Attorney General</entry>
+      <entry>517-324-2333</entry>
+      </row>
+      <row>
+      <entry>Auxiliary Communications</entry>
+      <entry>517-324-2306</entry>
+      </row>
+      <row>
+      <entry>Budget</entry>
+      <entry>517-324-2341</entry>
+      </row>
+      <row>
+      <entry>Civil Rights</entry>
+      <entry>517-324-2313</entry>
+      </row>
+      <row>
+      <entry>Civil Service</entry>
+      <entry>517-324-2312</entry>
+      </row>
+      <row>
+      <entry>Community Health</entry>
+      <entry>517-324-2326</entry>
+      </row>
+      <row>
+      <entry>Community Health</entry>
+      <entry>517-324-2399</entry>
+      </row>
+      <row>
+      <entry>Corrections</entry>
+      <entry>517-324-2329</entry>
+      </row>
+      <row>
+      <entry>Corrections</entry>
+      <entry>517-324-2331</entry>
+      </row>
+      <row>
+      <entry>Education</entry>
+      <entry>517-324-2342</entry>
+      </row>
+      <row>
+      <entry>Environmental Quality</entry>
+      <entry>517-336-2676</entry>
+      </row>
+      <row>
+      <entry>Environmental Quality</entry>
+      <entry>517-336-2699</entry>
+      </row>
+      <row>
+      <entry>Federal Liaison</entry>
+      <entry>517-324-2315</entry>
+      </row>
+      <row>
+      <entry>Fire Marshall</entry>
+      <entry>517-324-2350</entry>
+      </row>
+      <row>
+      <entry>Governor</entry>
+      <entry>517-324-2332</entry>
+      </row>
+      <row>
+      <entry>Health Physicist</entry>
+      <entry>517-336-2671</entry>
+      </row>
+      <row>
+      <entry>Human Services</entry>
+      <entry>517-324-2337</entry>
+      </row>
+      <row>
+      <entry>Licensing and Regulatory Affairs</entry>
+      <entry>517-324-2334</entry>
+      </row>
+      <row>
+      <entry>Licensing and Regulatory Affairs</entry>
+      <entry>517-324-2335</entry>
+      </row>
+      <row>
+      <entry>Military and Veteran Affairs</entry>
+      <entry>517-333-4633</entry>
+      </row>
+      <row>
+      <entry>Military and Veteran Affairs</entry>
+      <entry>517-336-2696</entry>
+      </row>
+      <row>
+      <entry>Natural Resources</entry>
+      <entry>517-324-2309</entry>
+      </row>
+      <row>
+      <entry>Natural Resources</entry>
+      <entry>517-336-2695</entry>
+      </row>
+      <row>
+      <entry>NOAA</entry>
+      <entry>517-324-2344</entry>
+      </row>
+      <row>
+      <entry>RACES</entry>
+      <entry>517-324-2305</entry>
+      </row>
+      <row>
+      <entry>Red Cross</entry>
+      <entry>517-324-2339</entry>
+      </row>
+      <row>
+      <entry>Secretary of State</entry>
+      <entry>517-324-2340</entry>
+      </row>
+      <row>
+      <entry>Services to the Aging</entry>
+      <entry>517-324-2338</entry>
+      </row>
+      <row>
+      <entry>State Police</entry>
+      <entry>517-324-2318</entry>
+      </row>
+      <row>
+      <entry>State Police</entry>
+      <entry>517-324-2319</entry>
+      </row>
+      <row>
+      <entry>Supreme Court</entry>
+      <entry>517-324-2351</entry>
+      </row>
+      <row>
+      <entry>Technology Management and Budget</entry>
+      <entry>517-324-2316</entry>
+      </row>
+      <row>
+      <entry>Technology Management and Budget</entry>
+      <entry>517-324-2317</entry>
+      </row>
+      <row>
+      <entry>Technology Management and Budget</entry>
+      <entry>517-324-2336</entry>
+      </row>
+      <row>
+      <entry>Transportation</entry>
+      <entry>517-324-2310</entry>
+      </row>
+      <row>
+      <entry>Transportation</entry>
+      <entry>517-324-2311</entry>
+      </row>
+      <row>
+      <entry>Treasury</entry>
+      <entry>517-324-2343</entry>
+      </row>
+      <row>
+      <entry>Utility Liaison</entry>
+      <entry>517-336-2694</entry>
+      </row>
+      </tbody>
+      </tgroup>
       </table>
-    </section>
+      </section>
+  -->
 
-
-    <section>
+  <!--
+      <section>
       <title>SEOC Support Phone Numbers</title>
+      <important>
+      <title>Stuff changes</title>
+      <para>
+      The following are out of date (for now)
+      </para>
+      </important>
       <table frame="all" id="tbl-SEOCsupNums">
-        <title>Support positions in the SEOC</title>
-        <tgroup cols="2">
-          <colspec colnum="1" colname="c1" colwidth="4*" />
-          <colspec colnum="2" colname="c2" colwidth="1*" />
-          <thead>
-            <row>
-              <entry>Support Position</entry>
-              <entry>Number</entry>
-            </row>
-          </thead>
-          <tbody>
-            <row>
-              <entry>800MHz Console</entry>
-              <entry>517-324-2357</entry>
-            </row>
-            <row>
-              <entry>Administrative Support Staff</entry>
-              <entry>517-324-2314</entry>
-            </row>
-            <row>
-              <entry>Emergency Management Assistance Compact (EMAC)</entry>
-              <entry>517-333-4895</entry>
-            </row>
-            <row>
-              <entry>Emergency Response Data System (ERDS)</entry>
-              <entry>517-336-2675</entry>
-            </row>
-            <row>
-              <entry>Financial Group Chief</entry>
-              <entry>517-324-2308</entry>
-            </row>
-            <row>
-              <entry>Geographical Information Systems</entry>
-              <entry>517-324-2345</entry>
-            </row>
-            <row>
-              <entry>Geographical Information Systems</entry>
-              <entry>517-336-2026</entry>
-            </row>
-            <row>
-              <entry>Hotline</entry>
-              <entry>517-321-2321</entry>
-            </row>
-            <row>
-              <entry>Hotline</entry>
-              <entry>517-324-2320</entry>
-            </row>
-            <row>
-              <entry>Hotline</entry>
-              <entry>517-324-2322</entry>
-            </row>
-            <row>
-              <entry>Hotline</entry>
-              <entry>517-336-2688</entry>
-            </row>
-            <row>
-              <entry>IT Support Staff</entry>
-              <entry>517-324-2348</entry>
-            </row>
-            <row>
-              <entry>IT Support Staff</entry>
-              <entry>517-324-2349</entry>
-            </row>
-            <row>
-              <entry>Law Enforcement Information Network (LEIN)</entry>
-              <entry>517-336-2674</entry>
-            </row>
-            <row>
-              <entry>Logistics Group Chief</entry>
-              <entry>517-324-2337</entry>
-            </row>
-            <row>
-              <entry>Logistics Group Chief</entry>
-              <entry>517-336-7767</entry>
-            </row>
-            <row>
-              <entry>Message Controller</entry>
-              <entry>517-336-2670</entry>
-            </row>
-            <row>
-              <entry>Message Recorder</entry>
-              <entry>517-336-2669</entry>
-            </row>
-            <row>
-              <entry>Michigan Intelligence Operations Center</entry>
-              <entry>517-333-4985</entry>
-            </row>
-            <row>
-              <entry>Michigan Intelligence Operations Center</entry>
-              <entry>517-333-5007</entry>
-            </row>
-            <row>
-              <entry>Military Auxiliary Radio Service Station</entry>
-              <entry>517-336-3984</entry>
-            </row>
-            <row>
-              <entry>Operations Group Chief</entry>
-              <entry>517-324-2328</entry>
-            </row>
-            <row>
-              <entry>Operations Group Chief</entry>
-              <entry>517-333-7766</entry>
-            </row>
-            <row>
-              <entry>Planning Group Chief</entry>
-              <entry>517-324-2307</entry>
-            </row>
-            <row>
-              <entry>Planning Staff</entry>
-              <entry>517-324-2301</entry>
-            </row>
-            <row>
-              <entry>Planning Staff</entry>
-              <entry>517-324-2301</entry>
-            </row>
-            <row>
-              <entry>Public Information Officer</entry>
-              <entry>517-324-2303</entry>
-            </row>
-            <row>
-              <entry>Public Information Officer</entry>
-              <entry>517-324-2304</entry>
-            </row>
-            <row>
-              <entry>Radio Amateur Civil Emergency Service (RACES) Station</entry>
-              <entry>517-324-2381</entry>
-            </row>
-            <row>
-              <entry>State Director</entry>
-              <entry>517-324-2323</entry>
-            </row>
-            <row>
-              <entry>State Director</entry>
-              <entry>517-324-2324</entry>
-            </row>
-            <row>
-              <entry>Technical Support Group</entry>
-              <entry>517-336-2675</entry>
-            </row>
-            <row>
-              <entry>Technical Support Group</entry>
-              <entry>517-336-2698</entry>
-            </row>
-          </tbody>
-        </tgroup>
+      <title>Support positions in the SEOC</title>
+      <tgroup cols="2">
+      <colspec colnum="1" colname="c1" colwidth="4*" />
+      <colspec colnum="2" colname="c2" colwidth="1*" />
+      <thead>
+      <row>
+      <entry>Support Position</entry>
+      <entry>Number</entry>
+      </row>
+      </thead>
+      <tbody>
+      <row>
+      <entry>800MHz Console</entry>
+      <entry>517-324-2357</entry>
+      </row>
+      <row>
+      <entry>Administrative Support Staff</entry>
+      <entry>517-324-2314</entry>
+      </row>
+      <row>
+      <entry>Emergency Management Assistance Compact (EMAC)</entry>
+      <entry>517-333-4895</entry>
+      </row>
+      <row>
+      <entry>Emergency Response Data System (ERDS)</entry>
+      <entry>517-336-2675</entry>
+      </row>
+      <row>
+      <entry>Financial Group Chief</entry>
+      <entry>517-324-2308</entry>
+      </row>
+      <row>
+      <entry>Geographical Information Systems</entry>
+      <entry>517-324-2345</entry>
+      </row>
+      <row>
+      <entry>Geographical Information Systems</entry>
+      <entry>517-336-2026</entry>
+      </row>
+      <row>
+      <entry>Hotline</entry>
+      <entry>517-321-2321</entry>
+      </row>
+      <row>
+      <entry>Hotline</entry>
+      <entry>517-324-2320</entry>
+      </row>
+      <row>
+      <entry>Hotline</entry>
+      <entry>517-324-2322</entry>
+      </row>
+      <row>
+      <entry>Hotline</entry>
+      <entry>517-336-2688</entry>
+      </row>
+      <row>
+      <entry>IT Support Staff</entry>
+      <entry>517-324-2348</entry>
+      </row>
+      <row>
+      <entry>IT Support Staff</entry>
+      <entry>517-324-2349</entry>
+      </row>
+      <row>
+      <entry>Law Enforcement Information Network (LEIN)</entry>
+      <entry>517-336-2674</entry>
+      </row>
+      <row>
+      <entry>Logistics Group Chief</entry>
+      <entry>517-324-2337</entry>
+      </row>
+      <row>
+      <entry>Logistics Group Chief</entry>
+      <entry>517-336-7767</entry>
+      </row>
+      <row>
+      <entry>Message Controller</entry>
+      <entry>517-336-2670</entry>
+      </row>
+      <row>
+      <entry>Message Recorder</entry>
+      <entry>517-336-2669</entry>
+      </row>
+      <row>
+      <entry>Michigan Intelligence Operations Center</entry>
+      <entry>517-333-4985</entry>
+      </row>
+      <row>
+      <entry>Michigan Intelligence Operations Center</entry>
+      <entry>517-333-5007</entry>
+      </row>
+      <row>
+      <entry>Military Auxiliary Radio Service Station</entry>
+      <entry>517-336-3984</entry>
+      </row>
+      <row>
+      <entry>Operations Group Chief</entry>
+      <entry>517-324-2328</entry>
+      </row>
+      <row>
+      <entry>Operations Group Chief</entry>
+      <entry>517-333-7766</entry>
+      </row>
+      <row>
+      <entry>Planning Group Chief</entry>
+      <entry>517-324-2307</entry>
+      </row>
+      <row>
+      <entry>Planning Staff</entry>
+      <entry>517-324-2301</entry>
+      </row>
+      <row>
+      <entry>Planning Staff</entry>
+      <entry>517-324-2301</entry>
+      </row>
+      <row>
+      <entry>Public Information Officer</entry>
+      <entry>517-324-2303</entry>
+      </row>
+      <row>
+      <entry>Public Information Officer</entry>
+      <entry>517-324-2304</entry>
+      </row>
+      <row>
+      <entry>Radio Amateur Civil Emergency Service (RACES) Station</entry>
+      <entry>517-324-2381</entry>
+      </row>
+      <row>
+      <entry>State Director</entry>
+      <entry>517-324-2323</entry>
+      </row>
+      <row>
+      <entry>State Director</entry>
+      <entry>517-324-2324</entry>
+      </row>
+      <row>
+      <entry>Technical Support Group</entry>
+      <entry>517-336-2675</entry>
+      </row>
+      <row>
+      <entry>Technical Support Group</entry>
+      <entry>517-336-2698</entry>
+      </row>
+      </tbody>
+      </tgroup>
       </table>
-    </section>
+      </section>
+  -->
 
-  </appendix>
+</appendix>
