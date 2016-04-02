@@ -350,6 +350,339 @@
     </table>
 
 
+    <table frame="all" id="tbl-SEOCstaffNumsFIN">
+      <title>Finance Section</title>
+      <tgroup cols="3">
+	<colspec colnum="1" colname="c1" colwidth="3*" />
+	<colspec colnum="2" colname="c2" colwidth="1*" />
+	<colspec colnum="3" colname="c3" colwidth="3*" />
+	<thead>
+          <row>
+            <entry>Finance Section</entry>
+            <entry>Phone</entry>
+	    <entry>Email Address</entry>
+          </row>
+	</thead>
+	<tbody>
+	    
+	  <row>
+	    <entry morerows="1">Financial Section Chief</entry>
+	    <entry>517-284-3895</entry>
+	    <entry morerows="1">MSP-SEOCfcg@michigan.gov@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3660</entry>
+	  </row>
+
+	</tbody>
+      </tgroup>
+    </table>
+
+
+    <table frame="all" id="tbl-SEOCstaffNumsOTH">
+      <title>Others</title>
+      <tgroup cols="3">
+	<colspec colnum="1" colname="c1" colwidth="3*" />
+	<colspec colnum="2" colname="c2" colwidth="1*" />
+	<colspec colnum="3" colname="c3" colwidth="3*" />
+	<thead>
+          <row>
+            <entry>Other</entry>
+            <entry>Phone</entry>
+	    <entry>Email Address</entry>
+          </row>
+	</thead>
+	<tbody>
+	    
+	  <row>
+	    <entry>SEOC Fax</entry>
+	    <entry>517-284-3859</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	    
+	  <row>
+	    <entry morerows="1">JIC Media Hotline</entry>
+	    <entry>888-363-8632</entry>
+	    <entry morerows="1">&nbsp;</entry>
+	  </row>
+	  <row>
+	    <entry>888-EMD-TODAY</entry>
+	  </row>
+	    
+	  <row>
+	    <entry>SEOC Security Desk Entrance</entry>
+	    <entry>517-284-3814</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	    
+	  <row>
+	    <entry>SEOC Kitchen</entry>
+	    <entry>517-284-3673</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry morerows="8">SEOC Subject Matter Experts</entry>
+	    <entry>517-284-3695</entry>
+	    <entry morerows="8">&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>527-284-3878</entry>
+	  </row>
+
+	  <row>
+	    <entry>527-284-3877</entry>
+	  </row>
+
+	  <row>
+	    <entry>527-284-3876</entry>
+	  </row>
+
+	  <row>
+	    <entry>527-284-3685</entry>
+	  </row>
+
+	  <row>
+	    <entry>527-284-3684</entry>
+	  </row>
+
+	  <row>
+	    <entry>527-284-3683</entry>
+	  </row>
+
+	  <row>
+	    <entry>527-284-3661</entry>
+	  </row>
+
+	  <row>
+	    <entry>527-284-3657</entry>
+	  </row>
+
+	</tbody>
+      </tgroup>
+    </table>
+
+
+    <table frame="all" id="tbl-SEOCstaffNumsAge">
+      <title>Agency</title>
+      <tgroup cols="3">
+	<colspec colnum="1" colname="c1" colwidth="3*" />
+	<colspec colnum="2" colname="c2" colwidth="1*" />
+	<colspec colnum="3" colname="c3" colwidth="3*" />
+	<thead>
+          <row>
+            <entry>Agency</entry>
+            <entry>Phone</entry>
+	    <entry>Email Address</entry>
+          </row>
+	</thead>
+	<tbody>
+
+	  <row>
+	    <entry>Agency and Adult Services</entry>
+	    <entry>517-284-3911</entry>
+	    <entry>MSP-EOC-mdaging@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry morerows="1">Agriculture and Rural Development</entry>
+	    <entry>517-284-3936</entry>
+	    <entry morerows="1">MSP-EOC-mdard@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3689</entry>
+	  </row>
+
+	  <row>
+	    <entry>American Red Cross</entry>
+	    <entry>517-284-3935</entry>
+	    <entry>MSP-SEOC_ARC@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>Attorney General</entry>
+	    <entry>517-284-3934</entry>
+	    <entry>MSP-EOC-mdatgen@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>Budget</entry>
+	    <entry>517-284-3662</entry>
+	    <entry>MOBudget@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>Civil Rights</entry>
+	    <entry>517-284-3929</entry>
+	    <entry>MSP-EOC-mdcivilr@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>Civil Service</entry>
+	    <entry>517-284-3928</entry>
+	    <entry>MSP-EOC-mdcivser@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>Community Health - Health &amp; Human Services (MDHHS)</entry>
+	    <entry>517-284-3927</entry>
+	    <entry>MSP-EOC-mdch@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry morerows="1">Corrections</entry>
+	    <entry>517-284-3926</entry>
+	    <entry morerows="1">MSP-EOC-mdcortns@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3694</entry>
+	  </row>
+
+	  <row>
+	    <entry>Talent &amp; Economic Development (TED)</entry>
+	    <entry>517-284-3930</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>Education</entry>
+	    <entry>517-284-3925</entry>
+	    <entry>MSP-EOC-mdeductn@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>Office of Energy Assurance</entry>
+	    <entry>517-284-3663</entry>
+	    <entry>&nbsp;</entry>
+	  </row>	
+
+	  <row>
+	    <entry morerows="1">Environmental Quality</entry>
+	    <entry>517-284-3924</entry>
+	    <entry morerows="1">MSP-EOC-mdeq@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3695</entry>
+	  </row>
+
+	  <row>
+	    <entry>Health &amp; Human Services (MDHHS) - Suman Services</entry>
+	    <entry>517-284-3920</entry>
+	    <entry>MSP-EOC-mdhs@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>Insurance and Financial Services</entry>
+	    <entry>517-284-3919</entry>
+	    <entry>MSP-EOC-MDIFS@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>Licensing and Regulatory Affairs</entry>
+	    <entry>517-284-3918</entry>
+	    <entry>MSP-EOC-MDLARA@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry morerows="1">Technology Management and Budget</entry>
+	    <entry>517-284-3906</entry>
+	    <entry morerows="1">MSP-EOC-MDTMB@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3905</entry>
+	  </row>
+
+	  <row>
+	    <entry morerows="1">Michigan Intelligence Operations
+	    Center (MIOC)</entry>
+	    <entry>517-284-3915</entry>
+	    <entry morerows="1">MSP-seocmioc@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3692</entry>
+	  </row>
+
+	  <row>
+	    <entry>Michigan Supreme Court</entry>
+	    <entry>517-284-3916</entry>
+	    <entry>MSP-seoc_judiciary@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>Michigan Voluntary Organizations Active in Disaster
+	    (MIVOAD)</entry>
+	    <entry>517-284-3659</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>SEOC Voluntary Agency Liaison</entry>
+	    <entry>517-284-3658</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry morerows="1">Military and Veteran Affairs</entry>
+	    <entry>517-284-3914</entry>
+	    <entry morerows="1">MSP-EOC-mdmva@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3693</entry>
+	  </row>
+
+	  <row>
+	    <entry morerows="1">Natural Resources</entry>
+	    <entry>517-284-3913</entry>
+	    <entry morerows="1">MSP-EOC-mdnr@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3728</entry>
+	  </row>
+
+	  <row>
+	    <entry>Secretary of State</entry>
+	    <entry>517-284-3910</entry>
+	    <entry>MSP-EOC-mdstate@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry>State Fire Marshall</entry>
+	    <entry>517-284-3909</entry>
+	    <entry>firemarshallseoc@michigan.gov</entry>
+	  </row>
+
+	  <row>
+	    <entry morerows="1">State Police</entry>
+	    <entry>517-284-3908</entry>
+	    <entry morerows="1">MSP-EOC-mdsp@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3691</entry>
+	  </row>
+
+	  <row>
+	    <entry morerows="1">Transportation</entry>
+	    <entry>517-284-3904</entry>
+	    <entry morerows="1">MSP-EOC-mdot@michigan.gov</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3690</entry>
+	  </row>
+
+	  <row>
+	    <entry>Treasury</entry>
+	    <entry>517-284-3903</entry>
+	    <entry>MSP-EOC-mdtreas@michigan.gov</entry>
+	  </row>
+	  
+    
+
+	</tbody>
+      </tgroup>
+    </table>
+
+
 <!--
   </section>
 -->
