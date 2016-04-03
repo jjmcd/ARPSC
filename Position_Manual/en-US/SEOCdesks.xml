@@ -682,7 +682,191 @@
       </tgroup>
     </table>
 
+    <table frame="all" id="tbl-SEOCstaffNumsCon">
+      <title>SEOC Conference Rooms</title>
+      <tgroup cols="3">
+	<colspec colnum="1" colname="c1" colwidth="3*" />
+	<colspec colnum="2" colname="c2" colwidth="1*" />
+	<colspec colnum="3" colname="c3" colwidth="3*" />
+	<thead>
+          <row>
+            <entry>SEOC Conference Rooms</entry>
+            <entry>Phone</entry>
+	    <entry>&nbsp;</entry>
+          </row>
+	</thead>
+	<tbody>
+	  <row>
+	    <entry morerows="7" valign="middle">SEOC Conference Room</entry>
+	    <entry>517-284-3672</entry>
+	    <entry morerows="7">&nbsp;</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3672</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3671</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3670</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3669</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3668</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3667</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3813</entry>
+	  </row>
 
+	  <row>
+	    <entry morerows="2" valign="middle">Governor's Conference
+	    Room A</entry>
+	    <entry>517-284-3811</entry>
+	    <entry morerows="2">&nbsp;</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3665</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3743</entry>
+	  </row>
+	  
+	  <row>
+	    <entry morerows="2" valign="middle">Governor's Conference
+	    Room B</entry>
+	    <entry>517-284-3812</entry>
+	    <entry morerows="2">&nbsp;</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3664</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3742</entry>
+	  </row>
+	  
+	  <row>
+	    <entry morerows="7" valign="middle">MSP Emergency
+	    Coordination Center</entry>
+	    <entry>517-284-3680</entry>
+	    <entry morerows="7">&nbsp;</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3679</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3678</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3677</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3676</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3675</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3674</entry>
+	  </row>
+	  <row>
+	    <entry>517-284-3815</entry>
+	  </row>
+    
+	</tbody>
+      </tgroup>
+    </table>
+
+
+    <table frame="all" id="tbl-SEOCstaffNumsFed">
+      <title>SEOC Federal Agencies Phone List</title>
+      <tgroup cols="3">
+	<colspec colnum="1" colname="c1" colwidth="3*" />
+	<colspec colnum="2" colname="c2" colwidth="1*" />
+	<colspec colnum="3" colname="c3" colwidth="3*" />
+	<thead>
+          <row>
+            <entry>SEOC Federal Agencies Phone List</entry>
+            <entry>Phone</entry>
+	    <entry>&nbsp;</entry>
+          </row>
+	</thead>
+	<tbody>
+	  <row>
+	    <entry>Federal Emergency Management Agency (FEMA) 24/7
+	    Department of Homeland Security (DHS) 24/7</entry>
+	    <entry>312-408-5500</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+	  <row>
+	    <entry>Department of Energy (DOE) 24/7</entry>
+	    <entry>202-586-8100</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	</tbody>
+      </tgroup>
+    </table>
+
+
+
+    <table frame="all" id="tbl-SEOCstaffNumsSat">
+      <title>EMHSD Satellite Phone Numbers</title>
+      <tgroup cols="3">
+	<colspec colnum="1" colname="c1" colwidth="3*" />
+	<colspec colnum="2" colname="c2" colwidth="1*" />
+	<colspec colnum="3" colname="c3" colwidth="3*" />
+	<thead>
+          <row>
+            <entry align="center" namest="c1" nameend="c3">EMHSD
+            Satellite Phone Numbers (Use only when cell and landlines
+            are not operational)</entry>
+	  </row>
+	</thead>
+	<tbody>
+	  <row>
+	    <entry>Special Operations Division</entry>
+	    <entry>254-240-1123</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>EMHSD</entry>
+	    <entry>245-377-9693</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>EMHSD Capt. Kelenske</entry>
+	    <entry>863-833-3411</entry>
+	    <entry>&nbsp;</entry>
+	  </row>
+
+	  <row>
+	    <entry>EMHSD/REP SEOC</entry>
+	    <entry namest="c2" nameend="c3">011-88163-146-8684</entry>
+	  </row>
+
+	  <row>
+	    <entry>EMHSD/REP ASEOC/EMHSDTC</entry>
+	    <entry namest="c2" nameend="c3">011-88163-146-8640</entry>
+	  </row>
+
+	  <row>
+	    <entry>EMHSD/REP Operations Desk</entry>
+	    <entry namest="c2" nameend="c3">011-88163-146-8115</entry>
+	  </row>
+
+
+
+	</tbody>
+      </tgroup>
+    </table>
+	    
 <!--
   </section>
 -->
